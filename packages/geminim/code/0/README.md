@@ -1,0 +1,67 @@
+* GemiNim
+
+GemiNim is a simple Nim server for the [[https://gemini.circumlunar.space/][Gemini]] protocol.
+
+[[gemini://gemi.nim.town]]
+
+
+[[https://gemi.nim.town/index.gemini]]
+
+** Features
++ Fast
++ Simple
++ Domain-based vhosting
++ CGI
++ Per-user directories
++ Directory listing
++ Support for uploading files via Titan
++ Client-side authentication with authority files (see below)
+
+** Authority files
+*This implementation is experimental and subject to change!*
+GemiNim supports restricting access to configured resources using a system
+similar to ssh authorization files.
+
+First, restricted zones are configured in GemiNim's configuration file as follows:
+#+BEGIN_EXAMPLE
+[localhost.localdomain/restrictedZones]
+/path/to/resource: "path/to/authority_file"
+#+END_EXAMPLE
+Afterwards, GemiNim will restrict access to the configured paths by first requiring a certificate
+if one is not provided, then verifying if the provided certificate is authorised as per the
+declared authority file.
+
+The syntax for an authority file is as follow:
+#+BEGIN_EXAMPLE
+# Comment line
+<digest_type>:<digest>
+...
+#+END_EXAMPLE
+Where <digest_type> is one of:
++ md5
++ sha1
++ sha256
++ sha512
+
+And <digest> is the hash of the certificate to be authorised. The certificate must be hashed from it's
+DER format.
+For example, to obtain the SHA256 of a certificate:
+#+BEGIN_EXAMPLE sh
+openssl x509 -in certs/cert.pem -outform der | openssl dgst -sha256
+#+END_EXAMPLE
+
+** Developing
+You can build GemiNim by running:
+#+BEGIN_EXAMPLE
+nimble build
+#+END_EXAMPLE
+
+I also provide a Nix package. To get into the build shell environment, just run:
+#+BEGIN_EXAMPLE
+nix-shell
+#+END_EXAMPLE
+
+** TODO Planned features [1/3]
+1. [X] Client certificate authentication (is implemented but highly experimental)
+2. [ ] HTTP(S) mirroring
+3. [ ] Reverse proxying support
