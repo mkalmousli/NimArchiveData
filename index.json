@@ -208,5 +208,12 @@
         "url": "https://github.com/bk20x/uleb128",
         "license": "MIT",
         "added_at": 1778101209
+    },
+    "sparc": {
+        "id": "sparc",
+        "type": "git",
+        "url": "https://github.com/ph4mished/sparc",
+        "license": "MIT",
+        "added_at": 1778101214
     }
 }
