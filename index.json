@@ -180,5 +180,12 @@
         "url": "https://github.com/ph4mished/morse",
         "license": "MIT",
         "added_at": 1778101068
+    },
+    "jobscheduler": {
+        "id": "jobscheduler",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-jobscheduler",
+        "license": "MIT",
+        "added_at": 1778101076
     }
 }
