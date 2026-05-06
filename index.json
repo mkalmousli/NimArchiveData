@@ -166,5 +166,12 @@
         "url": "https://github.com/capocasa/dmarcmaster",
         "license": "MIT",
         "added_at": 1778100461
+    },
+    "nimhuml": {
+        "id": "nimhuml",
+        "type": "git",
+        "url": "https://github.com/w3Abhishek/nimhuml",
+        "license": "MIT",
+        "added_at": 1778101042
     }
 }
