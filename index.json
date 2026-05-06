@@ -159,5 +159,12 @@
         "url": "https://github.com/akvilary/humanize",
         "license": "MIT",
         "added_at": 1778100345
+    },
+    "dmarcmaster": {
+        "id": "dmarcmaster",
+        "type": "git",
+        "url": "https://github.com/capocasa/dmarcmaster",
+        "license": "MIT",
+        "added_at": 1778100461
     }
 }
