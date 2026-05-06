@@ -131,5 +131,26 @@
         "url": "https://github.com/ph4mished/spectra",
         "license": "MIT",
         "added_at": 1778100342
+    },
+    "yaclap": {
+        "id": "yaclap",
+        "type": "git",
+        "url": "https://codeberg.org/emanresu3/yaclap",
+        "license": "MIT",
+        "added_at": 1778100343
+    },
+    "nim-compose": {
+        "id": "nim-compose",
+        "type": "git",
+        "url": "https://codeberg.org/emanresu3/nim-compose",
+        "license": "MIT",
+        "added_at": 1778100343
+    },
+    "vexhost": {
+        "id": "vexhost",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/vexhost",
+        "license": "MIT",
+        "added_at": 1778100343
     }
 }
