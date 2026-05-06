@@ -187,5 +187,12 @@
         "url": "https://github.com/YesDrX/nim-jobscheduler",
         "license": "MIT",
         "added_at": 1778101076
+    },
+    "subprocess": {
+        "id": "subprocess",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-subprocess",
+        "license": "MIT",
+        "added_at": 1778101087
     }
 }
