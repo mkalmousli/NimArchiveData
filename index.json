@@ -33,5 +33,40 @@
         "url": "https://github.com/akvilary/uniq",
         "license": "MIT",
         "added_at": 1778100332
+    },
+    "json2schema": {
+        "id": "json2schema",
+        "type": "git",
+        "url": "https://github.com/Luteva-ssh/json2schema",
+        "license": "MIT",
+        "added_at": 1778100333
+    },
+    "proven": {
+        "id": "proven",
+        "type": "git",
+        "url": "https://github.com/hyperpolymath/proven",
+        "license": "PMPL-1.0",
+        "added_at": 1778100333
+    },
+    "gpt4free": {
+        "id": "gpt4free",
+        "type": "git",
+        "url": "https://github.com/Monsler/gpt4free",
+        "license": "MIT",
+        "added_at": 1778100333
+    },
+    "commodore": {
+        "id": "commodore",
+        "type": "git",
+        "url": "https://github.com/ph4mished/commodore",
+        "license": "MIT",
+        "added_at": 1778100333
+    },
+    "caesar": {
+        "id": "caesar",
+        "type": "git",
+        "url": "https://github.com/ph4mished/caesar",
+        "license": "MIT",
+        "added_at": 1778100333
     }
 }
