@@ -173,5 +173,12 @@
         "url": "https://github.com/w3Abhishek/nimhuml",
         "license": "MIT",
         "added_at": 1778101042
+    },
+    "morse": {
+        "id": "morse",
+        "type": "git",
+        "url": "https://github.com/ph4mished/morse",
+        "license": "MIT",
+        "added_at": 1778101068
     }
 }
