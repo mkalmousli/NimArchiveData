@@ -96,5 +96,19 @@
         "url": "https://github.com/bk20x/Hashbrowns",
         "license": "MIT",
         "added_at": 1778100336
+    },
+    "nim_debugger_mi": {
+        "id": "nim_debugger_mi",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nimdebugger",
+        "license": "MIT",
+        "added_at": 1778100338
+    },
+    "nimodbclite": {
+        "id": "nimodbclite",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nimodbclite",
+        "license": "MIT",
+        "added_at": 1778100338
     }
 }
