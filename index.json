@@ -68,5 +68,19 @@
         "url": "https://github.com/ph4mished/caesar",
         "license": "MIT",
         "added_at": 1778100333
+    },
+    "tabulator": {
+        "id": "tabulator",
+        "type": "git",
+        "url": "https://github.com/erykjj/nim-tabulator",
+        "license": "MIT",
+        "added_at": 1778100335
+    },
+    "m": {
+        "id": "m",
+        "type": "git",
+        "url": "https://github.com/bk20x/M",
+        "license": "BSD-3-Clause",
+        "added_at": 1778100335
     }
 }
