@@ -82,5 +82,19 @@
         "url": "https://github.com/bk20x/M",
         "license": "BSD-3-Clause",
         "added_at": 1778100335
+    },
+    "treestand": {
+        "id": "treestand",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-treestand",
+        "license": "MIT",
+        "added_at": 1778100336
+    },
+    "hashbrowns": {
+        "id": "hashbrowns",
+        "type": "git",
+        "url": "https://github.com/bk20x/Hashbrowns",
+        "license": "MIT",
+        "added_at": 1778100336
     }
 }
