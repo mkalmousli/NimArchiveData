@@ -929,5 +929,12 @@
         "url": "https://github.com/watzon/github-api-nim",
         "license": "WTFPL",
         "added_at": 1778157917
+    },
+    "extensions": {
+        "id": "extensions",
+        "type": "git",
+        "url": "https://github.com/jyapayne/nim-extensions",
+        "license": "MIT",
+        "added_at": 1778157929
     }
 }
