@@ -971,5 +971,12 @@
         "url": "https://github.com/dom96/jester/",
         "license": "MIT",
         "added_at": 1778158021
+    },
+    "nanim": {
+        "id": "nanim",
+        "type": "git",
+        "url": "https://github.com/ErikWDev/nanim/",
+        "license": "MIT",
+        "added_at": 1778158092
     }
 }
