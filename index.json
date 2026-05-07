@@ -1062,5 +1062,12 @@
         "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
         "license": "MIT",
         "added_at": 1778158470
+    },
+    "chipmunk7_demos": {
+        "id": "chipmunk7_demos",
+        "type": "git",
+        "url": "https://github.com/matkuki/chipmunk7_demos/",
+        "license": "MIT",
+        "added_at": 1778158481
     }
 }
