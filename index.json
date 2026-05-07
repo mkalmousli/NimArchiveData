@@ -761,5 +761,12 @@
         "url": "https://github.com/IDF31/geminim",
         "license": "BSD-2",
         "added_at": 1778156640
+    },
+    "arturo": {
+        "id": "arturo",
+        "type": "git",
+        "url": "https://github.com/arturo-lang/arturo",
+        "license": "MIT",
+        "added_at": 1778156653
     }
 }
