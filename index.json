@@ -796,5 +796,12 @@
         "url": "https://github.com/stisa/jupyternim",
         "license": "MIT",
         "added_at": 1778157057
+    },
+    "randgen": {
+        "id": "randgen",
+        "type": "git",
+        "url": "https://github.com/YesDrX/randgen",
+        "license": "MIT",
+        "added_at": 1778157180
     }
 }
