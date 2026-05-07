@@ -964,5 +964,12 @@
         "url": "https://github.com/Araq/genieos/",
         "license": "MIT",
         "added_at": 1778157979
+    },
+    "jester": {
+        "id": "jester",
+        "type": "git",
+        "url": "https://github.com/dom96/jester/",
+        "license": "MIT",
+        "added_at": 1778158021
     }
 }
