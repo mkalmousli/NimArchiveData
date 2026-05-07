@@ -1076,5 +1076,12 @@
         "url": "https://github.com/johnnovak/nim-glfw",
         "license": "MIT",
         "added_at": 1778158492
+    },
+    "ao": {
+        "id": "ao",
+        "type": "git",
+        "url": "https://github.com/ephja/nim-ao",
+        "license": "MIT",
+        "added_at": 1778158607
     }
 }
