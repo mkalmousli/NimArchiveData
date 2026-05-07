@@ -1090,5 +1090,12 @@
         "url": "https://github.com/fowlmouth/nim-termbox",
         "license": "MIT",
         "added_at": 1778158616
+    },
+    "kwin": {
+        "id": "kwin",
+        "type": "git",
+        "url": "https://github.com/reactormonk/nim-kwin",
+        "license": "MIT",
+        "added_at": 1778158626
     }
 }
