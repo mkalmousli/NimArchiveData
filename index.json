@@ -1083,5 +1083,12 @@
         "url": "https://github.com/ephja/nim-ao",
         "license": "MIT",
         "added_at": 1778158607
+    },
+    "termbox": {
+        "id": "termbox",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nim-termbox",
+        "license": "MIT",
+        "added_at": 1778158616
     }
 }
