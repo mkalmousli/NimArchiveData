@@ -1104,5 +1104,12 @@
         "url": "https://github.com/dom96/nim-opencv",
         "license": "MIT",
         "added_at": 1778158636
+    },
+    "nimble": {
+        "id": "nimble",
+        "type": "git",
+        "url": "https://github.com/nim-lang/nimble",
+        "license": "BSD",
+        "added_at": 1778158647
     }
 }
