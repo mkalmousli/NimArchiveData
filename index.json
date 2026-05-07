@@ -1041,5 +1041,12 @@
         "url": "https://github.com/fowlmouth/nimlibs/",
         "license": "MIT",
         "added_at": 1778158374
+    },
+    "nake": {
+        "id": "nake",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nake/",
+        "license": "MIT",
+        "added_at": 1778158394
     }
 }
