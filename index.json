@@ -957,5 +957,12 @@
         "url": "https://github.com/Xe/argument_parser/",
         "license": "MIT",
         "added_at": 1778157968
+    },
+    "genieos": {
+        "id": "genieos",
+        "type": "git",
+        "url": "https://github.com/Araq/genieos/",
+        "license": "MIT",
+        "added_at": 1778157979
     }
 }
