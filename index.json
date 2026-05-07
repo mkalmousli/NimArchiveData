@@ -1006,5 +1006,12 @@
         "url": "https://github.com/Vladar4/nimgame/",
         "license": "MIT",
         "added_at": 1778158197
+    },
+    "nimgame2": {
+        "id": "nimgame2",
+        "type": "git",
+        "url": "https://github.com/Vladar4/nimgame2/",
+        "license": "MIT",
+        "added_at": 1778158223
     }
 }
