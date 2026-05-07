@@ -901,5 +901,12 @@
         "url": "https://github.com/mattaylor/whip",
         "license": "MIT",
         "added_at": 1778157806
+    },
+    "elvis": {
+        "id": "elvis",
+        "type": "git",
+        "url": "https://github.com/mattaylor/elvis",
+        "license": "MIT",
+        "added_at": 1778157853
     }
 }
