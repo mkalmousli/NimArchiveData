@@ -1020,5 +1020,12 @@
         "url": "https://github.com/fowlmouth/nimrod-sfml/",
         "license": "MIT",
         "added_at": 1778158343
+    },
+    "enet": {
+        "id": "enet",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-enet/",
+        "license": "MIT",
+        "added_at": 1778158354
     }
 }
