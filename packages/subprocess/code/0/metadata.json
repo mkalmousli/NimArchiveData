@@ -1,7 +1,8 @@
 {
-    "checksum": "6bdee74ade9163f93c5cb0ddf0706ff2bb25258b050d2656fac0a21d25ffca55",
+    "checksum": "0a4b72ed33484b61a00ff830737740fb11280c5f6fb76bf35143d7f404846c26",
     "commit": "4a8d79c61ce5d4474f08ecae8cccbc25d638316b",
-    "archived_at": 1778101088,
+    "archived_at": 1778153003,
+    "archive_name": "subprocess-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
