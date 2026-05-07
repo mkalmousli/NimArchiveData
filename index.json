@@ -866,5 +866,12 @@
         "url": "https://github.com/wltsmrz/nim_zstd",
         "license": "MIT",
         "added_at": 1778157642
+    },
+    "QuickJS4nim": {
+        "id": "QuickJS4nim",
+        "type": "git",
+        "url": "https://github.com/ImVexed/quickjs4nim",
+        "license": "MIT",
+        "added_at": 1778157760
     }
 }
