@@ -859,5 +859,12 @@
         "url": "https://github.com/wltsmrz/nimler",
         "license": "MIT",
         "added_at": 1778157564
+    },
+    "zstd": {
+        "id": "zstd",
+        "type": "git",
+        "url": "https://github.com/wltsmrz/nim_zstd",
+        "license": "MIT",
+        "added_at": 1778157642
     }
 }
