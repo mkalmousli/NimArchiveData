@@ -999,5 +999,12 @@
         "url": "https://github.com/Vladar4/libtcod_nim/",
         "license": "zlib",
         "added_at": 1778158134
+    },
+    "nimgame": {
+        "id": "nimgame",
+        "type": "git",
+        "url": "https://github.com/Vladar4/nimgame/",
+        "license": "MIT",
+        "added_at": 1778158197
     }
 }
