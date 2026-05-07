@@ -1069,5 +1069,12 @@
         "url": "https://github.com/matkuki/chipmunk7_demos/",
         "license": "MIT",
         "added_at": 1778158481
+    },
+    "glfw": {
+        "id": "glfw",
+        "type": "git",
+        "url": "https://github.com/johnnovak/nim-glfw",
+        "license": "MIT",
+        "added_at": 1778158492
     }
 }
