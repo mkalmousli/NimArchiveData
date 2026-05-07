@@ -817,5 +817,12 @@
         "url": "https://github.com/sergiotapia/filesize",
         "license": "MIT",
         "added_at": 1778157276
+    },
+    "argon2_bind": {
+        "id": "argon2_bind",
+        "type": "git",
+        "url": "https://github.com/D-Nice/argon2_bind",
+        "license": "Apache-2.0",
+        "added_at": 1778157287
     }
 }
