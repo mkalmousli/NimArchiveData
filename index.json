@@ -579,5 +579,12 @@
         "url": "https://github.com/geotre/testdiff",
         "license": "MIT",
         "added_at": 1778155897
+    },
+    "parlexgen": {
+        "id": "parlexgen",
+        "type": "git",
+        "url": "https://github.com/choltreppe/parlexgen",
+        "license": "MIT",
+        "added_at": 1778155908
     }
 }
