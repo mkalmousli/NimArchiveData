@@ -152,5 +152,12 @@
         "url": "https://github.com/YesDrX/nimodbclite",
         "license": "MIT",
         "added_at": 1778426498
+    },
+    "nimproto3": {
+        "id": "nimproto3",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nimproto3",
+        "license": "MIT",
+        "added_at": 1778426506
     }
 }
