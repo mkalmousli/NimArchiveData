@@ -208,5 +208,12 @@
         "url": "https://codeberg.org/emanresu3/nim-compose",
         "license": "MIT",
         "added_at": 1778426724
+    },
+    "vexhost": {
+        "id": "vexhost",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/vexhost",
+        "license": "MIT",
+        "added_at": 1778426737
     }
 }
