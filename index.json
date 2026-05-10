@@ -684,5 +684,12 @@
         "url": "https://github.com/vanyle/RangeQueriesNim",
         "license": "MIT",
         "added_at": 1778427863
+    },
+    "riff": {
+        "id": "riff",
+        "type": "git",
+        "url": "https://github.com/johnnovak/nim-riff",
+        "license": "WTFPL",
+        "added_at": 1778427867
     }
 }
