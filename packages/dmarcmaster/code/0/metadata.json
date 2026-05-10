@@ -1,7 +1,9 @@
 {
-    "checksum": "75397d1308c6f6ac1c6d7bc48006d2e44c2287142b791ce6a08745c71deb1415",
+    "checksum": "593699decd82624ef5b0f61721c351f0c8b13064dfc4d9752742e528d573831b",
     "commit": "6c085eb7197540b0eae3709450906de42a10be8a",
-    "archived_at": 1778152531,
+    "source_hash": "223afe5c00559c9f9889e1f5e3018bb780b992e8",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419422,
     "archive_name": "dmarcmaster-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
