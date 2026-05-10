@@ -1,7 +1,9 @@
 {
-    "checksum": "8c7f27109ff7eb7ed810e743c1c823513575ad347d9dc2753e8154b68e61c0f8",
+    "checksum": "e045380c1af434027d45539839eca99ed7e77b911dd9239122c2f9a8fe1c302f",
     "commit": "d087d07cb22b991abb09c3ed944946dbd07229f6",
-    "archived_at": 1778156030,
+    "source_hash": "bce02725cae6b79f458f137c684a3a07eda893f9",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421051,
     "archive_name": "passy-latest.tar.gz",
     "readme": "README.md"
 }
