@@ -1,7 +1,9 @@
 {
-    "checksum": "176d53275e68d5ccdabf9491d48b4b9c602de71ae0e2f9ee640aad8971256222",
+    "checksum": "bfe2d551f45b384a88b3710207a2d0a44e60e914be1c786e349f29ed764bbd8a",
     "commit": "3517517c9fa400b4cf4e3c9962197daae57be11d",
-    "archived_at": 1778154877,
+    "source_hash": "9f7bb600a14ad73bfae419d34869a995ec3c8a97",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420512,
     "archive_name": "worldtree-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
