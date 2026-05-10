@@ -1,7 +1,9 @@
 {
-    "checksum": "f4a9f72be0ebe0835f28bc91eaaddb2b436ee02d9249f586bb859fab6f97e4a2",
+    "checksum": "b6339dda0a3fee2b3fb68d3220c68d636058af096e5c0f9e473ce10de1010b9e",
     "commit": "34b782502b7bf1142cb58ab787ad3e08b661c54f",
-    "archived_at": 1778155617,
+    "source_hash": "548b7f76a6ff0fe71b88e60397330a04bae9ce21",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420872,
     "archive_name": "unibs-v0.1.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
