@@ -1,7 +1,9 @@
 {
-    "checksum": "73cd5d73aa9f329800675c96893a69e77bedacfccc92e580018e4d516a3fdaeb",
+    "checksum": "1d7295b75c157e77441d2888df46e865c00a131e9dee5f7155c956a26b2f4c99",
     "commit": "b5fbadf96ed29a32015c4f54ba123422205a5524",
-    "archived_at": 1778156518,
+    "source_hash": "b47010fee55b91bcb9bc068a6a1ddb060ff30051",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421269,
     "archive_name": "bionim-latest.tar.gz",
     "readme": "README.md"
 }
