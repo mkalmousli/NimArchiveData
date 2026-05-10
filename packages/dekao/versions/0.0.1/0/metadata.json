@@ -1,7 +1,9 @@
 {
-    "checksum": "d4f82364695ccd3b0c8fb95a47ea0601c8d20c4a2d4f9224b72deb5e98eba6b5",
+    "checksum": "211321a87b1c38d7009cdae6073a5c5ba79031e0a4ca2d138ba70810c4be3323",
     "commit": "ac52c3f804d43bd1297f301fcebc5b4b911eda3c",
-    "archived_at": 1778154685,
+    "source_hash": "3a4635bd8d415de1adb0155fe832b2822f9fbbdd",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420416,
     "archive_name": "dekao-0.0.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
