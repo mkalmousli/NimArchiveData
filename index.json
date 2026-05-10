@@ -75,5 +75,12 @@
         "url": "https://github.com/Monsler/gpt4free",
         "license": "MIT",
         "added_at": 1778444032
+    },
+    "commodore": {
+        "id": "commodore",
+        "type": "git",
+        "url": "https://github.com/ph4mished/commodore",
+        "license": "MIT",
+        "added_at": 1778444084
     }
 }
