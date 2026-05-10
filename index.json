@@ -236,5 +236,12 @@
         "url": "https://github.com/bctnry/tejina",
         "license": "MIT",
         "added_at": 1778426744
+    },
+    "envmw": {
+        "id": "envmw",
+        "type": "git",
+        "url": "https://pf4sh.eu/git/pulux/envmw",
+        "license": "MIT",
+        "added_at": 1778426751
     }
 }
