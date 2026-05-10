@@ -1,7 +1,9 @@
 {
-    "checksum": "1f6eab74220dfe55002c7a6f9d69e078bc53e22cb70dd3768b9ba0a0632fea06",
+    "checksum": "52c68ab1fc9891a63ff38965dd20ee5517995ec0cc47b551dee2597b55e94938",
     "commit": "3e283f0dcc4b43690fe552bd92fe44e1c819c127",
-    "archived_at": 1778154830,
+    "source_hash": "d2c55523e571e22de48691d3a66efef3d09cf916",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420488,
     "archive_name": "modernnet-v3.2.1.tar.gz",
     "readme": "README.md"
 }
