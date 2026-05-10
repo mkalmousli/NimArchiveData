@@ -1,7 +1,9 @@
 {
-    "checksum": "73e5e69e146f8e8216e85a94cfe2458f9af0e056acf439017c1e01da551048c3",
+    "checksum": "b4ab9179f7e9962447b74553120be90963bc8206aadd7c1935a855819702f26a",
     "commit": "809c703083b9d1dfb33fc200d18638a5a3d3143c",
-    "archived_at": 1778152466,
+    "source_hash": "4c6d68438dd912b424e481219186b32676092cf3",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419391,
     "archive_name": "nimrm-v1.0.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
