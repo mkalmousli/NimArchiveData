@@ -1,7 +1,9 @@
 {
-    "checksum": "fab78c962b5f96bbcdeb70543d0d19ee088724ef9d9740e072e3162e74ae9e77",
+    "checksum": "d77161f80313a2146d421028074924095fdbbdd32c56e0770fdd92b1405d0c39",
     "commit": "b2f3cee9b036978fa0f5c6c1a33fb3e53c3e501f",
-    "archived_at": 1778156627,
+    "source_hash": "8711fe59be647190cc5addd1562022a58c2cca3e",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421317,
     "archive_name": "PhylogeNi-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
