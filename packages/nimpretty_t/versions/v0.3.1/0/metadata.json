@@ -1,7 +1,9 @@
 {
-    "checksum": "a612586edf21ce954a8116c66848e18c3188d00a9a5e0894bf1ba6ff5d4d4330",
+    "checksum": "80f64851e83e29b258d2cefbb9137d285502df9cb559d8ef80bfa4c71ed07317",
     "commit": "9943917d75ed71997fad6139f6f9362d0656d8cc",
-    "archived_at": 1778155496,
+    "source_hash": "1a27843a48e18ae34da61090b3e1341bb372097b",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420820,
     "archive_name": "nimpretty_t-v0.3.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
