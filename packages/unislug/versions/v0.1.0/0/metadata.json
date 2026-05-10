@@ -1,7 +1,9 @@
 {
-    "checksum": "ede4b59204f1fc0fdae7ceeb546e15adc352a6005d4a443ffdbed64235f709eb",
+    "checksum": "0a61a34339dbf16176880d361ae60c5577a5ae2241ab865b5e8b6e1699a4bd48",
     "commit": "7bad1d40497da5c50f46ed3a1257c4b3590b0d40",
-    "archived_at": 1778152515,
+    "source_hash": "cbc1d26bb9a91b604a4f18d357f7853723ca7b1f",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419415,
     "archive_name": "unislug-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
