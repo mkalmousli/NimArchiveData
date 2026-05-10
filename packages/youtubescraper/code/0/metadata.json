@@ -1,7 +1,9 @@
 {
-    "checksum": "b12050f84a877f763a63f2bddae2bbb6d34a8f7a2ff4d69a3cc40db7313fc799",
+    "checksum": "ffa2e1fc4202c3a3ed1d32d003c64c4cbad4e0f3c6cc0169571fe4dfc163a5e7",
     "commit": "bab1b17e754b19deb3a64800c13d82a6f8e6e852",
-    "archived_at": 1778155356,
+    "source_hash": "4ee5d07aeea09ea67921887c4eb4e5a5826dbb54",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420758,
     "archive_name": "youtubescraper-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
