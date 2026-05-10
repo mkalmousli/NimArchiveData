@@ -1,7 +1,9 @@
 {
-    "checksum": "c528a08a41cc743d56f236650f576dd5100c039ae3fc9d541d90d028716e742b",
+    "checksum": "755d0f322f0b22a4283e7e58a6b1f50eae08538a62ed5019ecca23b4e4fa6dd4",
     "commit": "9cf7502cfb636576f3c49a84ae972ff10c7df5c7",
-    "archived_at": 1778155027,
+    "source_hash": "8f679031c912c34d4ef9ce9c94d752a04be6d01d",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420585,
     "archive_name": "sun_moon-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
