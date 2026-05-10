@@ -61,5 +61,12 @@
         "url": "https://github.com/Luteva-ssh/json2schema",
         "license": "MIT",
         "added_at": 1778443988
+    },
+    "proven": {
+        "id": "proven",
+        "type": "git",
+        "url": "https://github.com/hyperpolymath/proven",
+        "license": "PMPL-1.0",
+        "added_at": 1778443994
     }
 }
