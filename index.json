@@ -103,5 +103,12 @@
         "url": "https://github.com/erykjj/nim-tabulator",
         "license": "MIT",
         "added_at": 1778444114
+    },
+    "m": {
+        "id": "m",
+        "type": "git",
+        "url": "https://github.com/bk20x/M",
+        "license": "BSD-3-Clause",
+        "added_at": 1778444129
     }
 }
