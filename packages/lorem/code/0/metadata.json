@@ -1,7 +1,9 @@
 {
-    "checksum": "4b6a7050b2d1f700f128415035236c31babb10761faa25411f80cfbb0f5ad7d8",
+    "checksum": "b56f1e049f79a913ac46e6979f1c18537a6f8b14924538469ea4f21d1a8f66e9",
     "commit": "8d7284313556406fe48f7d3c917f48432a6a65f0",
-    "archived_at": 1778155159,
+    "source_hash": "5f9db7d43b664f94a73d40dc99dfecc5b1f28650",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420640,
     "archive_name": "lorem-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
