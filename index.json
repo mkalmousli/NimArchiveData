@@ -586,5 +586,12 @@
         "url": "https://github.com/choltreppe/parlexgen",
         "license": "MIT",
         "added_at": 1778445791
+    },
+    "nimcorpora": {
+        "id": "nimcorpora",
+        "type": "git",
+        "url": "https://github.com/neroist/nimcorpora",
+        "license": "0BSD",
+        "added_at": 1778445834
     }
 }
