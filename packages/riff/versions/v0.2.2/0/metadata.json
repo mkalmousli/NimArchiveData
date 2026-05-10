@@ -1,7 +1,9 @@
 {
-    "checksum": "906461b936092110f09d5b15d1ab44d7cfcfa5b65e82bb9f515846fbff5c6687",
+    "checksum": "5835ef57fa8c8e474e2bb3b6477487d87d3f2ce4e1adac01cc3bc47c23f0e308",
     "commit": "03f0ca35fca4eeb1f32b5f3fae414dd89f65521b",
-    "archived_at": 1778156423,
+    "source_hash": "d414ba45d05ac0382fe9b4858f388e261f031626",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421230,
     "archive_name": "riff-v0.2.2.tar.gz",
     "readme": "README.md"
 }
