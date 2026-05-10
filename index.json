@@ -334,5 +334,12 @@
         "url": "https://github.com/Asc2011/vqsort",
         "license": "MIT",
         "added_at": 1778444966
+    },
+    "nimplex": {
+        "id": "nimplex",
+        "type": "git",
+        "url": "https://github.com/amkrajewski/nimplex",
+        "license": "MIT",
+        "added_at": 1778444972
     }
 }
