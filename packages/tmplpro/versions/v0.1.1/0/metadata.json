@@ -1,7 +1,9 @@
 {
-    "checksum": "3a6d4baab9389f29606032358cd065b0d2fb93cedd1c63d9f1d78114179784ae",
+    "checksum": "3b783ac4d6c274b12475101c82220cdbe8dbbe3b5b24f09dc589ab6229bc4116",
     "commit": "d17d522c4db8a3c18c979e9bbb3e753725e6dd73",
-    "archived_at": 1778156582,
+    "source_hash": "3c3fccd61b05c1cdf952bbd5dd8211dce300fe67",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421298,
     "archive_name": "tmplpro-v0.1.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
