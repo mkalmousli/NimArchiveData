@@ -1,7 +1,9 @@
 {
-    "checksum": "70da2e66163c65daa436d926f8ca25ab7fe23e2b776914083425239f7e7da1eb",
+    "checksum": "6010630035bab3d34e2f6b8fc5d081ffa51598c9b4fbb7e8dd6f5513ecf7320f",
     "commit": "9b2a1a7c7157e6d812ae216f756a2eed585d1d0a",
-    "archived_at": 1778153652,
+    "source_hash": "e184fd87f44ae9c2afe6057cfb2a1e9cb69f267a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419926,
     "archive_name": "nivot-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
