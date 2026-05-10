@@ -1,7 +1,9 @@
 {
-    "checksum": "4eac3f12d17b9ea028fd38b36544a2311449e8f17c97c17e0bb4c34a0df0eb23",
+    "checksum": "f6b763953169c2e85d57b3940a80207823fa1722bbb4b4d64c608501643ca764",
     "commit": "3a379dc46118e68536cd906ceddfbd9464e6e546",
-    "archived_at": 1778155756,
+    "source_hash": "13359c6f0d8d5cb0d845f5aa2ef8aa009429321c",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420935,
     "archive_name": "uing-0.8.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
