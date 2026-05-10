@@ -124,5 +124,12 @@
         "url": "https://github.com/YesDrX/nim-treestand",
         "license": "MIT",
         "added_at": 1778419573
+    },
+    "hashbrowns": {
+        "id": "hashbrowns",
+        "type": "git",
+        "url": "https://github.com/bk20x/Hashbrowns",
+        "license": "MIT",
+        "added_at": 1778419604
     }
 }
