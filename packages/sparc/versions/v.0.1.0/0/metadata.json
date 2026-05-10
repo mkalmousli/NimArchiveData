@@ -1,7 +1,9 @@
 {
-    "checksum": "62eebbeb3dee69c6f81ac29aa09d1a708d4050bdad8a871f9ba5c47c17e855db",
+    "checksum": "2012b4526eba7e73b161fa1673aa85d76b18f2ea1a10bbb05383dad39b1338b0",
     "commit": "22ab7fcfd98001f121dab2ad0b63a1395110e386",
-    "archived_at": 1778153587,
+    "source_hash": "91d67a815725f447205fae5eae6c08a8cc3d1494",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419893,
     "archive_name": "sparc-v.0.1.0.tar.gz",
     "readme": "README.md"
 }
