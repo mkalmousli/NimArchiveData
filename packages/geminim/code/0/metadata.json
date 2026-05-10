@@ -1,7 +1,9 @@
 {
-    "checksum": "c86feed4238956746cc68d6b8951b09f25aca101c359c68f3fb98874cdc4c1d1",
+    "checksum": "413ee892533bb05f4aedac57be53d97d6fb39b1fdb2c38157eb9b9af4979eb5b",
     "commit": "053883efc9d432b65ba25e7db570487795ef4bb6",
-    "archived_at": 1778156645,
+    "source_hash": "5c6c95388f173c8253c09684304ccec760db0a1e",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778427953,
     "archive_name": "geminim-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
