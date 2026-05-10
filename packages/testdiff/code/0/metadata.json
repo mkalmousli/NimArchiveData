@@ -1,9 +1,9 @@
 {
-    "checksum": "42cc330147f9585b68bf7aef32f1006e5327419f70e3aee8f585123fccbe192e",
+    "checksum": "fd6fb60935bc737eef913c6e068fc6185ff0a4b1733bfc230640e401256f9dac",
     "commit": "1ea4e1e1e74ef8d9b23be133388d3d49d0a30a4e",
     "source_hash": "14547bbe4c451284b66f959ab0a68551443a7144",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778420990,
+    "archived_at": 1778427662,
     "archive_name": "testdiff-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
