@@ -1,7 +1,9 @@
 {
-    "checksum": "1cd08e3aeaf40a5e1744908bfec0e1a37be4bc407983634029236cef256787f3",
+    "checksum": "b8b21c14197cef36f51528967653e48db13bb88c8f4c8f4ac5cbf17b962681e1",
     "commit": "17f4d4f59cc31ddc4d0ad028850f68c32eb48ed9",
-    "archived_at": 1778156184,
+    "source_hash": "7fdd614a7fb431ba42d7d559d5c653565d3eaf05",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421114,
     "archive_name": "openurl-v2.0.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
