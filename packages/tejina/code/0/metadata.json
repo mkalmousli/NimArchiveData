@@ -1,7 +1,9 @@
 {
-    "checksum": "c3b087af813c7ed8c81865434f1a806094d008422d2735b4e9abf14c989aeef9",
+    "checksum": "d2db78bb3737f3a57e63fc77e5f7f8b0e7dcb23d796548a20c51a42bb13f70d9",
     "commit": "7e789d51a4951cb8e7f591ef94b8e5a515f6391c",
-    "archived_at": 1778153662,
+    "source_hash": "595b76edb4b8dadaf8952920dfcb19ffff7182c7",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419932,
     "archive_name": "tejina-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
