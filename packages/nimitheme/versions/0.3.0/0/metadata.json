@@ -1,7 +1,9 @@
 {
-    "checksum": "5decc1d837bff360ecbe39c8bfe59912f7fa48f5a69b549fa4f99bccbcf54d12",
+    "checksum": "e9d615fce349ce82ae302c69e012426d7ef140ec6863019ce5ffcc4bd9129e94",
     "commit": "8e89329a85ac2f96cf3e1dd1f428a2c910660a1c",
-    "archived_at": 1778155464,
+    "source_hash": "0ee0085836e6693d81f93928d41463bcfbb04ce8",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420804,
     "archive_name": "nimitheme-0.3.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
