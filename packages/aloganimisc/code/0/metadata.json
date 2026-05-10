@@ -1,7 +1,9 @@
 {
-    "checksum": "76748dcc1d0e77064c2f9a3ef24ceee9556409836d0c1fba712d9b41ba9d341e",
+    "checksum": "a4ea6d91d9455ffd066f745e0704d3be603ab40c6ce2b5d2b986e9cf19991080",
     "commit": "b29ab4f7e8f321090f6638b73cc7906762379498",
-    "archived_at": 1778153922,
+    "source_hash": "cddcc7cf7bf2d88603efe2bcaeea365c0f397825",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420058,
     "archive_name": "aloganimisc-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
