@@ -1,7 +1,9 @@
 {
-    "checksum": "3c40bc93de9593ace5ae35289f7170f9564e6e5377863d9e6695b1988f275156",
+    "checksum": "c3f6383b7c79bdc79fcc74c7c7c8855e7d34e73c3d513372648213d8924782dd",
     "commit": "113cdcbccf67592785f6a65f5be0686a74ade441",
-    "archived_at": 1778155041,
+    "source_hash": "84565f3d37fd3718208346608d2d7b2657133efc",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420591,
     "archive_name": "nimip-1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
