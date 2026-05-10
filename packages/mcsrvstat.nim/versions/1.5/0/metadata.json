@@ -1,9 +1,9 @@
 {
-    "checksum": "fbdbe07a399e701d57093d525d99419b5548c47c94e9597093dd625a06eed046",
+    "checksum": "bafdf8eff3a186602d32aba3f3e4532cd5b25881c35407c9c58ad03f7e3df2d5",
     "commit": "86db6c46b165300b93e80d70c8524f2461a06e78",
     "source_hash": "8c4cc8e2fd9321eba99124194a91e57fed93ba0d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778427470,
+    "archived_at": 1778445519,
     "archive_name": "mcsrvstat.nim-1.5.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
