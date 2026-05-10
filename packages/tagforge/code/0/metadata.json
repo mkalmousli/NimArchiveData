@@ -1,7 +1,9 @@
 {
-    "checksum": "b607014fba343348d3f7c22d460cdd1ba4e83a1ed0d583e0f3dc9b7fde0e53c8",
+    "checksum": "ed3c9d8ab7e2393443efec829da7bbb8cfd33f2defee1f8a58aa8d0c213e527e",
     "commit": "19c93cca3eb6dd664952f3cb33bba40dedcbc035",
-    "archived_at": 1778154579,
+    "source_hash": "8bfb8cfa22b06deb072d07e98fc64cd019a40563",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420358,
     "archive_name": "tagforge-latest.tar.gz",
     "readme": "README.md"
 }

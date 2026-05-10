@@ -1,7 +1,9 @@
 {
-    "checksum": "aa35ac2ef240475769630ab27dcee0723ab91175a071a9a78c51337763eddaa4",
+    "checksum": "34f40253dd0940e5a6fb8f0dec1cfa3ca21a70a65b2d09eda8b3d6d500044a3a",
     "commit": "720b26d079e2899b9e748a1aa2b042f83d6be1a9",
-    "archived_at": 1778154579,
+    "source_hash": "62d3940e44ac55fcad50dd4015383bdace6d618a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420358,
     "archive_name": "tagforge-v0.1.0.tar.gz",
     "readme": "README.md"
 }
