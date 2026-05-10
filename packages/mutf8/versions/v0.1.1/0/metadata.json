@@ -1,7 +1,9 @@
 {
-    "checksum": "dad03bb088ff693fa81bc4e5d3df78256f6224f7ad61676369aa14ffe0e775b8",
+    "checksum": "7175b128c0c93cbecd6a8dccd83e6052e531603f9b9a20a3d828d1edde105ce5",
     "commit": "5e888d575d5c3a77d88bceaf85efe2768a3bbc29",
-    "archived_at": 1778154668,
+    "source_hash": "e16cd4f892a47f3eaef3849ef1051b2b37fe7679",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420407,
     "archive_name": "mutf8-v0.1.1.tar.gz",
     "readme": "README.md"
 }
