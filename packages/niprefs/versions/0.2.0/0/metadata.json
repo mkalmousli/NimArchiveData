@@ -1,7 +1,9 @@
 {
-    "checksum": "b447b02dfb10fe8d7c60554a4094208f584cf0cb873684236ae9b18a83aca28d",
+    "checksum": "138ea19d45bb62b2b4a21e2fd4506e3c8fb609825d836fcafebe72d9b397a640",
     "commit": "d108838c1984b8c0c82f521c1a6daf5bdd7c5d0d",
-    "archived_at": 1778156276,
+    "source_hash": "f9cef72dc0fa13b0660827b3c20ebecd2fb934f1",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421158,
     "archive_name": "niprefs-0.2.0.tar.gz",
     "readme": "README.md"
 }

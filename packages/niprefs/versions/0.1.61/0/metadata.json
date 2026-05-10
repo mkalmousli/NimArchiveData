@@ -1,7 +1,9 @@
 {
-    "checksum": "49dd5ef90f0c7459083a7acc383e757326667234eda5bfd441cf4cad4561044d",
+    "checksum": "8d5d89f5a27deaeba2806174e0ea3c9cba2df16fa9c52aecd60083013ac6573b",
     "commit": "526f161b2265d3aca82fa2d4cc7e81f1987c047f",
-    "archived_at": 1778156275,
+    "source_hash": "1179e7e5cc87cc6e448305e641684a39caae8d34",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421158,
     "archive_name": "niprefs-0.1.61.tar.gz",
     "readme": "README.md"
 }
