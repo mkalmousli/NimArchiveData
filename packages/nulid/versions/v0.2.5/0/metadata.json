@@ -1,7 +1,9 @@
 {
-    "checksum": "e9fb8f0b19d57d8d9f2e32d75cae9c7eb7162f3e37c66bbc72241d4e9a0aec6c",
+    "checksum": "43c341c7d359a153230b4b63f92baf98b87204b44302e8170a3c5fcbb66a0995",
     "commit": "57daeacda653edbcd2f23bb689666fdcaabfda4b",
-    "archived_at": 1778154889,
+    "source_hash": "a7c704c49f4099713a67370d637830e46868e9b1",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420518,
     "archive_name": "nulid-v0.2.5.tar.gz",
     "readme": "README.md"
 }
