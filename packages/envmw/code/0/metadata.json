@@ -1,7 +1,9 @@
 {
-    "checksum": "0a8d9e628d91551196d708886e68312c85ba40cb5f4973a831a12a2087c137ed",
+    "checksum": "e2e74f7f5b342acd1134efb3f405167fb7038b7c8a1d63c8d7c211393a3a5999",
     "commit": "26b9294335436be44470b100420808d3bcbafa25",
-    "archived_at": 1778153685,
+    "source_hash": "31990330ac5d1f521d426378462245e6951e1a15",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419941,
     "archive_name": "envmw-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

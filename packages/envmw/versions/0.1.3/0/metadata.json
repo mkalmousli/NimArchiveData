@@ -1,7 +1,9 @@
 {
-    "checksum": "116cea7e6e5087c7006d44cce170172e72f7b0c50792660fdf64ae5c22aa8a5b",
+    "checksum": "500099a27c4f5d3b1e8cbf42f4ae1d60e182cf6da1ef5ed6113b6290460d41c4",
     "commit": "1c6e92d5964f7b666db3383cbec7c0275a73db3d",
-    "archived_at": 1778153685,
+    "source_hash": "f5511c07d60cfd224848f899b916e4125036eec5",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419941,
     "archive_name": "envmw-0.1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
