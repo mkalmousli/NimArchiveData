@@ -1,7 +1,9 @@
 {
-    "checksum": "6bee3245c92f282ca4fde970a82c6e4421fc321e527b8e37b420d0bdaf409825",
+    "checksum": "044c403d6067ef929f083de3c04a1a62aec574b32171101914aa89a745727e3b",
     "commit": "e6505dcf106994c3f8d21c2cd73f06ab4c2f58d1",
-    "archived_at": 1778153540,
+    "source_hash": "8fe64f9adcbc51d312399f1984a04fc39c6235d6",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778419872,
     "archive_name": "spectra-v0.2.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
