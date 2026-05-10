@@ -1,7 +1,9 @@
 {
-    "checksum": "5f3edb9a4268cdfffefe469c851c5dca2e5d1c167cba9bf0b5aac40e5bb8c5f8",
+    "checksum": "fd869dea0651e71b7e3df7faa68ff00b2dba2d8b7b7fc5e5a9c8e76d3979ff7a",
     "commit": "97d87dadda5bf0e98ab2393882cc67eb538bb897",
-    "archived_at": 1778154952,
+    "source_hash": "84c48857070f8e1e535e0f2619cacf92192971a9",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778420550,
     "archive_name": "crockfordb32-v2.0.0.tar.gz",
     "readme": "README.md"
 }
