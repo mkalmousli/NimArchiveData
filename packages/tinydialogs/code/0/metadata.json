@@ -1,7 +1,9 @@
 {
-    "checksum": "3d399f0c950456b379d2af4c855d19d6acdce5e2b919389e806724b963792f4c",
+    "checksum": "c482d4e3b4cdd29009ca06445a4e1b0cf6b24d2aab9419fb1049f88775a30845",
     "commit": "c8d2450501a01ef02edd100629e5c716f3cfacba",
-    "archived_at": 1778156228,
+    "source_hash": "2093b1ac9f0cfb173d5570b9a9e52d23494aaf48",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778421135,
     "archive_name": "tinydialogs-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
