@@ -1,7 +1,9 @@
 {
-    "checksum": "753acf1e6985fee5446b4590ce5a028db202661e9336d275918cd1bd6562335c",
+    "checksum": "08b37fa0120b2e5876083babd27138c7c758ad4a18fc3d6f6fb9d1595fbd5179",
     "commit": "ddd68d4842f1ec31a5f59ea4b4418c7afc21169d",
-    "archived_at": 1778157016,
+    "source_hash": "91532b45033d90d117b9436d6df13b522b1b139a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778460604,
     "archive_name": "nimchromepath-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
