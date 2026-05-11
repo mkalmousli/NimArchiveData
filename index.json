@@ -663,5 +663,12 @@
         "url": "https://github.com/Patitotective/niprefs",
         "license": "MIT",
         "added_at": 1778482402
+    },
+    "lrparser": {
+        "id": "lrparser",
+        "type": "git",
+        "url": "https://github.com/vanyle/lrparser/",
+        "license": "MIT",
+        "added_at": 1778482468
     }
 }
