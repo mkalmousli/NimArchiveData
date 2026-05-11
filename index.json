@@ -145,5 +145,12 @@
         "url": "https://github.com/YesDrX/nimdebugger",
         "license": "MIT",
         "added_at": 1778480368
+    },
+    "nimodbclite": {
+        "id": "nimodbclite",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nimodbclite",
+        "license": "MIT",
+        "added_at": 1778480417
     }
 }
