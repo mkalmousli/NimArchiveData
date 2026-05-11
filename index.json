@@ -33,5 +33,12 @@
         "url": "https://github.com/akvilary/humanize",
         "license": "MIT",
         "added_at": 1778515178
+    },
+    "unislug": {
+        "id": "unislug",
+        "type": "git",
+        "url": "https://github.com/akvilary/unislug",
+        "license": "MIT",
+        "added_at": 1778515186
     }
 }
