@@ -1,9 +1,9 @@
 {
-    "checksum": "2766be627f072bfba343958e6a07f3e269d7edcff02a636f4025d269dcde2b61",
+    "checksum": "dcaf7f2b820301a20ca87ed0593a3ab4df1363f060da1f6ac7f743b53de45dc0",
     "commit": "8fd1116e3694b82236385105093efe8b2ff61292",
     "source_hash": "dace2bcac126e3e4036cdc67a3c0b7a0f412efb8",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778482266,
+    "archived_at": 1778498746,
     "archive_name": "entgrep-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
