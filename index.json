@@ -96,5 +96,12 @@
         "url": "https://github.com/ph4mished/caesar",
         "license": "MIT",
         "added_at": 1778531628
+    },
+    "morse": {
+        "id": "morse",
+        "type": "git",
+        "url": "https://github.com/ph4mished/morse",
+        "license": "MIT",
+        "added_at": 1778531641
     }
 }
