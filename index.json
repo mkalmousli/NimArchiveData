@@ -215,5 +215,12 @@
         "url": "https://github.com/roger-padrell/vexhost",
         "license": "MIT",
         "added_at": 1778459006
+    },
+    "vexbox": {
+        "id": "vexbox",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/vexbox",
+        "license": "MIT",
+        "added_at": 1778459008
     }
 }
