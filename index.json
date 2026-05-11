@@ -530,5 +530,12 @@
         "url": "https://github.com/webui-dev/nim-webui",
         "license": "MIT",
         "added_at": 1778517147
+    },
+    "unibs": {
+        "id": "unibs",
+        "type": "git",
+        "url": "https://github.com/choltreppe/unibs",
+        "license": "MIT",
+        "added_at": 1778517200
     }
 }
