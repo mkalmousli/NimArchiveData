@@ -12,5 +12,12 @@
         "url": "https://github.com/blue0x1/nim-winrm",
         "license": "MIT",
         "added_at": 1778497216
+    },
+    "xpath": {
+        "id": "xpath",
+        "type": "git",
+        "url": "https://github.com/blue0x1/xpath",
+        "license": "MIT",
+        "added_at": 1778497222
     }
 }
