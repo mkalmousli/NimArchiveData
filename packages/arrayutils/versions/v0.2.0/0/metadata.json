@@ -1,9 +1,9 @@
 {
-    "checksum": "76696edf857cf64e82211e6e1798d3e357d568b6a95e3cc3dd8f3728f1486574",
+    "checksum": "114181f15851f228f8844888ebbc382733a3e44b8f0b532815f1a552d979c6fc",
     "commit": "79a14cda5636ee3d11ec6b3f6193769a8d495473",
     "source_hash": "28995584eb90f1c56c02edb80da7ec23ba9cc3a0",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778459940,
+    "archived_at": 1778482038,
     "archive_name": "arrayutils-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
