@@ -600,5 +600,12 @@
         "url": "https://github.com/Yandall/HTest/",
         "license": "MIT",
         "added_at": 1778460079
+    },
+    "passy": {
+        "id": "passy",
+        "type": "git",
+        "url": "https://github.com/infinitybeond1/passy",
+        "license": "GPL3",
+        "added_at": 1778460088
     }
 }
