@@ -474,5 +474,12 @@
         "url": "https://github.com/neroist/lorem",
         "license": "MIT",
         "added_at": 1778459693
+    },
+    "nimipdf": {
+        "id": "nimipdf",
+        "type": "git",
+        "url": "https://github.com/neroist/nimipdf",
+        "license": "MIT",
+        "added_at": 1778459698
     }
 }
