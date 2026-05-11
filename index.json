@@ -173,5 +173,12 @@
         "url": "https://github.com/ljoeckel/nim-yottadb",
         "license": "MIT",
         "added_at": 1778458916
+    },
+    "uleb128": {
+        "id": "uleb128",
+        "type": "git",
+        "url": "https://github.com/bk20x/uleb128",
+        "license": "MIT",
+        "added_at": 1778458952
     }
 }
