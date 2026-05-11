@@ -369,5 +369,12 @@
         "url": "https://github.com/Graveflo/nfind.git",
         "license": "MIT",
         "added_at": 1778459440
+    },
+    "mutf8": {
+        "id": "mutf8",
+        "type": "git",
+        "url": "https://github.com/The-Ticking-Clockwork/MUTF-8",
+        "license": "Apache-2.0",
+        "added_at": 1778459466
     }
 }
