@@ -39,6 +39,14 @@ It has no external runtime dependencies beyond the Nim standard library.
 
 ## Installation
 
+### Nimble
+
+```bash
+nimble install xpath
+```
+
+This installs the latest package from the official Nim package list.
+
 ### Build From Source
 
 ```bash
