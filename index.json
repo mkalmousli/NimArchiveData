@@ -516,5 +516,12 @@
         "url": "https://github.com/neroist/nimitheme",
         "license": "MIT",
         "added_at": 1778533236
+    },
+    "nimpretty_t": {
+        "id": "nimpretty_t",
+        "type": "git",
+        "url": "https://github.com/tobealive/nimpretty_t",
+        "license": "MIT",
+        "added_at": 1778533259
     }
 }
