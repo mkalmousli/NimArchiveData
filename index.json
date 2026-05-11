@@ -768,5 +768,12 @@
         "url": "https://github.com/arturo-lang/arturo",
         "license": "MIT",
         "added_at": 1778460369
+    },
+    "nimchromepath": {
+        "id": "nimchromepath",
+        "type": "git",
+        "url": "https://github.com/felipetesc/NimChromePath",
+        "license": "MIT",
+        "added_at": 1778460602
     }
 }
