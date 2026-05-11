@@ -733,5 +733,12 @@
         "url": "https://github.com/mjfh/nim-jhash.git",
         "license": "UNLICENSE",
         "added_at": 1778460325
+    },
+    "tmplpro": {
+        "id": "tmplpro",
+        "type": "git",
+        "url": "https://github.com/mjfh/nim-tmplpro.git",
+        "license": "UNLICENSE",
+        "added_at": 1778460336
     }
 }
