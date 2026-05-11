@@ -1,9 +1,9 @@
 {
-    "checksum": "681877dac1189149996725b3d6304317b2de3baf089fe4648e131c17c57720b9",
+    "checksum": "cc766d82110a3e4e38cdbc9ad758b26589a44eb5991f40cc373880564973dfaf",
     "commit": "4a6491f08cf84bd388ad14bf89636aecb9f2b9c4",
     "source_hash": "a2fe9018bd6f83d4397390a093a4187b61a435ec",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778445309,
+    "archived_at": 1778459625,
     "archive_name": "rtmidi-v4.0.0.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
