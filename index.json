@@ -691,5 +691,12 @@
         "url": "https://github.com/johnnovak/nim-riff",
         "license": "WTFPL",
         "added_at": 1778460267
+    },
+    "nim0": {
+        "id": "nim0",
+        "type": "git",
+        "url": "https://gitlab.com/pmetras/nim0.git",
+        "license": "MIT",
+        "added_at": 1778460279
     }
 }
