@@ -1,7 +1,9 @@
 {
-    "checksum": "45e0fc3d215258a9212839ac82e1e3258266a1d92ec14db578d32e5feb9e5bec",
+    "checksum": "5485427daf8cd7f0f8967d5bb15281ef5f4a263f44345c8a88a06ce745607ede",
     "commit": "75f36b24a1388bdc301ba219fd28bd1768b02885",
-    "archived_at": 1778157028,
+    "source_hash": "e57f3b176e89aa6c8619071eeb7359a6543210b4",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778460610,
     "archive_name": "nimbitarray-latest.tar.gz",
     "readme": "README.md"
 }
