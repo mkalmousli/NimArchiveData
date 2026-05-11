@@ -285,5 +285,12 @@
         "url": "https://github.com/Alogani/aloganimisc",
         "license": "MIT",
         "added_at": 1778480936
+    },
+    "asyncio": {
+        "id": "asyncio",
+        "type": "git",
+        "url": "https://github.com/Alogani/asyncio",
+        "license": "MIT",
+        "added_at": 1778480951
     }
 }
