@@ -250,5 +250,12 @@
         "url": "https://github.com/mentalonigiri/niqlite",
         "license": "MIT",
         "added_at": 1778459025
+    },
+    "libsndfile": {
+        "id": "libsndfile",
+        "type": "git",
+        "url": "https://github.com/bctnry/nim-libsndfile",
+        "license": "MIT",
+        "added_at": 1778459032
     }
 }
