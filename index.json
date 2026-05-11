@@ -404,5 +404,12 @@
         "url": "https://github.com/roberto170/sudoku",
         "license": "MIT",
         "added_at": 1778532816
+    },
+    "avr_io": {
+        "id": "avr_io",
+        "type": "git",
+        "url": "https://github.com/Abathargh/avr_io",
+        "license": "BSD-3",
+        "added_at": 1778532822
     }
 }
