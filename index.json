@@ -292,5 +292,12 @@
         "url": "https://github.com/Alogani/asyncio",
         "license": "MIT",
         "added_at": 1778480951
+    },
+    "asyncsync": {
+        "id": "asyncsync",
+        "type": "git",
+        "url": "https://github.com/Alogani/asyncsync",
+        "license": "MIT",
+        "added_at": 1778481007
     }
 }
