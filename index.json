@@ -495,5 +495,12 @@
         "url": "https://github.com/TaxMachine/youtubescraper",
         "license": "WTFPL",
         "added_at": 1778481842
+    },
+    "mcsrvstat.nim": {
+        "id": "mcsrvstat.nim",
+        "type": "git",
+        "url": "https://github.com/hitblast/mcsrvstat.nim",
+        "license": "MIT",
+        "added_at": 1778481853
     }
 }
