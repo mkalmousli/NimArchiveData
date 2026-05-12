@@ -418,5 +418,12 @@
         "url": "https://github.com/Nimberite-Development/ModernNet",
         "license": "Apache-2.0",
         "added_at": 1778602140
+    },
+    "worldtree": {
+        "id": "worldtree",
+        "type": "git",
+        "url": "https://github.com/keithaustin/worldtree",
+        "license": "MIT",
+        "added_at": 1778602167
     }
 }
