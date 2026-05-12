@@ -1020,5 +1020,12 @@
         "url": "https://github.com/Vladar4/nimgame2/",
         "license": "MIT",
         "added_at": 1778620585
+    },
+    "sfml": {
+        "id": "sfml",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-sfml/",
+        "license": "MIT",
+        "added_at": 1778620643
     }
 }
