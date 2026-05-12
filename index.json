@@ -880,5 +880,12 @@
         "url": "https://github.com/ImVexed/quickjs4nim",
         "license": "MIT",
         "added_at": 1778620351
+    },
+    "BitVector": {
+        "id": "BitVector",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/BitVector",
+        "license": "MIT",
+        "added_at": 1778620358
     }
 }
