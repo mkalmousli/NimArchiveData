@@ -1,7 +1,9 @@
 {
-    "checksum": "fb91fe4160cc6844224da96256bba22418166c9ca3a3ade5455075b8418555bc",
+    "checksum": "7d83c5007fd9324f8e418cb24215b3ba32e3324f043e4ff364aed6c0fd3dd407",
     "commit": "6c1c15f181cf8b08aa7818f58882708f467b043f",
-    "archived_at": 1778157799,
+    "source_hash": "ae87f8e42751dc02bd8500af93884afaaae54f08",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620372,
     "archive_name": "BipBuffer-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
