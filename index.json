@@ -1034,5 +1034,12 @@
         "url": "https://github.com/fowlmouth/nimrod-enet/",
         "license": "MIT",
         "added_at": 1778620649
+    },
+    "locale": {
+        "id": "locale",
+        "type": "git",
+        "url": "https://github.com/nim-community/nim-locale",
+        "license": "MIT",
+        "added_at": 1778620654
     }
 }
