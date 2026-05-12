@@ -999,5 +999,12 @@
         "url": "https://github.com/olahol/nimrod-murmur/",
         "license": "MIT",
         "added_at": 1778620529
+    },
+    "libtcod_nim": {
+        "id": "libtcod_nim",
+        "type": "git",
+        "url": "https://github.com/Vladar4/libtcod_nim/",
+        "license": "zlib",
+        "added_at": 1778620537
     }
 }
