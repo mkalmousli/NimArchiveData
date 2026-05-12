@@ -852,5 +852,12 @@
         "url": "https://github.com/Michedev/DecisionTreeNim",
         "license": "GPL-3.0",
         "added_at": 1778620257
+    },
+    "tsv2json": {
+        "id": "tsv2json",
+        "type": "git",
+        "url": "https://github.com/hectormonacci/tsv2json",
+        "license": "MIT",
+        "added_at": 1778620263
     }
 }
