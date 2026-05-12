@@ -1,7 +1,9 @@
 {
-    "checksum": "87fa3c73c68c18418816e98a5a8609da5a7b3a7ce7e09c926ef3ca27b8c11334",
+    "checksum": "dddee2e9485b77dc8baa4ab84e4470049469880d79baa0ccec45ceae98bbb844",
     "commit": "eb9a5b7a30ce165083c43eb517dcbebd43ee16a7",
-    "archived_at": 1778157206,
+    "source_hash": "c5da2db3998f4b71543e38159ebe754c17d0f5a5",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620105,
     "archive_name": "numnim-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
