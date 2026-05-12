@@ -1244,5 +1244,12 @@
         "url": "https://github.com/nim-lang/lua",
         "license": "MIT",
         "added_at": 1778621171
+    },
+    "tcl": {
+        "id": "tcl",
+        "type": "git",
+        "url": "https://github.com/nim-lang/tcl",
+        "license": "MIT",
+        "added_at": 1778621176
     }
 }
