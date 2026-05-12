@@ -1,7 +1,9 @@
 {
-    "checksum": "35ff026c33d8a7c7e84c9f0a83faab157409cc062f0749ce7d4d410e0d9bf2d2",
+    "checksum": "e7f0fd4d83d9d73fdb4fd5616596823152c5bf5db373ecfca1631baa12f2a600",
     "commit": "b5d128f3620a9f535ba30330ac8616719bbe10e7",
-    "archived_at": 1778158463,
+    "source_hash": "992a966fea9f4af03fbaaa378d75d4e82dc3376a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620702,
     "archive_name": "nimrod-glfw-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
