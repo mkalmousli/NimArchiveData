@@ -1,7 +1,9 @@
 {
-    "checksum": "746a58a0e44b0c4cfb43ec46ddf4ddce3b7a6597a459d8c1aab1f55a957b542c",
+    "checksum": "c033754771090e3cd285dfcdce4de21656b106fa9272880be367f32dcb816234",
     "commit": "07e33d5ab72ca699427f42b39ae8d4af63fd17f2",
-    "archived_at": 1778157901,
+    "source_hash": "2b3370edd0b173ee92d9e7c4f00d1481cbe71560",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620420,
     "archive_name": "sequtils2-1.0.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
