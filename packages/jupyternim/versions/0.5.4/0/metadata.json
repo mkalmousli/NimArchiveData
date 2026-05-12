@@ -1,7 +1,9 @@
 {
-    "checksum": "ad8c15339e21dc8f14cbb67c8af1d5d6d2173212fbde14aa04b270e5b82bc9c7",
+    "checksum": "f7e8339ef1738758d5f2184bc6a485fbf644446cfa7bcd307756c8044f79e519",
     "commit": "c6044f8a3d4bd1d138644d0e6029ee2905668b19",
-    "archived_at": 1778157063,
+    "source_hash": "95b1020ffb5bbf578f80dea5830faa39a7214468",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620036,
     "archive_name": "jupyternim-0.5.4.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
