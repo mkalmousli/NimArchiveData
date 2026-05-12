@@ -600,5 +600,12 @@
         "url": "https://github.com/neroist/nimcorpora",
         "license": "0BSD",
         "added_at": 1778602729
+    },
+    "htest": {
+        "id": "htest",
+        "type": "git",
+        "url": "https://github.com/Yandall/HTest/",
+        "license": "MIT",
+        "added_at": 1778602740
     }
 }
