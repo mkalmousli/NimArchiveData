@@ -1041,5 +1041,12 @@
         "url": "https://github.com/nim-community/nim-locale",
         "license": "MIT",
         "added_at": 1778620654
+    },
+    "fowltek": {
+        "id": "fowltek",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimlibs/",
+        "license": "MIT",
+        "added_at": 1778620660
     }
 }
