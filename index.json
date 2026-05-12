@@ -1202,5 +1202,12 @@
         "url": "https://github.com/achesak/nim-rss",
         "license": "MIT",
         "added_at": 1778621091
+    },
+    "extmath": {
+        "id": "extmath",
+        "type": "git",
+        "url": "https://github.com/achesak/extmath.nim",
+        "license": "MIT",
+        "added_at": 1778621097
     }
 }
