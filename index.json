@@ -894,5 +894,12 @@
         "url": "https://github.com/MarcAzar/RollingHash",
         "license": "MIT",
         "added_at": 1778620364
+    },
+    "BipBuffer": {
+        "id": "BipBuffer",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/BipBuffer",
+        "license": "MIT",
+        "added_at": 1778620370
     }
 }
