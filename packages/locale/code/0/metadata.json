@@ -1,7 +1,9 @@
 {
-    "checksum": "0d177a7647ff182f0dde5e8c4dae22d60d8806f59a9113afbf8a63fd38fef79f",
+    "checksum": "2c445f5a2246436e8873f040c49151850c5e8d8f59a7bed3313e647059906a19",
     "commit": "02f112a98deb04e31b1da5b0947349b123e2c818",
-    "archived_at": 1778158368,
+    "source_hash": "e7900ffdf2f0b165e2935edc27074f486639f0ad",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620657,
     "archive_name": "locale-latest.tar.gz",
     "readme": "README.md"
 }
