@@ -1,7 +1,9 @@
 {
-    "checksum": "d0e03f5cb886bb75b4f9048506f215302f08c5130bd29f17e1bfff8a4696377d",
+    "checksum": "e8eb76aa16363177e4b562c9ceccbf9469aaf3fa3e234f135cba63bf0058d7bb",
     "commit": "7ef024c5e2a95b7431c0238e39911b5c67618fec",
-    "archived_at": 1778157311,
+    "source_hash": "7d18756a3fcf64fb02f70652d708b9bf7f57f52a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620143,
     "archive_name": "nbaser-v1.0.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
