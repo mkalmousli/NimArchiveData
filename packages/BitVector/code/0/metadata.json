@@ -1,7 +1,9 @@
 {
-    "checksum": "afb273afcb9901e2be76ef57fc456375725abe1d0ab8c1096146dfbe5756ca61",
+    "checksum": "debd791b686aa0a8d00232a78b39ac837087ad72832cac63db9111fea7cbee63",
     "commit": "cd8af9d00e05f0a261fb84419a06630143d25559",
-    "archived_at": 1778157777,
+    "source_hash": "1cf2a4f6132949dc9688ef37aaadc21da0860923",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620360,
     "archive_name": "BitVector-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
