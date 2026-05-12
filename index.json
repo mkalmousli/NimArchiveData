@@ -915,5 +915,12 @@
         "url": "https://github.com/mattaylor/elvis",
         "license": "MIT",
         "added_at": 1778620396
+    },
+    "nimrun": {
+        "id": "nimrun",
+        "type": "git",
+        "url": "https://github.com/lee-b/nimrun",
+        "license": "MIT",
+        "added_at": 1778620411
     }
 }
