@@ -1,7 +1,9 @@
 {
-    "checksum": "75f362d62876a04f081e6cef84fe229be93d118522f5e7acd8ad54c7bf17ada3",
+    "checksum": "343c1f9b2e267410131e7b332692fcfffe77c239ab6625f492c5d453db56b04d",
     "commit": "b3b40ff15b88d0181121520ce0aa2a0829cd9afe",
-    "archived_at": 1778157765,
+    "source_hash": "0a9903da548af38fce93c4a4ff29ebe1d710d56c",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620354,
     "archive_name": "QuickJS4nim-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
