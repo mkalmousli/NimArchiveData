@@ -922,5 +922,12 @@
         "url": "https://github.com/lee-b/nimrun",
         "license": "MIT",
         "added_at": 1778620411
+    },
+    "sequtils2": {
+        "id": "sequtils2",
+        "type": "git",
+        "url": "https://github.com/Michedev/sequtils2",
+        "license": "MIT",
+        "added_at": 1778620417
     }
 }
