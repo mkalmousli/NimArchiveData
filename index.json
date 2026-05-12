@@ -887,5 +887,12 @@
         "url": "https://github.com/MarcAzar/BitVector",
         "license": "MIT",
         "added_at": 1778620358
+    },
+    "RollingHash": {
+        "id": "RollingHash",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/RollingHash",
+        "license": "MIT",
+        "added_at": 1778620364
     }
 }
