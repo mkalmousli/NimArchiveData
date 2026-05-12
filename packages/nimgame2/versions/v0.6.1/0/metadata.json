@@ -1,7 +1,9 @@
 {
-    "checksum": "83456d2ae4fba7470e5ed4191d3fd55a00869dc5cc6ce9aba0729fd3be6b9c69",
+    "checksum": "4d98cc58b59e75ab8bb012ba870bf724e39b1294430e1964a80321386e8ca987",
     "commit": "2ca8087751d2b00ed81018d17504b09e72d2e38e",
-    "archived_at": 1778158236,
+    "source_hash": "c8f2e9a1f6572a64d525b9a689cd66a38383e593",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620595,
     "archive_name": "nimgame2-v0.6.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
