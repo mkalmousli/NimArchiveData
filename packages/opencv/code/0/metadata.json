@@ -1,7 +1,9 @@
 {
-    "checksum": "ecba616b052dce3d2fc42bc48eb307feb594bfb5616d642bd83d291fb8c3f8d8",
+    "checksum": "a713c68dc9d47028eee7a3be3264e96487cfe1c714f227662120596cfe42baec",
     "commit": "e1e3d57166fa3bc9e840184e038e5e1288809997",
-    "archived_at": 1778158640,
+    "source_hash": "864532b7d4bf5f7f7fa9f381d0394114cddcf17e",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620791,
     "archive_name": "opencv-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
