@@ -1216,5 +1216,12 @@
         "url": "https://github.com/nim-lang/gtk2",
         "license": "MIT",
         "added_at": 1778621099
+    },
+    "cairo": {
+        "id": "cairo",
+        "type": "git",
+        "url": "https://github.com/nim-lang/cairo",
+        "license": "MIT",
+        "added_at": 1778621113
     }
 }
