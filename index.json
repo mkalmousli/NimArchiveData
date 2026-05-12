@@ -1146,5 +1146,12 @@
         "url": "https://github.com/nim-lang/c2nim",
         "license": "MIT",
         "added_at": 1778621038
+    },
+    "threading": {
+        "id": "threading",
+        "type": "git",
+        "url": "https://github.com/nim-lang/threading",
+        "license": "MIT",
+        "added_at": 1778621059
     }
 }
