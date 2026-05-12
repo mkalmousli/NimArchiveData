@@ -1125,5 +1125,12 @@
         "url": "https://github.com/jyapayne/nim-libnx",
         "license": "Unlicense",
         "added_at": 1778620995
+    },
+    "switch_build": {
+        "id": "switch_build",
+        "type": "git",
+        "url": "https://github.com/jyapayne/switch-build",
+        "license": "MIT",
+        "added_at": 1778621009
     }
 }
