@@ -1,7 +1,9 @@
 {
-    "checksum": "30f67177a6d7c28f2a0d4423ba38c0de05e0d7d6491b35ba2e41ca38707a343c",
+    "checksum": "f2688b935c14068c75c823c8ce04c992c6c67794216d5be3010827f2b978d96d",
     "commit": "a9fd1f04ba0167727dd0dbf9235791f708147992",
-    "archived_at": 1778157820,
+    "source_hash": "e994d19562115b60306b333acdca3282d1cfc530",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620384,
     "archive_name": "whip-0.2.tar.gz",
     "readme": "README.md"
 }
