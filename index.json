@@ -838,5 +838,12 @@
         "url": "https://github.com/D-Nice/nbaser",
         "license": "Apache-2.0",
         "added_at": 1778620141
+    },
+    "nio": {
+        "id": "nio",
+        "type": "git",
+        "url": "https://github.com/c-blake/nio",
+        "license": "MIT",
+        "added_at": 1778620152
     }
 }
