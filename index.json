@@ -1237,5 +1237,12 @@
         "url": "https://github.com/nim-lang/opengl",
         "license": "MIT",
         "added_at": 1778621134
+    },
+    "lua": {
+        "id": "lua",
+        "type": "git",
+        "url": "https://github.com/nim-lang/lua",
+        "license": "MIT",
+        "added_at": 1778621171
     }
 }
