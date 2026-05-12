@@ -1195,5 +1195,12 @@
         "url": "https://github.com/achesak/nim-noaa",
         "license": "MIT",
         "added_at": 1778621089
+    },
+    "rss": {
+        "id": "rss",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-rss",
+        "license": "MIT",
+        "added_at": 1778621091
     }
 }
