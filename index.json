@@ -1104,5 +1104,12 @@
         "url": "https://github.com/reactormonk/nim-kwin",
         "license": "MIT",
         "added_at": 1778620784
+    },
+    "opencv": {
+        "id": "opencv",
+        "type": "git",
+        "url": "https://github.com/dom96/nim-opencv",
+        "license": "MIT",
+        "added_at": 1778620790
     }
 }
