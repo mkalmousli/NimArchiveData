@@ -1251,5 +1251,12 @@
         "url": "https://github.com/nim-lang/tcl",
         "license": "MIT",
         "added_at": 1778621176
+    },
+    "glm": {
+        "id": "glm",
+        "type": "git",
+        "url": "https://github.com/stavenko/nim-glm",
+        "license": "MIT",
+        "added_at": 1778621182
     }
 }
