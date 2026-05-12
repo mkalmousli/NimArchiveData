@@ -1188,5 +1188,12 @@
         "url": "https://github.com/achesak/nim-yahooweather",
         "license": "MIT",
         "added_at": 1778621087
+    },
+    "noaa": {
+        "id": "noaa",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-noaa",
+        "license": "MIT",
+        "added_at": 1778621089
     }
 }
