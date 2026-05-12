@@ -859,5 +859,12 @@
         "url": "https://github.com/hectormonacci/tsv2json",
         "license": "MIT",
         "added_at": 1778620263
+    },
+    "nimler": {
+        "id": "nimler",
+        "type": "git",
+        "url": "https://github.com/wltsmrz/nimler",
+        "license": "MIT",
+        "added_at": 1778620269
     }
 }
