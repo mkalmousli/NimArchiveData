@@ -677,5 +677,12 @@
         "url": "https://github.com/vanyle/lrparser/",
         "license": "MIT",
         "added_at": 1778602908
+    },
+    "py2nim": {
+        "id": "py2nim",
+        "type": "git",
+        "url": "https://github.com/Niminem/Py2Nim",
+        "license": "MIT",
+        "added_at": 1778602914
     }
 }
