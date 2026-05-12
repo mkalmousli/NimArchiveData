@@ -1,7 +1,9 @@
 {
-    "checksum": "087f9216c53da90a0c26bac6330eb54a4b16d537fad0800f19d9c476980f3594",
+    "checksum": "877e7c2c5bd961f06ff9a11ed0c1e0fdda5bb624ac3993c4b17f49e58ec6e113",
     "commit": "9bd096486ef1a4bb5e980baa9978a1c39252ae8e",
-    "archived_at": 1778158123,
+    "source_hash": "98f9c88fbda8a280df2b15b745c5acca1296843c",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620532,
     "archive_name": "murmur-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
