@@ -523,5 +523,12 @@
         "url": "https://github.com/tobealive/nimpretty_t",
         "license": "MIT",
         "added_at": 1778619237
+    },
+    "webui": {
+        "id": "webui",
+        "type": "git",
+        "url": "https://github.com/webui-dev/nim-webui",
+        "license": "MIT",
+        "added_at": 1778619249
     }
 }
