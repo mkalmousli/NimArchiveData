@@ -1,9 +1,9 @@
 {
-    "checksum": "faa51830c58548215829e02788f40b915008a6aba4edc46c0031cbefcac8383a",
+    "checksum": "859c79ddf7ae548b9c4f50064fd588e8566edd8e78caba73eb5fd145f06c7b3b",
     "commit": "de33cafaa02407d9e75259182af398c98cede63c",
     "source_hash": "485371b16a30770ecf6c172c8cc7bdb7cbb387dd",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778566966,
+    "archived_at": 1778584111,
     "archive_name": "objaccess-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
