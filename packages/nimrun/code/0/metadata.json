@@ -1,7 +1,9 @@
 {
-    "checksum": "a5a29df0a2f9bec874737fbf14b6ab65c571c14a3826e522ed6fe750fc009f7a",
+    "checksum": "b4271bdfcca25300134d417e62785395997a44d48c7d25b04bcc49de904d1b45",
     "commit": "4e8f613b15aa1450f2f30f2836cae50bbf74667e",
-    "archived_at": 1778157886,
+    "source_hash": "1ee62b0e9c05f5b309321b1d5830a10fd9217eac",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620413,
     "archive_name": "nimrun-latest.tar.gz",
     "readme": "README.md"
 }
