@@ -1139,5 +1139,12 @@
         "url": "https://github.com/nim-lang/Aporia",
         "license": "GPLv2",
         "added_at": 1778621017
+    },
+    "c2nim": {
+        "id": "c2nim",
+        "type": "git",
+        "url": "https://github.com/nim-lang/c2nim",
+        "license": "MIT",
+        "added_at": 1778621038
     }
 }
