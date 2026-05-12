@@ -1223,5 +1223,12 @@
         "url": "https://github.com/nim-lang/cairo",
         "license": "MIT",
         "added_at": 1778621113
+    },
+    "x11": {
+        "id": "x11",
+        "type": "git",
+        "url": "https://github.com/nim-lang/x11",
+        "license": "MIT",
+        "added_at": 1778621126
     }
 }
