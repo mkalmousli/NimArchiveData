@@ -1,7 +1,9 @@
 {
-    "checksum": "a4817fb1f45f31cd088424e61bbf2b76e46bc54f4cc55f755525f4799f526146",
+    "checksum": "c98c4deae5d1e46a79fc037358b3ce2b48ea444f19a808159f5a8c7ff9464145",
     "commit": "45a9fad9616a342f3a67f2fa7b581c899dcab7c7",
-    "archived_at": 1778157933,
+    "source_hash": "4d18376c828f1a209900d563423bf83a6df5719a",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620435,
     "archive_name": "extensions-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

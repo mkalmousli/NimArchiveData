@@ -1,7 +1,9 @@
 {
-    "checksum": "d96c313a0b860f68e6ae2b30a81534de61b4062fb17677dcb8d49fe5c169f7dd",
+    "checksum": "9328571a4bff32b5f01b2f56f6a6f0e103ad0b2894d9657587ce0aca1a012a63",
     "commit": "eb185fa34f3369552a3071bd8ed5af8219581934",
-    "archived_at": 1778157933,
+    "source_hash": "f440dd11f8cbc2605660f83a323cb027df21186d",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620435,
     "archive_name": "extensions-0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
