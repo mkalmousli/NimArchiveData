@@ -1062,5 +1062,12 @@
         "url": "https://github.com/rafaelvasco/nimrod-glfw/",
         "license": "MIT",
         "added_at": 1778620700
+    },
+    "chipmunk6": {
+        "id": "chipmunk6",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
+        "license": "MIT",
+        "added_at": 1778620706
     }
 }
