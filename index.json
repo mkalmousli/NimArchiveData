@@ -544,5 +544,12 @@
         "url": "https://github.com/choltreppe/polyrpc",
         "license": "MIT",
         "added_at": 1778546235
+    },
+    "arrayutils": {
+        "id": "arrayutils",
+        "type": "git",
+        "url": "https://github.com/choltreppe/arrayutils",
+        "license": "MIT",
+        "added_at": 1778546244
     }
 }
