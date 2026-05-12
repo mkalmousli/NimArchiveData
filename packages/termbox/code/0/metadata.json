@@ -1,7 +1,9 @@
 {
-    "checksum": "5995d94daed2f2f16eedd0e0b5b411aa332dbe8481bb3f0140dee974904840a7",
+    "checksum": "19a0dba5c1c5dafb588ffc4331aae2b36414bc7cdeef0787ba5afe9918a6a8d1",
     "commit": "20286d55776e1b46c88cf0622541fa968a286d16",
-    "archived_at": 1778158620,
+    "source_hash": "0377a035ec7f0e6ef6b34fdc31283b0e4a00c3d1",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620781,
     "archive_name": "termbox-latest.tar.gz",
     "readme": "README.md"
 }
