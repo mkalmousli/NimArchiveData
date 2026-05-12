@@ -1132,5 +1132,12 @@
         "url": "https://github.com/jyapayne/switch-build",
         "license": "MIT",
         "added_at": 1778621009
+    },
+    "aporia": {
+        "id": "aporia",
+        "type": "git",
+        "url": "https://github.com/nim-lang/Aporia",
+        "license": "GPLv2",
+        "added_at": 1778621017
     }
 }
