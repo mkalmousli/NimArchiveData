@@ -985,5 +985,12 @@
         "url": "https://github.com/ErikWDev/nanim/",
         "license": "MIT",
         "added_at": 1778620516
+    },
+    "templates": {
+        "id": "templates",
+        "type": "git",
+        "url": "https://github.com/onionhammer/nim-templates.git",
+        "license": "BSD",
+        "added_at": 1778620524
     }
 }
