@@ -1209,5 +1209,12 @@
         "url": "https://github.com/achesak/extmath.nim",
         "license": "MIT",
         "added_at": 1778621097
+    },
+    "gtk2": {
+        "id": "gtk2",
+        "type": "git",
+        "url": "https://github.com/nim-lang/gtk2",
+        "license": "MIT",
+        "added_at": 1778621099
     }
 }
