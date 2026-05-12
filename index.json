@@ -1167,5 +1167,12 @@
         "url": "https://github.com/dom96/ipsumgenera",
         "license": "MIT",
         "added_at": 1778621071
+    },
+    "clibpp": {
+        "id": "clibpp",
+        "type": "git",
+        "url": "https://github.com/onionhammer/clibpp.git",
+        "license": "MIT",
+        "added_at": 1778621076
     }
 }
