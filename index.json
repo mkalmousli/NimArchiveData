@@ -1153,5 +1153,12 @@
         "url": "https://github.com/nim-lang/threading",
         "license": "MIT",
         "added_at": 1778621059
+    },
+    "pas2nim": {
+        "id": "pas2nim",
+        "type": "git",
+        "url": "https://github.com/nim-lang/pas2nim",
+        "license": "MIT",
+        "added_at": 1778621065
     }
 }
