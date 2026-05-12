@@ -1160,5 +1160,12 @@
         "url": "https://github.com/nim-lang/pas2nim",
         "license": "MIT",
         "added_at": 1778621065
+    },
+    "ipsumgenera": {
+        "id": "ipsumgenera",
+        "type": "git",
+        "url": "https://github.com/dom96/ipsumgenera",
+        "license": "MIT",
+        "added_at": 1778621071
     }
 }
