@@ -1,7 +1,9 @@
 {
-    "checksum": "d1c6fa91e8b3f3674259a0f24a1e5aceaa743436713147eb0657070e768c4daf",
+    "checksum": "45fef84bfa61b76f1e7f236cab8280880fae60f61148c5afa66c7bb8147b39ea",
     "commit": "304b37b024ec41f41f1ebf74720539b04726dcc9",
-    "archived_at": 1778158347,
+    "source_hash": "611ca1f91426c5d762fa2629044d31341099240d",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620646,
     "archive_name": "sfml-latest.tar.gz",
     "readme": "README.md"
 }
