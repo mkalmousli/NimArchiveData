@@ -1,7 +1,9 @@
 {
-    "checksum": "79d62d2be1b5698c7eaaaa6df0073bef8dd450706f1da66edc6c1a731620b0f0",
+    "checksum": "4bdaf587747505d0c3750b6a8bf1113674e18d854ef13fe4418afad3003fae03",
     "commit": "63e87e1713459588f33844280de9821ba04e34c6",
-    "archived_at": 1778158399,
+    "source_hash": "1079751e56720e2b44e364208855dec533b36782",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620671,
     "archive_name": "nake-1.9.5.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

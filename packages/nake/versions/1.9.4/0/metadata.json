@@ -1,7 +1,9 @@
 {
-    "checksum": "277c317840fc41a4a7e7a167124af2790c31060c8877b1c2037421787839f04f",
+    "checksum": "b3d8d6008e67a41087ef4882fef000eb1312c0bdd9a67f29a6ca1e0383e851e7",
     "commit": "8bfbd2fd86ea5935858a1c21a368952998c5e32b",
-    "archived_at": 1778158398,
+    "source_hash": "48add43ad10dbfc71c1bfe9c957361919028506c",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620671,
     "archive_name": "nake-1.9.4.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
