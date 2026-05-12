@@ -1,7 +1,9 @@
 {
-    "checksum": "ada067261c5134b277158055cbce5122c553c5107d639335c145dba3f378244c",
+    "checksum": "d4b5f90d36720844102014dc33397174402e61d273275c2d0b0c00047342c9a6",
     "commit": "03da13651cefc3eb75c46d399e2ceab528a2b6e6",
-    "archived_at": 1778157569,
+    "source_hash": "150c5a0223cfb8f59b30c395584dfed480bb7434",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620273,
     "archive_name": "nimler-v4.5.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
