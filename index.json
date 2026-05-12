@@ -1230,5 +1230,12 @@
         "url": "https://github.com/nim-lang/x11",
         "license": "MIT",
         "added_at": 1778621126
+    },
+    "opengl": {
+        "id": "opengl",
+        "type": "git",
+        "url": "https://github.com/nim-lang/opengl",
+        "license": "MIT",
+        "added_at": 1778621134
     }
 }
