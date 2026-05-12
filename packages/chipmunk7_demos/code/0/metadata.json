@@ -1,7 +1,9 @@
 {
-    "checksum": "536f66d666774ac4cab72a00641fc858287fd6889659c1d43533a36cce112790",
+    "checksum": "3cfa4f79a7d76659855e6d13b1ab5d971ef6a672900cec005f183b62ba38d5f1",
     "commit": "33b4ee1a9dbf3647b8d5d3d01f8ad962b48c1c6e",
-    "archived_at": 1778158485,
+    "source_hash": "2efaba45962bc2d0a7c0341c7df239365d8ede1f",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620713,
     "archive_name": "chipmunk7_demos-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
