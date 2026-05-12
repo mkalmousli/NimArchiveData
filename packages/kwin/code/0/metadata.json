@@ -1,7 +1,9 @@
 {
-    "checksum": "3754b7a7f7c41de0b6fedeaff29e515b6952d60b0617cecc4c2345667388f797",
+    "checksum": "c23cc13411843903b676d2fa1811e5422f74eba488f24fade9562de31ea88f0c",
     "commit": "a4d532a4b383d1516c3c144fd31e99bc195a7ab5",
-    "archived_at": 1778158630,
+    "source_hash": "0af053eb756ba0dbe63df107d0406926272ba9e2",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620786,
     "archive_name": "kwin-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
