@@ -236,5 +236,12 @@
         "url": "https://github.com/Luteva-ssh/nivot",
         "license": "MIT",
         "added_at": 1778583242
+    },
+    "tejina": {
+        "id": "tejina",
+        "type": "git",
+        "url": "https://github.com/bctnry/tejina",
+        "license": "MIT",
+        "added_at": 1778583248
     }
 }
