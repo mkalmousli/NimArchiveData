@@ -817,5 +817,12 @@
         "url": "https://github.com/YesDrX/numnim",
         "license": "MIT",
         "added_at": 1778620102
+    },
+    "filesize": {
+        "id": "filesize",
+        "type": "git",
+        "url": "https://github.com/sergiotapia/filesize",
+        "license": "MIT",
+        "added_at": 1778620124
     }
 }
