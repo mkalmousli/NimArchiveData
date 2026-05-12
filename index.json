@@ -1055,5 +1055,12 @@
         "url": "https://github.com/fowlmouth/nake/",
         "license": "MIT",
         "added_at": 1778620668
+    },
+    "nimrod-glfw": {
+        "id": "nimrod-glfw",
+        "type": "git",
+        "url": "https://github.com/rafaelvasco/nimrod-glfw/",
+        "license": "MIT",
+        "added_at": 1778620700
     }
 }
