@@ -1174,5 +1174,12 @@
         "url": "https://github.com/onionhammer/clibpp.git",
         "license": "MIT",
         "added_at": 1778621076
+    },
+    "pastebin": {
+        "id": "pastebin",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-pastebin",
+        "license": "MIT",
+        "added_at": 1778621082
     }
 }
