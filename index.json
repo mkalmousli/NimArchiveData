@@ -488,5 +488,12 @@
         "url": "https://github.com/neroist/nimipdf",
         "license": "MIT",
         "added_at": 1778619065
+    },
+    "nimwkhtmltox": {
+        "id": "nimwkhtmltox",
+        "type": "git",
+        "url": "https://github.com/neroist/nim-wkhtmltox",
+        "license": "LGPL-3.0-or-later",
+        "added_at": 1778619071
     }
 }
