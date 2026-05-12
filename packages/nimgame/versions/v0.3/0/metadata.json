@@ -1,7 +1,9 @@
 {
-    "checksum": "f55c14e16fa9ab134c30492846524bef8193b05866f93a752c4eb674c5379415",
+    "checksum": "adb447d7ce8f11f05bc595584e85fa94273f709f3e61868afdb71e174ee18070",
     "commit": "fd4794c30f9f6fade703adf1815beef5be0a8969",
-    "archived_at": 1778158202,
+    "source_hash": "ff2237e8024bb905f2fb705521c8597b24e2c317",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620574,
     "archive_name": "nimgame-v0.3.tar.gz",
     "readme": "README.md"
 }
