@@ -1265,5 +1265,12 @@
         "url": "https://github.com/nim-lang/python",
         "license": "MIT",
         "added_at": 1778621198
+    },
+    "NimBorg": {
+        "id": "NimBorg",
+        "type": "git",
+        "url": "https://github.com/micklat/NimBorg",
+        "license": "MIT",
+        "added_at": 1778621204
     }
 }
