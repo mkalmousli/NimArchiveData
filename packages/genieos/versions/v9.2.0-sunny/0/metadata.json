@@ -1,7 +1,9 @@
 {
-    "checksum": "559d98578a6298f688017338b5fc80ff13a41ece45d88e8a327772b55397fff0",
+    "checksum": "b1dcd1ecb447e6708190f5dfc97ab64d85784b2d83717349369d200611d43875",
     "commit": "1657e33af98542381cb7d8c8d12762a7edebe3ec",
-    "archived_at": 1778157984,
+    "source_hash": "5facc7caa6b5efb0b83dd09b09f12251e0c250d6",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620463,
     "archive_name": "genieos-v9.2.0-sunny.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

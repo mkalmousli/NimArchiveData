@@ -1,7 +1,9 @@
 {
-    "checksum": "c98691178fe3c770da5107db966627bd1aa287b972237e817c2a1ff938c6160d",
+    "checksum": "d628d3d516297c24eb49cff5f564f4d82b3657b81a87f7f067ab5d12293bd12a",
     "commit": "2bf2ea4342e9591e82fbccd8ef1e6cdcbe03d67b",
-    "archived_at": 1778157984,
+    "source_hash": "f72930bb61a04970dedfa3dbbf07d7f06f5f68c1",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620463,
     "archive_name": "genieos-v9.0.0-taeyeon.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

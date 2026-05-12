@@ -1,7 +1,9 @@
 {
-    "checksum": "402525c67de787bbce1afd3fb45047b70642333359006122b19428554788c929",
+    "checksum": "6622815b1d0ecbed090db0c956453135376d6f5298986a9a573bcef7f0010a90",
     "commit": "226905a20104a1be0a8dbb0e1e2a3c46c66a0238",
-    "archived_at": 1778157985,
+    "source_hash": "866caab70ebe1c68805a0b6405cdf6d0a67767e0",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620463,
     "archive_name": "genieos-v9.4.0-tiffany.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

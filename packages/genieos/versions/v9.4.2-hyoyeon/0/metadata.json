@@ -1,7 +1,9 @@
 {
-    "checksum": "31a1002229252f30c6efdf7c26a5f7530ab65208cc35827878434c47de55fcc8",
+    "checksum": "a1a74d747ead480d674f867b1558e4b63491f130ee72a939ba1c9af1e6b710f3",
     "commit": "9801bcf42d1a0266f0395b7b38a429ad937e32ab",
-    "archived_at": 1778157985,
+    "source_hash": "93e270c4d9e6cb82b4ee71e863df0e79261a3e28",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620463,
     "archive_name": "genieos-v9.4.2-hyoyeon.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
