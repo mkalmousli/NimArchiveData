@@ -992,5 +992,12 @@
         "url": "https://github.com/onionhammer/nim-templates.git",
         "license": "BSD",
         "added_at": 1778620524
+    },
+    "murmur": {
+        "id": "murmur",
+        "type": "git",
+        "url": "https://github.com/olahol/nimrod-murmur/",
+        "license": "MIT",
+        "added_at": 1778620529
     }
 }
