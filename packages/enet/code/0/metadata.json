@@ -1,6 +1,8 @@
 {
-    "checksum": "b341880b186256bbad8c98c8d0df43d0f00d3021c47e0ef280dff1ec9e3a75a3",
+    "checksum": "10b2b0f7b276e01cde5966a2016fdaa09a48c8d53fb57a54094cc4962c14a2a7",
     "commit": "352192e3dcf4cf8ea42613c9595ad313754d896e",
-    "archived_at": 1778158358,
+    "source_hash": "1795d6f8e9192b1c323a3d7de928fcb24fc25ec9",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620651,
     "archive_name": "enet-latest.tar.gz"
 }
