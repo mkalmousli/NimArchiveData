@@ -950,5 +950,12 @@
         "url": "https://github.com/jamesalbert/nimates",
         "license": "Apache",
         "added_at": 1778620441
+    },
+    "discordnim": {
+        "id": "discordnim",
+        "type": "git",
+        "url": "https://github.com/Krognol/discordnim",
+        "license": "MIT",
+        "added_at": 1778620447
     }
 }
