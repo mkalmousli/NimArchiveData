@@ -1,7 +1,9 @@
 {
-    "checksum": "9a41bf0fe9d0e25e200b03af0cb88fc000b37838e2a3322a36bafb62c25ad35b",
+    "checksum": "92fcb64ead1d06b86a6b16d9e3c343dc70f648ee9cb2cb4f63a1aea07dc8baec",
     "commit": "3283ba2065820495c177656261d0f909fd7d1228",
-    "archived_at": 1778157544,
+    "source_hash": "0b316eef33350d256a0b56c2d83c551751d1c518",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620259,
     "archive_name": "decisiontree-latest.tar.gz",
     "readme": "README.md"
 }
