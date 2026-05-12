@@ -1,7 +1,9 @@
 {
-    "checksum": "aa60f35b5956edd73992edbea96269e65dc3a1a86d7aabde5e4e10ef1402e47b",
+    "checksum": "4853b60de3c8da4e8207c84fa5ed380dcf8d39231726fa7edc152db8687d65c6",
     "commit": "7509ad85cf0613242c9297ff396ef8872ce9bd1c",
-    "archived_at": 1778157556,
+    "source_hash": "6ae96cb6d3c9ba54481c9ba9d377584c205c1598",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620265,
     "archive_name": "tsv2json-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
