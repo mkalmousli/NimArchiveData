@@ -1,7 +1,9 @@
 {
-    "checksum": "d099a972818d82e93a9c5c7d2f240751793edd7f70fd880c7458385b52f1751c",
+    "checksum": "9d511a1de6afe0f1811dc935296a86baec1a34de4ca85ef6c2dd2e331c1c3a34",
     "commit": "dc5bf1c98280c970a8b6f80578cb291780396ef2",
-    "archived_at": 1778158475,
+    "source_hash": "bc226c6c61dfd4f1197eb4c5cccfbdaf0438ab49",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620708,
     "archive_name": "chipmunk6-latest.tar.gz",
     "readme": "README.md"
 }
