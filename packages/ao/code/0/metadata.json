@@ -1,7 +1,9 @@
 {
-    "checksum": "7df7fef944862f81a88ada3daf2a55d1814401fcc2a505f47dd019ee0a3c6606",
+    "checksum": "92a8abcb179b2f6aeb2fe10553df7aa77cf4fcd48ac6e3cb792907fd6f472345",
     "commit": "06f7cad9c4d0c4d99e43446db6e5ba598fff1c73",
-    "archived_at": 1778158610,
+    "source_hash": "01becbf4ba3b21b515b5a32db857e111c2e263de",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620776,
     "archive_name": "ao-latest.tar.gz",
     "readme": "README.md"
 }
