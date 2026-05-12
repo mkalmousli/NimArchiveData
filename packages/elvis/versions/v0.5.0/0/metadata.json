@@ -1,7 +1,9 @@
 {
-    "checksum": "432fe0d2a40b34c0aa864c389254883ba3a01d9e39fa8cc242add33990bdb216",
+    "checksum": "49021766941720ef4cb5593ae90db4a930eaa0144077b722065818b7af8bbf96",
     "commit": "f0632e830c264ccd2e8489596db9b29fd5d1cd67",
-    "archived_at": 1778157859,
+    "source_hash": "ce05b47b3543dc3dc0bb2beaf4934bef39879811",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620399,
     "archive_name": "elvis-v0.5.0.tar.gz",
     "readme": "README.md"
 }

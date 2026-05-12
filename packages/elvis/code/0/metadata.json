@@ -1,7 +1,9 @@
 {
-    "checksum": "990196e1aca183a6f0c48f270d23b1a19bfd974025752de49fd26fc2bf18c05a",
+    "checksum": "0df86afd6cf76c23a4a6709bf975bbf478a3aa9dbb657989f3e2473fe23b0483",
     "commit": "9aac6d4d80b061251ba1b67a0fb68e74f7b4743c",
-    "archived_at": 1778157858,
+    "source_hash": "12e36b482eb8f5a37344bb02bb0ab8630a441576",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620398,
     "archive_name": "elvis-latest.tar.gz",
     "readme": "README.md"
 }
