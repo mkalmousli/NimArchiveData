@@ -1,7 +1,9 @@
 {
-    "checksum": "e0102a86b6c795b584bff5e115e80707f24292c52f434728c1740a1207f86f83",
+    "checksum": "35dbfd94821fc4773a8198e03aa6fe3ae1d1f3c3c5dea671e1afd5575855cead",
     "commit": "b9e5cd59ff000001ac1b58029089e40994bf869d",
-    "archived_at": 1778158099,
+    "source_hash": "9bc2e576a329b509f8319088f2c699b8942588b1",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620519,
     "archive_name": "nanim-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
