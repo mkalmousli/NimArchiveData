@@ -943,5 +943,12 @@
         "url": "https://github.com/jyapayne/nim-extensions",
         "license": "MIT",
         "added_at": 1778620433
+    },
+    "nimates": {
+        "id": "nimates",
+        "type": "git",
+        "url": "https://github.com/jamesalbert/nimates",
+        "license": "Apache",
+        "added_at": 1778620441
     }
 }
