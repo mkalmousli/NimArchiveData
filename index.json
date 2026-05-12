@@ -1258,5 +1258,12 @@
         "url": "https://github.com/stavenko/nim-glm",
         "license": "MIT",
         "added_at": 1778621182
+    },
+    "python": {
+        "id": "python",
+        "type": "git",
+        "url": "https://github.com/nim-lang/python",
+        "license": "MIT",
+        "added_at": 1778621198
     }
 }
