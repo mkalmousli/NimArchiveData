@@ -1,7 +1,9 @@
 {
-    "checksum": "88a4a2fd667d2fdaf4cad4722818dfd4f09e27bb220ef40ce676fb026e52de8f",
+    "checksum": "625eb178767a49dde9d63fc78dd8b475f278cba835f1ec3317b61156cd1ecb12",
     "commit": "6f3b10fb7cb5381f13bd24554849f0c3831e2008",
-    "archived_at": 1778158027,
+    "source_hash": "016258653d3ea6f448a4ef958d4755ba1471cd9c",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620483,
     "archive_name": "jester-v0.4.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
