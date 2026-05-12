@@ -1,7 +1,9 @@
 {
-    "checksum": "e5679dd8c94da3890785fea21f876a00e3c0c972fbcd1970bc3bb50b5ddbb3a8",
+    "checksum": "4257987506b2066f5499a3c83fc1883545c28a112286b466ecd4289045f1b34e",
     "commit": "c8db2ab0acc505d63f26c15d525e01fa970a8cf6",
-    "archived_at": 1778158382,
+    "source_hash": "4721ea9a37cd3de649325595b7068dfbdb850a70",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620664,
     "archive_name": "fowltek-latest.tar.gz",
     "readme": "README.md"
 }
