@@ -901,5 +901,12 @@
         "url": "https://github.com/MarcAzar/BipBuffer",
         "license": "MIT",
         "added_at": 1778620370
+    },
+    "whip": {
+        "id": "whip",
+        "type": "git",
+        "url": "https://github.com/mattaylor/whip",
+        "license": "MIT",
+        "added_at": 1778620375
     }
 }
