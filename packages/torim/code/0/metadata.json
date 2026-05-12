@@ -1,7 +1,9 @@
 {
-    "checksum": "ab38ae6c3cd0855f2edaac14330ac7e25268669da6da76402cfb940ca683f563",
+    "checksum": "c8ad5228579d18a6702a39cd313ca78aeb5717326a304a4183c41c809c67aa57",
     "commit": "be96022a180c838a6d666af185d9753550f24b56",
-    "archived_at": 1778157051,
+    "source_hash": "b9d2b6c06e60a3ede2093865400423fe1a263be4",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778620029,
     "archive_name": "torim-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
