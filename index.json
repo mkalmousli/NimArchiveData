@@ -17988,5 +17988,12 @@
         "url": "https://github.com/nemuelw/nim-agify",
         "license": "GPL-3.0-only",
         "added_at": 1778697809
+    },
+    "genderize": {
+        "id": "genderize",
+        "type": "git",
+        "url": "https://github.com/nemuelw/genderize",
+        "license": "GPL-3.0-only",
+        "added_at": 1778697817
     }
 }
