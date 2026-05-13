@@ -16770,5 +16770,12 @@
         "url": "https://github.com/nim-lang/sat",
         "license": "MIT",
         "added_at": 1778692687
+    },
+    "nginwho": {
+        "id": "nginwho",
+        "type": "git",
+        "url": "https://github.com/pouriyajamshidi/nginwho",
+        "license": "MIT",
+        "added_at": 1778692696
     }
 }
