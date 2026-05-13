@@ -17890,5 +17890,12 @@
         "url": "https://github.com/Luteva-ssh/what_the_fork",
         "license": "MIT",
         "added_at": 1778697168
+    },
+    "obfusel": {
+        "id": "obfusel",
+        "type": "git",
+        "url": "https://github.com/Luteva-ssh/obfusel",
+        "license": "MIT",
+        "added_at": 1778697177
     }
 }
