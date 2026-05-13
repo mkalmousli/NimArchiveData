@@ -16805,5 +16805,12 @@
         "url": "https://github.com/Vindaar/orgtables",
         "license": "MIT",
         "added_at": 1778692853
+    },
+    "flatBuffers": {
+        "id": "flatBuffers",
+        "type": "git",
+        "url": "https://github.com/Vindaar/flatBuffers",
+        "license": "MIT",
+        "added_at": 1778692867
     }
 }
