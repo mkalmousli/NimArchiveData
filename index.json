@@ -17603,5 +17603,12 @@
         "url": "https://github.com/alexekdahl/assert",
         "license": "MIT",
         "added_at": 1778696191
+    },
+    "css": {
+        "id": "css",
+        "type": "git",
+        "url": "https://github.com/thing-king/css",
+        "license": "MIT",
+        "added_at": 1778696204
     }
 }
