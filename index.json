@@ -17519,5 +17519,12 @@
         "url": "https://github.com/nim-lang/nimony.git",
         "license": "MIT",
         "added_at": 1778696016
+    },
+    "args": {
+        "id": "args",
+        "type": "git",
+        "url": "https://github.com/threatfender/args",
+        "license": "MIT",
+        "added_at": 1778696044
     }
 }
