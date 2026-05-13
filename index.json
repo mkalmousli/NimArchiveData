@@ -17337,5 +17337,12 @@
         "url": "https://github.com/guzba/smelly",
         "license": "MIT",
         "added_at": 1778694894
+    },
+    "crossdb": {
+        "id": "crossdb",
+        "type": "git",
+        "url": "https://github.com/openpeeps/crossdb-nim",
+        "license": "MIT",
+        "added_at": 1778694928
     }
 }
