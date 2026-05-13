@@ -17967,5 +17967,12 @@
         "url": "https://github.com/theDataFlowClub/nullable",
         "license": "MIT",
         "added_at": 1778697781
+    },
+    "nimcp": {
+        "id": "nimcp",
+        "type": "git",
+        "url": "https://github.com/gokr/nimcp",
+        "license": "MIT",
+        "added_at": 1778697790
     }
 }
