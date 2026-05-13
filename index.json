@@ -16651,5 +16651,12 @@
         "url": "https://github.com/ThomasTJdev/nim_awsSigV4",
         "license": "MIT",
         "added_at": 1778691074
+    },
+    "vier": {
+        "id": "vier",
+        "type": "git",
+        "url": "https://git.sr.ht/~xigoi/vier",
+        "license": "GPL-3.0-or-later",
+        "added_at": 1778691094
     }
 }
