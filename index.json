@@ -16980,5 +16980,12 @@
         "url": "https://github.com/GeK2K/nudates",
         "license": "MIT",
         "added_at": 1778693515
+    },
+    "leveldbstatic": {
+        "id": "leveldbstatic",
+        "type": "git",
+        "url": "https://github.com/codex-storage/nim-leveldb",
+        "license": "MIT",
+        "added_at": 1778693524
     }
 }
