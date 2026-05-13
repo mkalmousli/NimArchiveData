@@ -17155,5 +17155,12 @@
         "url": "https://github.com/glassesneo/ecslib",
         "license": "MIT",
         "added_at": 1778694245
+    },
+    "box2d": {
+        "id": "box2d",
+        "type": "git",
+        "url": "https://github.com/jon-edward/box2d.nim",
+        "license": "MIT",
+        "added_at": 1778694268
     }
 }
