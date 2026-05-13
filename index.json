@@ -16742,5 +16742,12 @@
         "url": "https://github.com/guzba/sunny",
         "license": "MIT",
         "added_at": 1778691534
+    },
+    "rmq_statsd": {
+        "id": "rmq_statsd",
+        "type": "git",
+        "url": "https://github.com/Q-Master/rmq-statsd.nim",
+        "license": "MIT",
+        "added_at": 1778691583
     }
 }
