@@ -17617,5 +17617,12 @@
         "url": "https://github.com/zendbit/katabase",
         "license": "MIT",
         "added_at": 1778696215
+    },
+    "md4": {
+        "id": "md4",
+        "type": "git",
+        "url": "https://github.com/infinoid/md4.nim",
+        "license": "MIT",
+        "added_at": 1778696361
     }
 }
