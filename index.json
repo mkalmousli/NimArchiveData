@@ -16665,5 +16665,12 @@
         "url": "https://github.com/thisago/instagram",
         "license": "MIT",
         "added_at": 1778691213
+    },
+    "cppconst": {
+        "id": "cppconst",
+        "type": "git",
+        "url": "https://github.com/sls1005/nim-cppconst",
+        "license": "MIT",
+        "added_at": 1778691249
     }
 }
