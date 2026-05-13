@@ -1,9 +1,9 @@
 {
-    "checksum": "325278f367a64fc5662db8711bffdf2eea18fd57150a621132b74703dab78ab2",
+    "checksum": "38beb142a40b84fe48c07a41ca84db0dc08902ed79d68e7e053b02bb74e0a3e1",
     "commit": "43f0edf3637ab6817a2f9621fcb5ec7523d46769",
     "source_hash": "fb415033b7b0740f7603f9ae7f99a56886839b18",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778633483,
+    "archived_at": 1778654233,
     "archive_name": "nimcorpora-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
