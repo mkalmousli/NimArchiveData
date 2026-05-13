@@ -17239,5 +17239,12 @@
         "url": "https://github.com/glassesneo/spellua",
         "license": "MIT",
         "added_at": 1778694572
+    },
+    "ipv4utils": {
+        "id": "ipv4utils",
+        "type": "git",
+        "url": "https://github.com/TelegramXPlus/ipv4utils",
+        "license": "MIT",
+        "added_at": 1778694584
     }
 }
