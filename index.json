@@ -18051,5 +18051,12 @@
         "url": "https://github.com/Toma400/Espirit",
         "license": "MIT NON-AI License",
         "added_at": 1778698135
+    },
+    "chronim": {
+        "id": "chronim",
+        "type": "git",
+        "url": "https://github.com/aad1995/chronim",
+        "license": "MIT",
+        "added_at": 1778698149
     }
 }
