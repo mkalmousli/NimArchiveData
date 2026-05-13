@@ -1,9 +1,9 @@
 {
-    "checksum": "0fc86d9a433abb08494561445dfc596e7e8d63978bcfa8fb67a62c71801b2e54",
+    "checksum": "44c9aa2ae9ebfee5c295a910dbe937bf5c4b8dad66b5da9d0019f89547586a85",
     "commit": "023aea6497148522cd6562004c4d68235fd691bd",
     "source_hash": "b19c3fda78947e6536550d4bdc333ee110383396",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778669412,
+    "archived_at": 1778687621,
     "archive_name": "gpt4free-v0.1.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
