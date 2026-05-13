@@ -18016,5 +18016,12 @@
         "url": "https://github.com/DitzDev/Rakta",
         "license": "MIT",
         "added_at": 1778697889
+    },
+    "razor": {
+        "id": "razor",
+        "type": "git",
+        "url": "https://github.com/navid-m/razor",
+        "license": "GPL-3.0-only",
+        "added_at": 1778697908
     }
 }
