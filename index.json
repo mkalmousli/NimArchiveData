@@ -17736,5 +17736,12 @@
         "url": "https://github.com/xTrayambak/nim-louvre",
         "license": "LGPL-2.1-or-later",
         "added_at": 1778696667
+    },
+    "shakar": {
+        "id": "shakar",
+        "type": "git",
+        "url": "https://github.com/ferus-web/shakar",
+        "license": "MIT",
+        "added_at": 1778696687
     }
 }
