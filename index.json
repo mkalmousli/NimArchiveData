@@ -17148,5 +17148,12 @@
         "url": "https://github.com/mratsim/constantine",
         "license": "MIT or Apache License 2.0",
         "added_at": 1778694211
+    },
+    "ecslib": {
+        "id": "ecslib",
+        "type": "git",
+        "url": "https://github.com/glassesneo/ecslib",
+        "license": "MIT",
+        "added_at": 1778694245
     }
 }
