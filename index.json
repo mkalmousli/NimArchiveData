@@ -18583,5 +18583,12 @@
         "url": "https://github.com/jailop/newsapi-client",
         "license": "MIT",
         "added_at": 1778700651
+    },
+    "nserve": {
+        "id": "nserve",
+        "type": "git",
+        "url": "https://github.com/v4rm4n/nserve",
+        "license": "MIT",
+        "added_at": 1778700660
     }
 }
