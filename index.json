@@ -18107,5 +18107,12 @@
         "url": "https://github.com/fox0430/celina",
         "license": "MIT",
         "added_at": 1778698228
+    },
+    "cglm": {
+        "id": "cglm",
+        "type": "git",
+        "url": "https://github.com/Niminem/cglm",
+        "license": "MIT",
+        "added_at": 1778698290
     }
 }
