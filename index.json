@@ -18387,5 +18387,12 @@
         "url": "https://github.com/pshankinclarke/valkey-nim",
         "license": "MIT",
         "added_at": 1778699121
+    },
+    "nimpacket": {
+        "id": "nimpacket",
+        "type": "git",
+        "url": "https://github.com/0x57Origin/NimPacket",
+        "license": "MIT",
+        "added_at": 1778699134
     }
 }
