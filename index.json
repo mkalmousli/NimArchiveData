@@ -17302,5 +17302,12 @@
         "url": "https://github.com/monofuel/llama_leap",
         "license": "MIT",
         "added_at": 1778694832
+    },
+    "manta": {
+        "id": "manta",
+        "type": "git",
+        "url": "https://github.com/metagn/manta",
+        "license": "MIT",
+        "added_at": 1778694844
     }
 }
