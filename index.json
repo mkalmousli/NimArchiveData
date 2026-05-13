@@ -17750,5 +17750,12 @@
         "url": "https://gitlab.com/Maxb0tbeep/bytesized",
         "license": "GPL-3.0-only",
         "added_at": 1778696704
+    },
+    "nimlink": {
+        "id": "nimlink",
+        "type": "git",
+        "url": "https://github.com/thing-king/nimlink",
+        "license": "MIT",
+        "added_at": 1778696737
     }
 }
