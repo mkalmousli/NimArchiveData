@@ -17071,5 +17071,12 @@
         "url": "https://github.com/FyraLabs/nimsutils",
         "license": "MIT",
         "added_at": 1778693751
+    },
+    "chame": {
+        "id": "chame",
+        "type": "git",
+        "url": "https://git.sr.ht/~bptato/chame",
+        "license": "Unlicense",
+        "added_at": 1778693761
     }
 }
