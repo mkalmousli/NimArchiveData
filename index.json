@@ -16784,5 +16784,12 @@
         "url": "https://github.com/tdely/umriss",
         "license": "MIT",
         "added_at": 1778692736
+    },
+    "impulse": {
+        "id": "impulse",
+        "type": "git",
+        "url": "https://github.com/SciNim/impulse",
+        "license": "MIT",
+        "added_at": 1778692766
     }
 }
