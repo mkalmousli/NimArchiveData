@@ -18317,5 +18317,12 @@
         "url": "https://github.com/openpeeps/webtokens",
         "license": "MIT",
         "added_at": 1778698967
+    },
+    "qpdf": {
+        "id": "qpdf",
+        "type": "git",
+        "url": "https://github.com/fox0430/nim-qpdf",
+        "license": "MIT",
+        "added_at": 1778698979
     }
 }
