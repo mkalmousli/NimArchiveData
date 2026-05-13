@@ -16728,5 +16728,12 @@
         "url": "https://github.com/tdely/selfpipe",
         "license": "MIT",
         "added_at": 1778691503
+    },
+    "simplestatsdclient": {
+        "id": "simplestatsdclient",
+        "type": "git",
+        "url": "https://github.com/Q-Master/statsdclient.nim",
+        "license": "MIT",
+        "added_at": 1778691517
     }
 }
