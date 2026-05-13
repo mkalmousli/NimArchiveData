@@ -17610,5 +17610,12 @@
         "url": "https://github.com/thing-king/css",
         "license": "MIT",
         "added_at": 1778696204
+    },
+    "katabase": {
+        "id": "katabase",
+        "type": "git",
+        "url": "https://github.com/zendbit/katabase",
+        "license": "MIT",
+        "added_at": 1778696215
     }
 }
