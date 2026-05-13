@@ -17225,5 +17225,12 @@
         "url": "https://github.com/enthus1ast/formatja",
         "license": "MIT",
         "added_at": 1778694544
+    },
+    "seiryu": {
+        "id": "seiryu",
+        "type": "git",
+        "url": "https://github.com/glassesneo/seiryu",
+        "license": "MIT",
+        "added_at": 1778694552
     }
 }
