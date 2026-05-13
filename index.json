@@ -17505,5 +17505,12 @@
         "url": "https://github.com/IcedQuinn/icedhash",
         "license": "MIT",
         "added_at": 1778695996
+    },
+    "errorcodes": {
+        "id": "errorcodes",
+        "type": "git",
+        "url": "https://github.com/nim-lang/errorcodes.git",
+        "license": "MIT",
+        "added_at": 1778696006
     }
 }
