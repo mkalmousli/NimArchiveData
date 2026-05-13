@@ -17575,5 +17575,12 @@
         "url": "https://github.com/thing-king/jsony_plus",
         "license": "MIT",
         "added_at": 1778696137
+    },
+    "json_schema_import": {
+        "id": "json_schema_import",
+        "type": "git",
+        "url": "https://github.com/Nycto/NimJsonSchemaImporter",
+        "license": "MIT",
+        "added_at": 1778696147
     }
 }
