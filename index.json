@@ -18373,5 +18373,12 @@
         "url": "https://github.com/arungeorgesaji/tide",
         "license": "MIT",
         "added_at": 1778699097
+    },
+    "asyncchannels": {
+        "id": "asyncchannels",
+        "type": "git",
+        "url": "https://github.com/status-im/nim-async-channels",
+        "license": "MIT",
+        "added_at": 1778699113
     }
 }
