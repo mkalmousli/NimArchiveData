@@ -17330,5 +17330,12 @@
         "url": "https://github.com/metagn/froth",
         "license": "MIT",
         "added_at": 1778694886
+    },
+    "smelly": {
+        "id": "smelly",
+        "type": "git",
+        "url": "https://github.com/guzba/smelly",
+        "license": "MIT",
+        "added_at": 1778694894
     }
 }
