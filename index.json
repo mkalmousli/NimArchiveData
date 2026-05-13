@@ -19129,5 +19129,12 @@
         "url": "https://github.com/capocasa/streamhttp",
         "license": "MIT",
         "added_at": 1778702267
+    },
+    "sarcophagus": {
+        "id": "sarcophagus",
+        "type": "git",
+        "url": "https://github.com/elcritch/sarcophagus",
+        "license": "Apache-2.0",
+        "added_at": 1778702286
     }
 }
