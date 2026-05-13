@@ -18919,5 +18919,12 @@
         "url": "https://github.com/nim-community/nextract",
         "license": "MIT",
         "added_at": 1778701718
+    },
+    "hwylterm": {
+        "id": "hwylterm",
+        "type": "git",
+        "url": "https://github.com/daylinmorgan/hwylterm",
+        "license": "MIT",
+        "added_at": 1778701726
     }
 }
