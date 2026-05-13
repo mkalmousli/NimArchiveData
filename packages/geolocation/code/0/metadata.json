@@ -1,9 +1,9 @@
 {
-    "checksum": "6625448a75e6a8994fe3c7fdee4b41582ed71aa4ab087787e63e24dae5270964",
+    "checksum": "f6e2f69ed0fea4e146b7ce3116a0d8121af641062380b8ea94f08f63fc385c91",
     "commit": "f132342badfd77635368cc894e7af86421cccd79",
     "source_hash": "97b05874e97bede0abbb99f6443568b2a90658a8",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778633348,
+    "archived_at": 1778654108,
     "archive_name": "geolocation-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
