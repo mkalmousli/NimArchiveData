@@ -18366,5 +18366,12 @@
         "url": "https://github.com/fox0430/nim-xerces",
         "license": "MIT",
         "added_at": 1778699088
+    },
+    "tide": {
+        "id": "tide",
+        "type": "git",
+        "url": "https://github.com/arungeorgesaji/tide",
+        "license": "MIT",
+        "added_at": 1778699097
     }
 }
