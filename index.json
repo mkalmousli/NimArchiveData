@@ -18261,5 +18261,12 @@
         "url": "https://github.com/dacctal/pkgit",
         "license": "GPL-3.0-or-later",
         "added_at": 1778698821
+    },
+    "noiseprotocol": {
+        "id": "noiseprotocol",
+        "type": "git",
+        "url": "https://github.com/kaichaosun/nim-noise",
+        "license": "MIT",
+        "added_at": 1778698874
     }
 }
