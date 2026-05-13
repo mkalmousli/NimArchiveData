@@ -19157,5 +19157,12 @@
         "url": "https://github.com/bung87/libsql",
         "license": "MIT",
         "added_at": 1778702324
+    },
+    "spf": {
+        "id": "spf",
+        "type": "git",
+        "url": "https://github.com/openpeeps/libspf-nim",
+        "license": "MIT",
+        "added_at": 1778702332
     }
 }
