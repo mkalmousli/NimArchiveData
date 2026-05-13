@@ -18219,5 +18219,12 @@
         "url": "https://github.com/ph4mished/cipherlib",
         "license": "MIT",
         "added_at": 1778698695
+    },
+    "uctl": {
+        "id": "uctl",
+        "type": "git",
+        "url": "https://github.com/litlighilit/uctl",
+        "license": "MIT",
+        "added_at": 1778698709
     }
 }
