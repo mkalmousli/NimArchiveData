@@ -17421,5 +17421,12 @@
         "url": "https://git.dog/Caroline/NimBTC",
         "license": "MIT",
         "added_at": 1778695294
+    },
+    "gdext": {
+        "id": "gdext",
+        "type": "git",
+        "url": "https://github.com/godot-nim/gdext-nim",
+        "license": "MIT",
+        "added_at": 1778695303
     }
 }
