@@ -285,5 +285,12 @@
         "url": "https://github.com/Alogani/asyncproc",
         "license": "MIT",
         "added_at": 1778670116
+    },
+    "aloganimisc": {
+        "id": "aloganimisc",
+        "type": "git",
+        "url": "https://github.com/Alogani/aloganimisc",
+        "license": "MIT",
+        "added_at": 1778670171
     }
 }
