@@ -16791,5 +16791,12 @@
         "url": "https://github.com/SciNim/impulse",
         "license": "MIT",
         "added_at": 1778692766
+    },
+    "xrayAttenuation": {
+        "id": "xrayAttenuation",
+        "type": "git",
+        "url": "https://github.com/SciNim/xrayAttenuation",
+        "license": "MIT",
+        "added_at": 1778692783
     }
 }
