@@ -18093,5 +18093,12 @@
         "url": "https://github.com/capocasa/mmops",
         "license": "MIT",
         "added_at": 1778698193
+    },
+    "nimchess": {
+        "id": "nimchess",
+        "type": "git",
+        "url": "https://github.com/tsoj/nimchess",
+        "license": "LGPL-3.0-linking-exception",
+        "added_at": 1778698208
     }
 }
