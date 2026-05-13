@@ -18828,5 +18828,12 @@
         "url": "https://github.com/nimmer-jp/crown",
         "license": "MIT",
         "added_at": 1778701430
+    },
+    "njsdb": {
+        "id": "njsdb",
+        "type": "git",
+        "url": "https://github.com/bung87/nim-simpledb",
+        "license": "MIT",
+        "added_at": 1778701565
     }
 }
