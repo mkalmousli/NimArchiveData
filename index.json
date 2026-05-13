@@ -19164,5 +19164,12 @@
         "url": "https://github.com/openpeeps/libspf-nim",
         "license": "MIT",
         "added_at": 1778702332
+    },
+    "opendmarc": {
+        "id": "opendmarc",
+        "type": "git",
+        "url": "https://github.com/openpeeps/libopendmarc-nim",
+        "license": "MIT",
+        "added_at": 1778702344
     }
 }
