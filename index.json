@@ -17918,5 +17918,12 @@
         "url": "https://github.com/arashi-software/clutter",
         "license": "GPL-3.0-only",
         "added_at": 1778697524
+    },
+    "pffft": {
+        "id": "pffft",
+        "type": "git",
+        "url": "https://github.com/capocasa/pffft",
+        "license": "BSD-3-Clause",
+        "added_at": 1778697636
     }
 }
