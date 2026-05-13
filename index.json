@@ -18562,5 +18562,12 @@
         "url": "https://github.com/openpeeps/multipart",
         "license": "MIT",
         "added_at": 1778700584
+    },
+    "voodoo": {
+        "id": "voodoo",
+        "type": "git",
+        "url": "https://github.com/openpeeps/voodoo",
+        "license": "MIT",
+        "added_at": 1778700593
     }
 }
