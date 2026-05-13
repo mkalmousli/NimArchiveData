@@ -1,0 +1,120 @@
+scfg (simple configuration file format) parser
+==============================================
+
+A Nim library for `scfg <https://codeberg.org/emersion/scfg>`_
+
+
+Features
+^^^^^^^^
+* Simple API
+* Fully compliant to the `scfg test suite <https://codeberg.org/emersion/scfg/src/branch/master/tests>`_
+
+
+Usage
+^^^^^
+
+.. code-block:: nim
+
+
+    type
+      LocationConfig = object
+        path: string
+        exact_match: bool
+        root: string
+        index: seq[string]
+        allow: string
+        log_not_found: bool
+        access_log: bool
+
+      ServerConfig = object
+        port: uint
+        names: seq[string]
+        locations: seq[LocationConfig]
+
+    func error(msg: string) = raise new_exception(ValueError, msg)
+
+
+    func to_str(evt: ScfgEvent): string =
+      if evt.params.len != 1:
+        error("Expected exactly one value for " & evt.name & " got: " & $evt.params)
+      evt.params[0]
+
+
+    func to_bool(evt: ScfgEvent): bool =
+      let val = to_str(evt)
+      if val notin ["on", "off"]:
+        error("Expected either 'on' or 'off' for " & evt.name & " got: " & val)
+      val == "on"
+
+
+    func to_uint(evt: ScfgEvent): uint = parse_uint(to_str(evt))
+
+
+    let server_config = """
+    server   {
+        listen  80
+        server_name    example.com   www.example.com
+
+        location / {
+            root   /var/www/html
+            index  index.html index.htm
+        }
+
+        location = /robots.txt {
+            allow all
+            log_not_found off
+            access_log off
+        }
+    }
+    """
+
+    let stream = new_string_stream(server_config)
+    var
+      servers: seq[ServerConfig]
+      in_server = false
+      in_location = false
+
+    for event in parse_scfg(stream):
+      case event.kind:
+      of evt_start:
+        if not in_server and event.name == "server":
+          in_server = true
+          servers.add ServerConfig()
+        elif in_server and not in_location:
+          case event.name:
+          of "location":
+            in_location = true
+            servers[^1].locations.add LocationConfig(
+              access_log: true,
+              exact_match: event.params[0] == "=",
+              path: event.params[^1]
+            )
+          of "listen": servers[^1].port = event.to_uint()
+          of "server_name": servers[^1].names = event.params
+          else: error("Unknown directive: " & event.name)
+        elif in_location:
+          case event.name:
+          of "root": servers[^1].locations[^1].root = event.to_str()
+          of "index": servers[^1].locations[^1].index = event.params
+          of "allow": servers[^1].locations[^1].allow = event.to_str()
+          of "log_not_found": servers[^1].locations[^1].log_not_found = event.to_bool()
+          of "access_log": servers[^1].locations[^1].access_log = event.to_bool()
+          else: error("Unknown directive: " & event.name)
+      of evt_end:
+        if event.has_block:
+          if in_location:
+            in_location = false
+          elif in_server:
+            in_server = false
+
+    assert servers.len == 1
+    assert servers[0].port == 80
+    assert servers[0].locations.len == 2
+    assert servers[0].locations[0].access_log
+    assert not servers[0].locations[1].access_log
+
+
+Similar projects
+^^^^^^^^^^^^^^^^
+* `nim-scfg <https://codeberg.org/xoich/nim-scfg>`_
+
