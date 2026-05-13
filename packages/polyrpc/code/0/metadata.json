@@ -1,9 +1,9 @@
 {
-    "checksum": "30b685e750af0a1da56cd1022608eac24ab89a0d1bae00015cd4479dd41b6060",
+    "checksum": "fbf53b9462474614b752231f1a32a400769e03cf9c95de47328454e386fe4736",
     "commit": "a39f0ad8dbf6ed5ba55452968584279d2324cb8c",
     "source_hash": "fea98756edcbee7b30d5c9894afe190875b87a33",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778654067,
+    "archived_at": 1778671268,
     "archive_name": "polyrpc-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
