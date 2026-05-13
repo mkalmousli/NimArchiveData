@@ -18506,5 +18506,12 @@
         "url": "https://github.com/hmbemba/rz",
         "license": "MIT",
         "added_at": 1778700414
+    },
+    "nimsterm": {
+        "id": "nimsterm",
+        "type": "git",
+        "url": "https://github.com/hmbemba/nimsterm",
+        "license": "MIT",
+        "added_at": 1778700425
     }
 }
