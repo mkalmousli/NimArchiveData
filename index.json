@@ -17582,5 +17582,12 @@
         "url": "https://github.com/Nycto/NimJsonSchemaImporter",
         "license": "MIT",
         "added_at": 1778696147
+    },
+    "dogen": {
+        "id": "dogen",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/dogen",
+        "license": "MIT",
+        "added_at": 1778696177
     }
 }
