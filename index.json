@@ -18926,5 +18926,12 @@
         "url": "https://github.com/daylinmorgan/hwylterm",
         "license": "MIT",
         "added_at": 1778701726
+    },
+    "nim_tcc": {
+        "id": "nim_tcc",
+        "type": "git",
+        "url": "https://github.com/turbomaster95/nim-tcc",
+        "license": "MIT",
+        "added_at": 1778701749
     }
 }
