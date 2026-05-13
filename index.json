@@ -17561,5 +17561,12 @@
         "url": "https://github.com/thing-king/aws",
         "license": "MIT",
         "added_at": 1778696113
+    },
+    "nimdtp": {
+        "id": "nimdtp",
+        "type": "git",
+        "url": "https://github.com/WKHAllen/nimdtp",
+        "license": "MIT",
+        "added_at": 1778696123
     }
 }
