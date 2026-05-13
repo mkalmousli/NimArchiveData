@@ -18296,5 +18296,12 @@
         "url": "https://github.com/nnsee/nim-quickselect",
         "license": "MIT",
         "added_at": 1778698930
+    },
+    "pexels": {
+        "id": "pexels",
+        "type": "git",
+        "url": "https://github.com/openpeeps/nim-pexels",
+        "license": "MIT",
+        "added_at": 1778698948
     }
 }
