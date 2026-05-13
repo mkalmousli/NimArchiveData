@@ -17547,5 +17547,12 @@
         "url": "https://github.com/jabbalaci/libclip",
         "license": "MIT",
         "added_at": 1778696094
+    },
+    "colors": {
+        "id": "colors",
+        "type": "git",
+        "url": "https://github.com/thing-king/colors",
+        "license": "MIT",
+        "added_at": 1778696103
     }
 }
