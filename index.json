@@ -16749,5 +16749,12 @@
         "url": "https://github.com/Q-Master/rmq-statsd.nim",
         "license": "MIT",
         "added_at": 1778691583
+    },
+    "caprese": {
+        "id": "caprese",
+        "type": "git",
+        "url": "https://github.com/zenywallet/caprese",
+        "license": "MIT",
+        "added_at": 1778691616
     }
 }
