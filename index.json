@@ -16938,5 +16938,12 @@
         "url": "https://github.com/guzba/respite",
         "license": "MIT",
         "added_at": 1778693428
+    },
+    "sudo": {
+        "id": "sudo",
+        "type": "git",
+        "url": "https://github.com/FyraLabs/sudo.nim",
+        "license": "MIT",
+        "added_at": 1778693442
     }
 }
