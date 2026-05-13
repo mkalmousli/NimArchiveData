@@ -19122,5 +19122,12 @@
         "url": "https://github.com/NagyZoltanPeter/nim-brokers",
         "license": "MIT",
         "added_at": 1778702225
+    },
+    "streamhttp": {
+        "id": "streamhttp",
+        "type": "git",
+        "url": "https://github.com/capocasa/streamhttp",
+        "license": "MIT",
+        "added_at": 1778702267
     }
 }
