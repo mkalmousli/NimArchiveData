@@ -16896,5 +16896,12 @@
         "url": "https://github.com/ferus-web/ferusgfx",
         "license": "MIT",
         "added_at": 1778693266
+    },
+    "nimtcl": {
+        "id": "nimtcl",
+        "type": "git",
+        "url": "https://github.com/neroist/nimtcl",
+        "license": "MIT",
+        "added_at": 1778693375
     }
 }
