@@ -17120,5 +17120,12 @@
         "url": "https://github.com/panno8M/cloths",
         "license": "MIT",
         "added_at": 1778694110
+    },
+    "aptos": {
+        "id": "aptos",
+        "type": "git",
+        "url": "https://github.com/C-NERD/nimAptos",
+        "license": "MIT",
+        "added_at": 1778694144
     }
 }
