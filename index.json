@@ -18660,5 +18660,12 @@
         "url": "https://github.com/WyattBlue/csort",
         "license": "Unlicense",
         "added_at": 1778700968
+    },
+    "ozark": {
+        "id": "ozark",
+        "type": "git",
+        "url": "https://github.com/openpeeps/ozark",
+        "license": "MIT",
+        "added_at": 1778700980
     }
 }
