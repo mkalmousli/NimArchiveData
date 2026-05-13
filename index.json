@@ -18247,5 +18247,12 @@
         "url": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl",
         "license": "MIT",
         "added_at": 1778698781
+    },
+    "seaqt": {
+        "id": "seaqt",
+        "type": "git",
+        "url": "https://github.com/seaqt/nim-seaqt",
+        "license": "MIT",
+        "added_at": 1778698800
     }
 }
