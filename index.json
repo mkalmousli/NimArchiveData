@@ -18702,5 +18702,12 @@
         "url": "https://github.com/openpeeps/groovebox",
         "license": "AGPL-3.0-or-later",
         "added_at": 1778701074
+    },
+    "blg": {
+        "id": "blg",
+        "type": "git",
+        "url": "https://github.com/capocasa/blg",
+        "license": "MIT",
+        "added_at": 1778701099
     }
 }
