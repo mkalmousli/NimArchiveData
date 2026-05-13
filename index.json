@@ -18534,5 +18534,12 @@
         "url": "https://github.com/ThomasTJdev/nim_sqlquery",
         "license": "MIT",
         "added_at": 1778700486
+    },
+    "velcro": {
+        "id": "velcro",
+        "type": "git",
+        "url": "https://github.com/Dark-Knight6221/velcro",
+        "license": "MIT",
+        "added_at": 1778700541
     }
 }
