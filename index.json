@@ -17281,5 +17281,12 @@
         "url": "https://github.com/Xkonti/surrealdb.nim",
         "license": "MIT",
         "added_at": 1778694679
+    },
+    "minilru": {
+        "id": "minilru",
+        "type": "git",
+        "url": "https://github.com/status-im/nim-minilru",
+        "license": "MIT",
+        "added_at": 1778694688
     }
 }
