@@ -17659,5 +17659,12 @@
         "url": "https://github.com/navid-m/shark",
         "license": "GPL-3.0-only",
         "added_at": 1778696493
+    },
+    "web": {
+        "id": "web",
+        "type": "git",
+        "url": "https://github.com/thing-king/web",
+        "license": "MIT",
+        "added_at": 1778696507
     }
 }
