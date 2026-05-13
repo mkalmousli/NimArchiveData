@@ -17932,5 +17932,12 @@
         "url": "https://github.com/nemuelw/morsecode",
         "license": "GPL-3.0-or-later",
         "added_at": 1778697652
+    },
+    "tpdne": {
+        "id": "tpdne",
+        "type": "git",
+        "url": "https://github.com/nemuelw/tpdne",
+        "license": "MIT",
+        "added_at": 1778697659
     }
 }
