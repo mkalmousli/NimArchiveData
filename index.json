@@ -17694,5 +17694,12 @@
         "url": "https://github.com/sm-moshi/darwinmetrics",
         "license": "MIT",
         "added_at": 1778696542
+    },
+    "libdatachannel": {
+        "id": "libdatachannel",
+        "type": "git",
+        "url": "https://github.com/openpeeps/libdatachannel-nim",
+        "license": "MIT",
+        "added_at": 1778696545
     }
 }
