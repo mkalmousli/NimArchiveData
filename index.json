@@ -17204,5 +17204,12 @@
         "url": "https://github.com/AinTEAsports/nclap",
         "license": "MIT",
         "added_at": 1778694389
+    },
+    "turso-nim": {
+        "id": "turso-nim",
+        "type": "git",
+        "url": "https://codeberg.org/13thab/turso-nim",
+        "license": "BSD-3-Clause",
+        "added_at": 1778694399
     }
 }
