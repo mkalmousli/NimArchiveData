@@ -18233,5 +18233,12 @@
         "url": "https://github.com/xTrayambak/url",
         "license": "BSD-3",
         "added_at": 1778698721
+    },
+    "hashtree_abi": {
+        "id": "hashtree_abi",
+        "type": "git",
+        "url": "https://github.com/OffchainLabs/hashtree",
+        "license": "MIT",
+        "added_at": 1778698753
     }
 }
