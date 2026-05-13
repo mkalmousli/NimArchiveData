@@ -18128,5 +18128,12 @@
         "url": "https://github.com/lucidrains/nim-mmcif",
         "license": "MIT",
         "added_at": 1778698315
+    },
+    "xkcdgeohash": {
+        "id": "xkcdgeohash",
+        "type": "git",
+        "url": "https://github.com/Naitsabot/xkcdgeohashing.nim",
+        "license": "MIT",
+        "added_at": 1778698514
     }
 }
