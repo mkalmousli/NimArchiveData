@@ -16966,5 +16966,12 @@
         "url": "https://github.com/HapticX/happyx-ui",
         "license": "MIT",
         "added_at": 1778693488
+    },
+    "dira": {
+        "id": "dira",
+        "type": "git",
+        "url": "https://github.com/tdely/dira",
+        "license": "MIT",
+        "added_at": 1778693498
     }
 }
