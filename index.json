@@ -17253,5 +17253,12 @@
         "url": "https://github.com/ferus-web/simdutf",
         "license": "Apache-2.0",
         "added_at": 1778694595
+    },
+    "hippo": {
+        "id": "hippo",
+        "type": "git",
+        "url": "https://github.com/monofuel/hippo",
+        "license": "MIT",
+        "added_at": 1778694610
     }
 }
