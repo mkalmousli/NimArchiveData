@@ -17708,5 +17708,12 @@
         "url": "https://github.com/moigagoo/dhbp",
         "license": "MIT",
         "added_at": 1778696555
+    },
+    "nimatch": {
+        "id": "nimatch",
+        "type": "git",
+        "url": "https://github.com/voidpunk/NiMatch",
+        "license": "MIT",
+        "added_at": 1778696616
     }
 }
