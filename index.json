@@ -17589,5 +17589,12 @@
         "url": "https://github.com/roger-padrell/dogen",
         "license": "MIT",
         "added_at": 1778696177
+    },
+    "dataforseo": {
+        "id": "dataforseo",
+        "type": "git",
+        "url": "https://github.com/Niminem/DataForSEO",
+        "license": "MIT",
+        "added_at": 1778696181
     }
 }
