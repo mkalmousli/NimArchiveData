@@ -1321,5 +1321,12 @@
         "url": "https://github.com/fenekku/commandeer",
         "license": "MIT",
         "added_at": 1778707333
+    },
+    "bloom": {
+        "id": "bloom",
+        "type": "git",
+        "url": "https://github.com/boydgreenfield/nimrod-bloom",
+        "license": "MIT",
+        "added_at": 1778707379
     }
 }
