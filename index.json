@@ -19024,5 +19024,12 @@
         "url": "https://github.com/nim-lang/atlas",
         "license": "MIT",
         "added_at": 1778701961
+    },
+    "impeller": {
+        "id": "impeller",
+        "type": "git",
+        "url": "https://github.com/openpeeps/impeller-nim",
+        "license": "MIT",
+        "added_at": 1778702010
     }
 }
