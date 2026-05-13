@@ -17820,5 +17820,12 @@
         "url": "https://codeberg.org/onbox/amicus",
         "license": "AGPL-3.0-or-later",
         "added_at": 1778696949
+    },
+    "nmr": {
+        "id": "nmr",
+        "type": "git",
+        "url": "https://github.com/HapticX/nmr",
+        "license": "MIT",
+        "added_at": 1778696960
     }
 }
