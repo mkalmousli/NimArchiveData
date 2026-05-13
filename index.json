@@ -17652,5 +17652,12 @@
         "url": "https://github.com/mahlonsmith/nim-ladybug",
         "license": "BSD-3-Clause",
         "added_at": 1778696441
+    },
+    "shark": {
+        "id": "shark",
+        "type": "git",
+        "url": "https://github.com/navid-m/shark",
+        "license": "GPL-3.0-only",
+        "added_at": 1778696493
     }
 }
