@@ -17449,5 +17449,12 @@
         "url": "https://github.com/elcritch/sigils",
         "license": "MIT",
         "added_at": 1778695612
+    },
+    "macosutils": {
+        "id": "macosutils",
+        "type": "git",
+        "url": "https://github.com/elcritch/macosutils",
+        "license": "Apache-2.0",
+        "added_at": 1778695852
     }
 }
