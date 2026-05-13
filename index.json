@@ -18142,5 +18142,12 @@
         "url": "https://github.com/mmlado/pcsc-nim/",
         "license": "MIT",
         "added_at": 1778698545
+    },
+    "fastrpc": {
+        "id": "fastrpc",
+        "type": "git",
+        "url": "https://github.com/elcritch/fastrpc",
+        "license": "Apache-2.0",
+        "added_at": 1778698560
     }
 }
