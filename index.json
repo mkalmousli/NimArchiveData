@@ -18485,5 +18485,12 @@
         "url": "https://github.com/martineastwood/nuwa-sdk",
         "license": "MIT",
         "added_at": 1778700353
+    },
+    "win11toast": {
+        "id": "win11toast",
+        "type": "git",
+        "url": "https://github.com/hmbemba/win11toast",
+        "license": "MIT",
+        "added_at": 1778700387
     }
 }
