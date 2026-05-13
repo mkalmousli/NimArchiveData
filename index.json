@@ -16812,5 +16812,12 @@
         "url": "https://github.com/Vindaar/flatBuffers",
         "license": "MIT",
         "added_at": 1778692867
+    },
+    "pnimrp": {
+        "id": "pnimrp",
+        "type": "git",
+        "url": "https://github.com/bloomingchad/pnimrp",
+        "license": "GPL-3.0-or-later",
+        "added_at": 1778692893
     }
 }
