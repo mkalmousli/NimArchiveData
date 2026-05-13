@@ -1118,5 +1118,12 @@
         "url": "https://github.com/nim-lang/nimble",
         "license": "BSD",
         "added_at": 1778706881
+    },
+    "libnx": {
+        "id": "libnx",
+        "type": "git",
+        "url": "https://github.com/jyapayne/nim-libnx",
+        "license": "Unlicense",
+        "added_at": 1778707066
     }
 }
