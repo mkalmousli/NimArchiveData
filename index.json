@@ -18422,5 +18422,12 @@
         "url": "https://github.com/Niminem/oauth2",
         "license": "MIT",
         "added_at": 1778699314
+    },
+    "nasp": {
+        "id": "nasp",
+        "type": "git",
+        "url": "https://github.com/Niminem/Nasp",
+        "license": "MIT",
+        "added_at": 1778699323
     }
 }
