@@ -18443,5 +18443,12 @@
         "url": "https://github.com/jailop/ndarray-c",
         "license": "BSD-3-Clause",
         "added_at": 1778700127
+    },
+    "bcryptrocks": {
+        "id": "bcryptrocks",
+        "type": "git",
+        "url": "https://codeberg.org/penguinite/bcryptrocks",
+        "license": "crypt_blowfish",
+        "added_at": 1778700164
     }
 }
