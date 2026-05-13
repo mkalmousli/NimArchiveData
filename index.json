@@ -18184,5 +18184,12 @@
         "url": "https://github.com/srozb/nimvss",
         "license": "MIT",
         "added_at": 1778698618
+    },
+    "diffy": {
+        "id": "diffy",
+        "type": "git",
+        "url": "https://github.com/elcritch/diffy",
+        "license": "Apache-2.0",
+        "added_at": 1778698634
     }
 }
