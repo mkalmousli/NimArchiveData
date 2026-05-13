@@ -17715,5 +17715,12 @@
         "url": "https://github.com/voidpunk/NiMatch",
         "license": "MIT",
         "added_at": 1778696616
+    },
+    "pharao": {
+        "id": "pharao",
+        "type": "git",
+        "url": "https://github.com/capocasa/pharao",
+        "license": "MIT",
+        "added_at": 1778696625
     }
 }
