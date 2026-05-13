@@ -16840,5 +16840,12 @@
         "url": "https://github.com/SciNim/nimjl",
         "license": "MIT",
         "added_at": 1778692927
+    },
+    "pmath": {
+        "id": "pmath",
+        "type": "git",
+        "url": "https://github.com/nlits-projects/pmath",
+        "license": "MIT",
+        "added_at": 1778693058
     }
 }
