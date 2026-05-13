@@ -17911,5 +17911,12 @@
         "url": "https://github.com/dinau/imguin",
         "license": "MIT License",
         "added_at": 1778697205
+    },
+    "clutter": {
+        "id": "clutter",
+        "type": "git",
+        "url": "https://github.com/arashi-software/clutter",
+        "license": "GPL-3.0-only",
+        "added_at": 1778697524
     }
 }
