@@ -16882,5 +16882,12 @@
         "url": "https://github.com/ferus-web/stylus",
         "license": "MIT",
         "added_at": 1778693191
+    },
+    "mirage": {
+        "id": "mirage",
+        "type": "git",
+        "url": "https://github.com/ferus-web/mirage",
+        "license": "MIT",
+        "added_at": 1778693203
     }
 }
