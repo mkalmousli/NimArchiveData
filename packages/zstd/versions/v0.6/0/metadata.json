@@ -1,9 +1,9 @@
 {
-    "checksum": "f8e9a065240abf597a5f5a25faddf3d88ef1d0b7511102685f8c483150f4303d",
+    "checksum": "9f698b730b8fd55e9c005e7df9c6584a60ac545932bbe8dbba91131a013c8df6",
     "commit": "9e6cf86e357401044fd3b476520321eff268db12",
     "source_hash": "727befce929edc8a8a00b131c934e8e1621b1b91",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778620314,
+    "archived_at": 1778706444,
     "archive_name": "zstd-v0.6.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
