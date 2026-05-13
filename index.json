@@ -17757,5 +17757,12 @@
         "url": "https://github.com/thing-king/nimlink",
         "license": "MIT",
         "added_at": 1778696737
+    },
+    "viper": {
+        "id": "viper",
+        "type": "git",
+        "url": "https://gitlab.com/navid-m/viper",
+        "license": "GPL-3.0-only",
+        "added_at": 1778696745
     }
 }
