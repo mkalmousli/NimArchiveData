@@ -18863,5 +18863,12 @@
         "url": "https://github.com/capocasa/papr",
         "license": "MIT",
         "added_at": 1778701626
+    },
+    "nimctx": {
+        "id": "nimctx",
+        "type": "git",
+        "url": "https://github.com/nim-community/nimctx",
+        "license": "MIT",
+        "added_at": 1778701645
     }
 }
