@@ -18198,5 +18198,12 @@
         "url": "https://github.com/elcritch/cborious",
         "license": "Apache-2.0",
         "added_at": 1778698658
+    },
+    "libvips": {
+        "id": "libvips",
+        "type": "git",
+        "url": "https://github.com/openpeeps/libvips-nim",
+        "license": "MIT",
+        "added_at": 1778698667
     }
 }
