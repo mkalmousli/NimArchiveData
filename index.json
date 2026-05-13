@@ -17015,5 +17015,12 @@
         "url": "https://github.com/morganholly/vecray",
         "license": "MIT",
         "added_at": 1778693592
+    },
+    "negl": {
+        "id": "negl",
+        "type": "git",
+        "url": "https://github.com/lualvsil/negl",
+        "license": "MIT",
+        "added_at": 1778693601
     }
 }
