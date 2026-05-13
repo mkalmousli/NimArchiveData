@@ -19066,5 +19066,12 @@
         "url": "https://github.com/openpeeps/openparser",
         "license": "MIT",
         "added_at": 1778702147
+    },
+    "duckdb": {
+        "id": "duckdb",
+        "type": "git",
+        "url": "https://github.com/openpeeps/duckdb-nim",
+        "license": "MIT",
+        "added_at": 1778702157
     }
 }
