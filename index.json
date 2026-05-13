@@ -17400,5 +17400,12 @@
         "url": "https://gitlab.com/Maxb0tbeep/bestfetch",
         "license": "GPLv3",
         "added_at": 1778695210
+    },
+    "flame": {
+        "id": "flame",
+        "type": "git",
+        "url": "https://github.com/navid-m/flame",
+        "license": "GPLv3",
+        "added_at": 1778695271
     }
 }
