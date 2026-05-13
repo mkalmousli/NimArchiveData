@@ -18359,5 +18359,12 @@
         "url": "https://github.com/erayzesen/kirpi",
         "license": "MIT",
         "added_at": 1778699033
+    },
+    "xerces": {
+        "id": "xerces",
+        "type": "git",
+        "url": "https://github.com/fox0430/nim-xerces",
+        "license": "MIT",
+        "added_at": 1778699088
     }
 }
