@@ -1349,5 +1349,12 @@
         "url": "https://github.com/barcharcraz/nimlibpng",
         "license": "libpng",
         "added_at": 1778707403
+    },
+    "sdl2": {
+        "id": "sdl2",
+        "type": "git",
+        "url": "https://github.com/nim-lang/sdl2",
+        "license": "MIT",
+        "added_at": 1778707409
     }
 }
