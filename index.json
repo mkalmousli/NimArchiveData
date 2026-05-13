@@ -18849,5 +18849,12 @@
         "url": "https://github.com/openpeeps/booyaka",
         "license": "AGPL-3.0-or-later",
         "added_at": 1778701603
+    },
+    "holo_json": {
+        "id": "holo_json",
+        "type": "git",
+        "url": "https://github.com/holo-nim/holo-json",
+        "license": "MIT",
+        "added_at": 1778701617
     }
 }
