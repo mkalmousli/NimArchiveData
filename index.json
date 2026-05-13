@@ -17638,5 +17638,12 @@
         "url": "https://github.com/filvyb/DotNimRemoting",
         "license": "MIT",
         "added_at": 1778696388
+    },
+    "nimpsort": {
+        "id": "nimpsort",
+        "type": "git",
+        "url": "https://github.com/cycneuramus/nimpsort",
+        "license": "GPL-3.0-only",
+        "added_at": 1778696424
     }
 }
