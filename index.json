@@ -18121,5 +18121,12 @@
         "url": "https://github.com/CodeLibraty/prettyterm",
         "license": "MIT",
         "added_at": 1778698299
+    },
+    "mmcif": {
+        "id": "mmcif",
+        "type": "git",
+        "url": "https://github.com/lucidrains/nim-mmcif",
+        "license": "MIT",
+        "added_at": 1778698315
     }
 }
