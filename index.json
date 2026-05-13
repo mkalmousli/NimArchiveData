@@ -194,5 +194,12 @@
         "url": "https://github.com/ph4mished/spectra",
         "license": "MIT",
         "added_at": 1778652899
+    },
+    "sparc": {
+        "id": "sparc",
+        "type": "git",
+        "url": "https://github.com/ph4mished/sparc",
+        "license": "MIT",
+        "added_at": 1778652929
     }
 }
