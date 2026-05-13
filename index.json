@@ -17806,5 +17806,12 @@
         "url": "https://github.com/capocasa/fur",
         "license": "MIT",
         "added_at": 1778696920
+    },
+    "jill": {
+        "id": "jill",
+        "type": "git",
+        "url": "https://github.com/capocasa/jill",
+        "license": "MIT",
+        "added_at": 1778696933
     }
 }
