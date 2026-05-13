@@ -18079,5 +18079,12 @@
         "url": "https://github.com/pgvector/pgvector-nim",
         "license": "MIT",
         "added_at": 1778698172
+    },
+    "lasm": {
+        "id": "lasm",
+        "type": "git",
+        "url": "https://github.com/fox0430/lasm",
+        "license": "MIT",
+        "added_at": 1778698184
     }
 }
