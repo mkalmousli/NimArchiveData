@@ -17274,5 +17274,12 @@
         "url": "https://github.com/navid-m/newt",
         "license": "GPLv3",
         "added_at": 1778694651
+    },
+    "surrealdb": {
+        "id": "surrealdb",
+        "type": "git",
+        "url": "https://github.com/Xkonti/surrealdb.nim",
+        "license": "MIT",
+        "added_at": 1778694679
     }
 }
