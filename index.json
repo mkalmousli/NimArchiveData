@@ -1335,5 +1335,12 @@
         "url": "https://github.com/Araq/awesome_rmdir/",
         "license": "MIT",
         "added_at": 1778707387
+    },
+    "nimalpm": {
+        "id": "nimalpm",
+        "type": "git",
+        "url": "https://github.com/barcharcraz/nimalpm/",
+        "license": "GPLv2",
+        "added_at": 1778707397
     }
 }
