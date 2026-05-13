@@ -17974,5 +17974,12 @@
         "url": "https://github.com/gokr/nimcp",
         "license": "MIT",
         "added_at": 1778697790
+    },
+    "dewitt": {
+        "id": "dewitt",
+        "type": "git",
+        "url": "https://github.com/Luteva-ssh/dewitt",
+        "license": "MIT",
+        "added_at": 1778697800
     }
 }
