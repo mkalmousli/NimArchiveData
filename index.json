@@ -17554,5 +17554,12 @@
         "url": "https://github.com/thing-king/colors",
         "license": "MIT",
         "added_at": 1778696103
+    },
+    "aws": {
+        "id": "aws",
+        "type": "git",
+        "url": "https://github.com/thing-king/aws",
+        "license": "MIT",
+        "added_at": 1778696113
     }
 }
