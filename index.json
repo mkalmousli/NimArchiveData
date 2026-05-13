@@ -17764,5 +17764,12 @@
         "url": "https://gitlab.com/navid-m/viper",
         "license": "GPL-3.0-only",
         "added_at": 1778696745
+    },
+    "nmgr": {
+        "id": "nmgr",
+        "type": "git",
+        "url": "https://github.com/cycneuramus/nmgr",
+        "license": "GPL-3.0-only",
+        "added_at": 1778696754
     }
 }
