@@ -16826,5 +16826,12 @@
         "url": "https://codeberg.org/penguinite/expect",
         "license": "BSD-3-Clause",
         "added_at": 1778692905
+    },
+    "css3selectors": {
+        "id": "css3selectors",
+        "type": "git",
+        "url": "https://github.com/Niminem/CSS3Selectors",
+        "license": "MIT",
+        "added_at": 1778692918
     }
 }
