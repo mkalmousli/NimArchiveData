@@ -355,5 +355,12 @@
         "url": "https://github.com/Nimberite-Development/TagForge-Nim",
         "license": "Apache-2.0",
         "added_at": 1778670573
+    },
+    "curlies": {
+        "id": "curlies",
+        "type": "git",
+        "url": "https://github.com/svenrdz/curlies",
+        "license": "MIT",
+        "added_at": 1778670586
     }
 }
