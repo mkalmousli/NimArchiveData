@@ -17960,5 +17960,12 @@
         "url": "https://github.com/ferus-web/nim-ada",
         "license": "MIT",
         "added_at": 1778697769
+    },
+    "nullable": {
+        "id": "nullable",
+        "type": "git",
+        "url": "https://github.com/theDataFlowClub/nullable",
+        "license": "MIT",
+        "added_at": 1778697781
     }
 }
