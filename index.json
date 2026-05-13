@@ -17113,5 +17113,12 @@
         "url": "https://github.com/cypherwytch/ninit",
         "license": "BSD",
         "added_at": 1778694091
+    },
+    "cloths": {
+        "id": "cloths",
+        "type": "git",
+        "url": "https://github.com/panno8M/cloths",
+        "license": "MIT",
+        "added_at": 1778694110
     }
 }
