@@ -18289,5 +18289,12 @@
         "url": "https://github.com/Hammer2900/naecs.git",
         "license": "MIT",
         "added_at": 1778698921
+    },
+    "quickselect": {
+        "id": "quickselect",
+        "type": "git",
+        "url": "https://github.com/nnsee/nim-quickselect",
+        "license": "MIT",
+        "added_at": 1778698930
     }
 }
