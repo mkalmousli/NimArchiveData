@@ -17344,5 +17344,12 @@
         "url": "https://github.com/openpeeps/crossdb-nim",
         "license": "MIT",
         "added_at": 1778694928
+    },
+    "nim_2048": {
+        "id": "nim_2048",
+        "type": "git",
+        "url": "https://github.com/enkaito/nim_2048",
+        "license": "MIT",
+        "added_at": 1778694936
     }
 }
