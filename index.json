@@ -18632,5 +18632,12 @@
         "url": "https://github.com/Brokezawa/nebble",
         "license": "MIT",
         "added_at": 1778700757
+    },
+    "toon": {
+        "id": "toon",
+        "type": "git",
+        "url": "https://github.com/copyleftdev/nim-toon",
+        "license": "MIT",
+        "added_at": 1778700782
     }
 }
