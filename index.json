@@ -16819,5 +16819,12 @@
         "url": "https://github.com/bloomingchad/pnimrp",
         "license": "GPL-3.0-or-later",
         "added_at": 1778692893
+    },
+    "expect": {
+        "id": "expect",
+        "type": "git",
+        "url": "https://codeberg.org/penguinite/expect",
+        "license": "BSD-3-Clause",
+        "added_at": 1778692905
     }
 }
