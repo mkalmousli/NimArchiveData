@@ -17267,5 +17267,12 @@
         "url": "https://github.com/CardealRusso/fenstim",
         "license": "MIT",
         "added_at": 1778694642
+    },
+    "newt": {
+        "id": "newt",
+        "type": "git",
+        "url": "https://github.com/navid-m/newt",
+        "license": "GPLv3",
+        "added_at": 1778694651
     }
 }
