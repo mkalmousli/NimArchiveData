@@ -1,9 +1,9 @@
 {
-    "checksum": "c746b9113e5c3bd3bb556e72e90e1a88c1933d40ac0feac0a0ec52a679c73fea",
+    "checksum": "af98c053410937b69578a2f93637b4c45f2d969a50bc4bea234d21b5ce9beee1",
     "commit": "90ead4efb09c5d897dd0696f6d04a9cbb64892cb",
     "source_hash": "547b5b81fb56a24f8e231a7527e0af8707247934",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778633774,
+    "archived_at": 1778654499,
     "archive_name": "onnxruntime-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
