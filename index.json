@@ -18884,5 +18884,12 @@
         "url": "https://github.com/capocasa/rin",
         "license": "MIT",
         "added_at": 1778701661
+    },
+    "tiptap": {
+        "id": "tiptap",
+        "type": "git",
+        "url": "https://github.com/openpeeps/tiptap-nim",
+        "license": "MIT",
+        "added_at": 1778701670
     }
 }
