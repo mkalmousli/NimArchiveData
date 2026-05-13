@@ -18170,5 +18170,12 @@
         "url": "https://github.com/openpeeps/gccjit.nim",
         "license": "MIT",
         "added_at": 1778698593
+    },
+    "libevent": {
+        "id": "libevent",
+        "type": "git",
+        "url": "https://github.com/openpeeps/libevent-nim",
+        "license": "MIT",
+        "added_at": 1778698602
     }
 }
