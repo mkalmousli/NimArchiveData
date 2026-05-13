@@ -19038,5 +19038,12 @@
         "url": "https://github.com/fox0430/chronos-dnsc",
         "license": "MIT",
         "added_at": 1778702019
+    },
+    "audio2json": {
+        "id": "audio2json",
+        "type": "git",
+        "url": "https://codeberg.org/SpotlightKid/audio2json",
+        "license": "MIT",
+        "added_at": 1778702047
     }
 }
