@@ -17309,5 +17309,12 @@
         "url": "https://github.com/metagn/manta",
         "license": "MIT",
         "added_at": 1778694844
+    },
+    "nimutils": {
+        "id": "nimutils",
+        "type": "git",
+        "url": "https://github.com/GeK2K/nimutils",
+        "license": "MIT",
+        "added_at": 1778694853
     }
 }
