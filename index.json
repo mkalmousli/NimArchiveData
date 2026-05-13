@@ -18177,5 +18177,12 @@
         "url": "https://github.com/openpeeps/libevent-nim",
         "license": "MIT",
         "added_at": 1778698602
+    },
+    "nimvss": {
+        "id": "nimvss",
+        "type": "git",
+        "url": "https://github.com/srozb/nimvss",
+        "license": "MIT",
+        "added_at": 1778698618
     }
 }
