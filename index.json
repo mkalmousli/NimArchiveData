@@ -18331,5 +18331,12 @@
         "url": "https://github.com/fox0430/nim-ghostscript",
         "license": "MIT",
         "added_at": 1778698988
+    },
+    "mimedb": {
+        "id": "mimedb",
+        "type": "git",
+        "url": "https://github.com/openpeeps/mimedb",
+        "license": "MIT",
+        "added_at": 1778698997
     }
 }
