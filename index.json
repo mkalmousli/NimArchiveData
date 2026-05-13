@@ -18065,5 +18065,12 @@
         "url": "https://github.com/alexzzzs/NimTools",
         "license": "MIT",
         "added_at": 1778698158
+    },
+    "claude_code_sdk": {
+        "id": "claude_code_sdk",
+        "type": "git",
+        "url": "https://github.com/Apothic-AI/claude-code-sdk-nim",
+        "license": "Apache-2.0",
+        "added_at": 1778698161
     }
 }
