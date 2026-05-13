@@ -18520,5 +18520,12 @@
         "url": "https://github.com/YuryKL/datastar.nim",
         "license": "MIT",
         "added_at": 1778700445
+    },
+    "nimdoc": {
+        "id": "nimdoc",
+        "type": "git",
+        "url": "https://github.com/WaywardWizard/nimdoc",
+        "license": "MIT",
+        "added_at": 1778700462
     }
 }
