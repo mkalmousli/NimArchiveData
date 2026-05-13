@@ -17729,5 +17729,12 @@
         "url": "https://github.com/xTrayambak/gbm-nim",
         "license": "MIT",
         "added_at": 1778696658
+    },
+    "louvre": {
+        "id": "louvre",
+        "type": "git",
+        "url": "https://github.com/xTrayambak/nim-louvre",
+        "license": "LGPL-2.1-or-later",
+        "added_at": 1778696667
     }
 }
