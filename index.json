@@ -17862,5 +17862,12 @@
         "url": "https://github.com/elcritch/thorvg-nim",
         "license": "Unlicense",
         "added_at": 1778697119
+    },
+    "scope": {
+        "id": "scope",
+        "type": "git",
+        "url": "https://github.com/thing-king/scope",
+        "license": "MIT",
+        "added_at": 1778697137
     }
 }
