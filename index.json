@@ -17407,5 +17407,12 @@
         "url": "https://github.com/navid-m/flame",
         "license": "GPLv3",
         "added_at": 1778695271
+    },
+    "derichekde": {
+        "id": "derichekde",
+        "type": "git",
+        "url": "https://github.com/chancyk/deriche-kde",
+        "license": "BSD-3-Clause",
+        "added_at": 1778695280
     }
 }
