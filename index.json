@@ -18611,5 +18611,12 @@
         "url": "https://github.com/bung87/bilidown",
         "license": "MIT",
         "added_at": 1778700705
+    },
+    "iori": {
+        "id": "iori",
+        "type": "git",
+        "url": "https://github.com/fox0430/iori",
+        "license": "MIT",
+        "added_at": 1778700713
     }
 }
