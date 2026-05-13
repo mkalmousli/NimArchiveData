@@ -17393,5 +17393,12 @@
         "url": "https://github.com/openpeeps/blend2d-nim",
         "license": "MIT",
         "added_at": 1778695199
+    },
+    "bestfetch": {
+        "id": "bestfetch",
+        "type": "git",
+        "url": "https://gitlab.com/Maxb0tbeep/bestfetch",
+        "license": "GPLv3",
+        "added_at": 1778695210
     }
 }
