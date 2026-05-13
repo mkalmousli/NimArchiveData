@@ -18541,5 +18541,12 @@
         "url": "https://github.com/Dark-Knight6221/velcro",
         "license": "MIT",
         "added_at": 1778700541
+    },
+    "sshterm": {
+        "id": "sshterm",
+        "type": "git",
+        "url": "https://github.com/jthampton/sshterm",
+        "license": "MIT",
+        "added_at": 1778700550
     }
 }
