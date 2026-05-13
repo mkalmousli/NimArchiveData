@@ -18716,5 +18716,12 @@
         "url": "https://github.com/fox0430/editorconfig-nim",
         "license": "MIT",
         "added_at": 1778701115
+    },
+    "money": {
+        "id": "money",
+        "type": "git",
+        "url": "https://github.com/openpeeps/money",
+        "license": "MIT",
+        "added_at": 1778701127
     }
 }
