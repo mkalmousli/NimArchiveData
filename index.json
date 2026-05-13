@@ -18492,5 +18492,12 @@
         "url": "https://github.com/hmbemba/win11toast",
         "license": "MIT",
         "added_at": 1778700387
+    },
+    "hk": {
+        "id": "hk",
+        "type": "git",
+        "url": "https://github.com/hmbemba/hk",
+        "license": "MIT",
+        "added_at": 1778700406
     }
 }
