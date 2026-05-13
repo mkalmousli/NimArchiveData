@@ -17050,5 +17050,12 @@
         "url": "https://github.com/chrischtel/gitty",
         "license": "BSD-3-Clause",
         "added_at": 1778693684
+    },
+    "libtray": {
+        "id": "libtray",
+        "type": "git",
+        "url": "https://github.com/neroist/libtray",
+        "license": "MIT",
+        "added_at": 1778693720
     }
 }
