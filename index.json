@@ -17470,5 +17470,12 @@
         "url": "https://github.com/transmutrix/nim-sdl3",
         "license": "MIT",
         "added_at": 1778695926
+    },
+    "steamworksgen": {
+        "id": "steamworksgen",
+        "type": "git",
+        "url": "https://github.com/bob16795/steamworksgen-nim",
+        "license": "MIT",
+        "added_at": 1778695957
     }
 }
