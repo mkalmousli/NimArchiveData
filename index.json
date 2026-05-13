@@ -18513,5 +18513,12 @@
         "url": "https://github.com/hmbemba/nimsterm",
         "license": "MIT",
         "added_at": 1778700425
+    },
+    "datastar": {
+        "id": "datastar",
+        "type": "git",
+        "url": "https://github.com/YuryKL/datastar.nim",
+        "license": "MIT",
+        "added_at": 1778700445
     }
 }
