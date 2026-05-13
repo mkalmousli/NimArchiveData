@@ -18464,5 +18464,12 @@
         "url": "https://github.com/vacp2p/nim-intops",
         "license": "MIT or Apache License 2.0",
         "added_at": 1778700278
+    },
+    "ista": {
+        "id": "ista",
+        "type": "git",
+        "url": "https://github.com/arashi-software/ista",
+        "license": "GPL-2.0",
+        "added_at": 1778700327
     }
 }
