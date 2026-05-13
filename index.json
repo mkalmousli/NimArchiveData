@@ -1328,5 +1328,12 @@
         "url": "https://github.com/boydgreenfield/nimrod-bloom",
         "license": "MIT",
         "added_at": 1778707379
+    },
+    "awesome_rmdir": {
+        "id": "awesome_rmdir",
+        "type": "git",
+        "url": "https://github.com/Araq/awesome_rmdir/",
+        "license": "MIT",
+        "added_at": 1778707387
     }
 }
