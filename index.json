@@ -19087,5 +19087,12 @@
         "url": "https://github.com/openpeeps/vancode",
         "license": "LGPL-3.0-or-later",
         "added_at": 1778702174
+    },
+    "reni": {
+        "id": "reni",
+        "type": "git",
+        "url": "https://github.com/fox0430/reni",
+        "license": "MIT",
+        "added_at": 1778702188
     }
 }
