@@ -17022,5 +17022,12 @@
         "url": "https://github.com/lualvsil/negl",
         "license": "MIT",
         "added_at": 1778693601
+    },
+    "rng": {
+        "id": "rng",
+        "type": "git",
+        "url": "https://codeberg.org/onbox/rng",
+        "license": "BSD-3-Clause",
+        "added_at": 1778693617
     }
 }
