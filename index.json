@@ -18268,5 +18268,12 @@
         "url": "https://github.com/kaichaosun/nim-noise",
         "license": "MIT",
         "added_at": 1778698874
+    },
+    "textalot": {
+        "id": "textalot",
+        "type": "git",
+        "url": "https://github.com/erayzesen/textalot",
+        "license": "MIT",
+        "added_at": 1778698891
     }
 }
