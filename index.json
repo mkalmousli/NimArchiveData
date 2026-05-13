@@ -17246,5 +17246,12 @@
         "url": "https://github.com/TelegramXPlus/ipv4utils",
         "license": "MIT",
         "added_at": 1778694584
+    },
+    "simdutf": {
+        "id": "simdutf",
+        "type": "git",
+        "url": "https://github.com/ferus-web/simdutf",
+        "license": "Apache-2.0",
+        "added_at": 1778694595
     }
 }
