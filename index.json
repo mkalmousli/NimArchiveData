@@ -17834,5 +17834,12 @@
         "url": "https://github.com/vacp2p/nim-quic",
         "license": "MIT",
         "added_at": 1778696969
+    },
+    "lsquic": {
+        "id": "lsquic",
+        "type": "git",
+        "url": "https://github.com/vacp2p/nim-lsquic",
+        "license": "MIT",
+        "added_at": 1778697061
     }
 }
