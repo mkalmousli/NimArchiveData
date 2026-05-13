@@ -17351,5 +17351,12 @@
         "url": "https://github.com/enkaito/nim_2048",
         "license": "MIT",
         "added_at": 1778694936
+    },
+    "rangex": {
+        "id": "rangex",
+        "type": "git",
+        "url": "https://github.com/PegasusPlusUS/rangex-nim",
+        "license": "MIT",
+        "added_at": 1778694946
     }
 }
