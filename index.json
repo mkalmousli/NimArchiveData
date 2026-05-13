@@ -18338,5 +18338,12 @@
         "url": "https://github.com/openpeeps/mimedb",
         "license": "MIT",
         "added_at": 1778698997
+    },
+    "stfrunner": {
+        "id": "stfrunner",
+        "type": "git",
+        "url": "https://github.com/flenniken/stfrunner",
+        "license": "MIT",
+        "added_at": 1778699009
     }
 }
