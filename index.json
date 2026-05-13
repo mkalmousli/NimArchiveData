@@ -17631,5 +17631,12 @@
         "url": "https://github.com/infinoid/ed2ksum.nim",
         "license": "MIT",
         "added_at": 1778696375
+    },
+    "DotNimRemoting": {
+        "id": "DotNimRemoting",
+        "type": "git",
+        "url": "https://github.com/filvyb/DotNimRemoting",
+        "license": "MIT",
+        "added_at": 1778696388
     }
 }
