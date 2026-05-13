@@ -17743,5 +17743,12 @@
         "url": "https://github.com/ferus-web/shakar",
         "license": "MIT",
         "added_at": 1778696687
+    },
+    "bytesized": {
+        "id": "bytesized",
+        "type": "git",
+        "url": "https://gitlab.com/Maxb0tbeep/bytesized",
+        "license": "GPL-3.0-only",
+        "added_at": 1778696704
     }
 }
