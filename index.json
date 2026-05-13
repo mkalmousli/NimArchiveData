@@ -16854,5 +16854,12 @@
         "url": "https://github.com/FyraLabs/sweet",
         "license": "MIT",
         "added_at": 1778693074
+    },
+    "cdp": {
+        "id": "cdp",
+        "type": "git",
+        "url": "https://github.com/Niminem/ChromeDevToolsProtocol",
+        "license": "MIT",
+        "added_at": 1778693094
     }
 }
