@@ -18345,5 +18345,12 @@
         "url": "https://github.com/flenniken/stfrunner",
         "license": "MIT",
         "added_at": 1778699009
+    },
+    "podofo": {
+        "id": "podofo",
+        "type": "git",
+        "url": "https://github.com/fox0430/nim-podofo",
+        "license": "MIT",
+        "added_at": 1778699024
     }
 }
