@@ -18625,5 +18625,12 @@
         "url": "https://github.com/canermastan/jazzy-framework",
         "license": "MIT",
         "added_at": 1778700722
+    },
+    "nebble": {
+        "id": "nebble",
+        "type": "git",
+        "url": "https://github.com/Brokezawa/nebble",
+        "license": "MIT",
+        "added_at": 1778700757
     }
 }
