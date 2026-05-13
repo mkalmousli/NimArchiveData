@@ -1356,5 +1356,12 @@
         "url": "https://github.com/nim-lang/sdl2",
         "license": "MIT",
         "added_at": 1778707409
+    },
+    "gamelib": {
+        "id": "gamelib",
+        "type": "git",
+        "url": "https://github.com/PMunch/SDLGamelib",
+        "license": "MIT",
+        "added_at": 1778707432
     }
 }
