@@ -16777,5 +16777,12 @@
         "url": "https://github.com/pouriyajamshidi/nginwho",
         "license": "MIT",
         "added_at": 1778692696
+    },
+    "umriss": {
+        "id": "umriss",
+        "type": "git",
+        "url": "https://github.com/tdely/umriss",
+        "license": "MIT",
+        "added_at": 1778692736
     }
 }
