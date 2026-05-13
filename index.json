@@ -17477,5 +17477,12 @@
         "url": "https://github.com/bob16795/steamworksgen-nim",
         "license": "MIT",
         "added_at": 1778695957
+    },
+    "ferrite": {
+        "id": "ferrite",
+        "type": "git",
+        "url": "https://github.com/ferus-web/ferrite",
+        "license": "MIT",
+        "added_at": 1778695965
     }
 }
