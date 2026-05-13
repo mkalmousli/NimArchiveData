@@ -17771,5 +17771,12 @@
         "url": "https://github.com/cycneuramus/nmgr",
         "license": "GPL-3.0-only",
         "added_at": 1778696754
+    },
+    "deceptimeed": {
+        "id": "deceptimeed",
+        "type": "git",
+        "url": "https://github.com/cycneuramus/deceptimeed",
+        "license": "AGPL-3.0-only",
+        "added_at": 1778696805
     }
 }
