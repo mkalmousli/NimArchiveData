@@ -16889,5 +16889,12 @@
         "url": "https://github.com/ferus-web/mirage",
         "license": "MIT",
         "added_at": 1778693203
+    },
+    "ferusgfx": {
+        "id": "ferusgfx",
+        "type": "git",
+        "url": "https://github.com/ferus-web/ferusgfx",
+        "license": "MIT",
+        "added_at": 1778693266
     }
 }
