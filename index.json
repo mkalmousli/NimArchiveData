@@ -18450,5 +18450,12 @@
         "url": "https://codeberg.org/penguinite/bcryptrocks",
         "license": "crypt_blowfish",
         "added_at": 1778700164
+    },
+    "sdfy": {
+        "id": "sdfy",
+        "type": "git",
+        "url": "https://github.com/elcritch/sdfy",
+        "license": "Apache-2.0",
+        "added_at": 1778700182
     }
 }
