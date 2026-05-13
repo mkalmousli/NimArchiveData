@@ -17904,5 +17904,12 @@
         "url": "https://github.com/capocasa/mash",
         "license": "MIT",
         "added_at": 1778697185
+    },
+    "imguin": {
+        "id": "imguin",
+        "type": "git",
+        "url": "https://github.com/dinau/imguin",
+        "license": "MIT License",
+        "added_at": 1778697205
     }
 }
