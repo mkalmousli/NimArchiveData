@@ -17323,5 +17323,12 @@
         "url": "https://github.com/haoyu234/buju",
         "license": "MIT",
         "added_at": 1778694862
+    },
+    "froth": {
+        "id": "froth",
+        "type": "git",
+        "url": "https://github.com/metagn/froth",
+        "license": "MIT",
+        "added_at": 1778694886
     }
 }
