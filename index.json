@@ -16875,5 +16875,12 @@
         "url": "https://github.com/YaDev/NimCLS",
         "license": "MIT",
         "added_at": 1778693119
+    },
+    "stylus": {
+        "id": "stylus",
+        "type": "git",
+        "url": "https://github.com/ferus-web/stylus",
+        "license": "MIT",
+        "added_at": 1778693191
     }
 }
