@@ -16833,5 +16833,12 @@
         "url": "https://github.com/Niminem/CSS3Selectors",
         "license": "MIT",
         "added_at": 1778692918
+    },
+    "nimjl": {
+        "id": "nimjl",
+        "type": "git",
+        "url": "https://github.com/SciNim/nimjl",
+        "license": "MIT",
+        "added_at": 1778692927
     }
 }
