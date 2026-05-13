@@ -17512,5 +17512,12 @@
         "url": "https://github.com/nim-lang/errorcodes.git",
         "license": "MIT",
         "added_at": 1778696006
+    },
+    "nimony": {
+        "id": "nimony",
+        "type": "git",
+        "url": "https://github.com/nim-lang/nimony.git",
+        "license": "MIT",
+        "added_at": 1778696016
     }
 }
