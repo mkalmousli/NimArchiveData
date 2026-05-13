@@ -16917,5 +16917,12 @@
         "url": "https://github.com/up7down8/asyncssh2",
         "license": "MIT",
         "added_at": 1778693393
+    },
+    "rex": {
+        "id": "rex",
+        "type": "git",
+        "url": "https://github.com/minamorl/rex",
+        "license": "MIT",
+        "added_at": 1778693402
     }
 }
