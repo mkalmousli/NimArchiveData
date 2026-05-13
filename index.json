@@ -17176,5 +17176,12 @@
         "url": "https://github.com/neroist/brotli",
         "license": "MIT",
         "added_at": 1778694330
+    },
+    "hannah": {
+        "id": "hannah",
+        "type": "git",
+        "url": "https://github.com/sainttttt/hannah",
+        "license": "MIT",
+        "added_at": 1778694344
     }
 }
