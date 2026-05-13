@@ -453,5 +453,12 @@
         "url": "https://github.com/neroist/luigi",
         "license": "MIT",
         "added_at": 1778632951
+    },
+    "sun_moon": {
+        "id": "sun_moon",
+        "type": "git",
+        "url": "https://github.com/dschaadt/sun_moon",
+        "license": "MIT",
+        "added_at": 1778632959
     }
 }
