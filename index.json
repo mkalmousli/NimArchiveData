@@ -19199,5 +19199,12 @@
         "url": "https://github.com/capocasa/ttty",
         "license": "MIT",
         "added_at": 1778702383
+    },
+    "supra": {
+        "id": "supra",
+        "type": "git",
+        "url": "https://github.com/supranim/supra",
+        "license": "MIT",
+        "added_at": 1778702391
     }
 }
