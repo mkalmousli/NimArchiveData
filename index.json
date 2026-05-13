@@ -17876,5 +17876,12 @@
         "url": "https://github.com/jamesfrancis2004/uuidgen",
         "license": "MIT",
         "added_at": 1778697145
+    },
+    "rtthread": {
+        "id": "rtthread",
+        "type": "git",
+        "url": "https://github.com/capocasa/rtthread",
+        "license": "MIT",
+        "added_at": 1778697153
     }
 }
