@@ -18212,5 +18212,12 @@
         "url": "https://github.com/nervecenter/nimgnuplot",
         "license": "MIT",
         "added_at": 1778698677
+    },
+    "cipherlib": {
+        "id": "cipherlib",
+        "type": "git",
+        "url": "https://github.com/ph4mished/cipherlib",
+        "license": "MIT",
+        "added_at": 1778698695
     }
 }
