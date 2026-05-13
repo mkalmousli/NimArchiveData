@@ -17526,5 +17526,12 @@
         "url": "https://github.com/threatfender/args",
         "license": "MIT",
         "added_at": 1778696044
+    },
+    "nim_kyber": {
+        "id": "nim_kyber",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/nim-kyber",
+        "license": "MIT",
+        "added_at": 1778696058
     }
 }
