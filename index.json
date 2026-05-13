@@ -18590,5 +18590,12 @@
         "url": "https://github.com/v4rm4n/nserve",
         "license": "MIT",
         "added_at": 1778700660
+    },
+    "steadytensor": {
+        "id": "steadytensor",
+        "type": "git",
+        "url": "https://github.com/garrettkinman/SteadyTensor",
+        "license": "MIT",
+        "added_at": 1778700685
     }
 }
