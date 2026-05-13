@@ -17085,5 +17085,12 @@
         "url": "https://git.sr.ht/~bptato/chagashi",
         "license": "Unlicense",
         "added_at": 1778693867
+    },
+    "monoucha": {
+        "id": "monoucha",
+        "type": "git",
+        "url": "https://git.sr.ht/~bptato/monoucha",
+        "license": "MIT & Unlicense",
+        "added_at": 1778693948
     }
 }
