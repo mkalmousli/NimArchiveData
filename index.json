@@ -348,5 +348,12 @@
         "url": "https://github.com/amkrajewski/nimplex",
         "license": "MIT",
         "added_at": 1778670482
+    },
+    "tagforge": {
+        "id": "tagforge",
+        "type": "git",
+        "url": "https://github.com/Nimberite-Development/TagForge-Nim",
+        "license": "Apache-2.0",
+        "added_at": 1778670573
     }
 }
