@@ -18149,5 +18149,12 @@
         "url": "https://github.com/elcritch/fastrpc",
         "license": "Apache-2.0",
         "added_at": 1778698560
+    },
+    "parsesql": {
+        "id": "parsesql",
+        "type": "git",
+        "url": "https://github.com/nim-lang/parsesql",
+        "license": "MIT",
+        "added_at": 1778698570
     }
 }
