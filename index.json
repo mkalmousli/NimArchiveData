@@ -17106,5 +17106,12 @@
         "url": "https://github.com/m4ul3r/libunicorn-nim",
         "license": "MIT",
         "added_at": 1778694082
+    },
+    "ninit": {
+        "id": "ninit",
+        "type": "git",
+        "url": "https://github.com/cypherwytch/ninit",
+        "license": "BSD",
+        "added_at": 1778694091
     }
 }
