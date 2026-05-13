@@ -18604,5 +18604,12 @@
         "url": "https://github.com/openpeeps/greskewel",
         "license": "MIT",
         "added_at": 1778700694
+    },
+    "bilidown": {
+        "id": "bilidown",
+        "type": "git",
+        "url": "https://github.com/bung87/bilidown",
+        "license": "MIT",
+        "added_at": 1778700705
     }
 }
