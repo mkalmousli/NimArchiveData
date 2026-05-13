@@ -17316,5 +17316,12 @@
         "url": "https://github.com/GeK2K/nimutils",
         "license": "MIT",
         "added_at": 1778694853
+    },
+    "buju": {
+        "id": "buju",
+        "type": "git",
+        "url": "https://github.com/haoyu234/buju",
+        "license": "MIT",
+        "added_at": 1778694862
     }
 }
