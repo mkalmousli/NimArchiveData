@@ -17645,5 +17645,12 @@
         "url": "https://github.com/cycneuramus/nimpsort",
         "license": "GPL-3.0-only",
         "added_at": 1778696424
+    },
+    "ladybug": {
+        "id": "ladybug",
+        "type": "git",
+        "url": "https://github.com/mahlonsmith/nim-ladybug",
+        "license": "BSD-3-Clause",
+        "added_at": 1778696441
     }
 }
