@@ -18548,5 +18548,12 @@
         "url": "https://github.com/jthampton/sshterm",
         "license": "MIT",
         "added_at": 1778700550
+    },
+    "yfnim": {
+        "id": "yfnim",
+        "type": "git",
+        "url": "https://github.com/jailop/yfnim",
+        "license": "MIT",
+        "added_at": 1778700560
     }
 }
