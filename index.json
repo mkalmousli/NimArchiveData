@@ -17211,5 +17211,12 @@
         "url": "https://codeberg.org/13thab/turso-nim",
         "license": "BSD-3-Clause",
         "added_at": 1778694399
+    },
+    "norg": {
+        "id": "norg",
+        "type": "git",
+        "url": "https://codeberg.org/pswilde/norgbackup",
+        "license": "AGPL-3.0-or-later",
+        "added_at": 1778694419
     }
 }
