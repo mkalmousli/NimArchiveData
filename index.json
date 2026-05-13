@@ -18002,5 +18002,12 @@
         "url": "https://github.com/nemuelw/nationalize",
         "license": "GPL-3.0-only",
         "added_at": 1778697826
+    },
+    "seance": {
+        "id": "seance",
+        "type": "git",
+        "url": "https://github.com/esafak/seance",
+        "license": "MIT",
+        "added_at": 1778697835
     }
 }
