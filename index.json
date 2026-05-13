@@ -18275,5 +18275,12 @@
         "url": "https://github.com/erayzesen/textalot",
         "license": "MIT",
         "added_at": 1778698891
+    },
+    "keycard-sdk": {
+        "id": "keycard-sdk",
+        "type": "git",
+        "url": "https://github.com/mmlado/keycard-nim",
+        "license": "MIT",
+        "added_at": 1778698905
     }
 }
