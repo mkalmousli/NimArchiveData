@@ -17722,5 +17722,12 @@
         "url": "https://github.com/capocasa/pharao",
         "license": "MIT",
         "added_at": 1778696625
+    },
+    "gbm": {
+        "id": "gbm",
+        "type": "git",
+        "url": "https://github.com/xTrayambak/gbm-nim",
+        "license": "MIT",
+        "added_at": 1778696658
     }
 }
