@@ -18709,5 +18709,12 @@
         "url": "https://github.com/capocasa/blg",
         "license": "MIT",
         "added_at": 1778701099
+    },
+    "editorconfig": {
+        "id": "editorconfig",
+        "type": "git",
+        "url": "https://github.com/fox0430/editorconfig-nim",
+        "license": "MIT",
+        "added_at": 1778701115
     }
 }
