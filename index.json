@@ -16861,5 +16861,12 @@
         "url": "https://github.com/Niminem/ChromeDevToolsProtocol",
         "license": "MIT",
         "added_at": 1778693094
+    },
+    "octolog": {
+        "id": "octolog",
+        "type": "git",
+        "url": "https://github.com/jaar23/octolog",
+        "license": "GPL3",
+        "added_at": 1778693104
     }
 }
