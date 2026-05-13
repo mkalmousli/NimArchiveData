@@ -18975,5 +18975,12 @@
         "url": "https://github.com/fox0430/chronos-smtp",
         "license": "MIT",
         "added_at": 1778701852
+    },
+    "twofa": {
+        "id": "twofa",
+        "type": "git",
+        "url": "https://github.com/openpeeps/twofa",
+        "license": "MIT",
+        "added_at": 1778701907
     }
 }
