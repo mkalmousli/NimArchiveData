@@ -18086,5 +18086,12 @@
         "url": "https://github.com/fox0430/lasm",
         "license": "MIT",
         "added_at": 1778698184
+    },
+    "mmops": {
+        "id": "mmops",
+        "type": "git",
+        "url": "https://github.com/capocasa/mmops",
+        "license": "MIT",
+        "added_at": 1778698193
     }
 }
