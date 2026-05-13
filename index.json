@@ -18786,5 +18786,12 @@
         "url": "https://github.com/xTrayambak/overdrive",
         "license": "BSD-3-Clause",
         "added_at": 1778701318
+    },
+    "nayland": {
+        "id": "nayland",
+        "type": "git",
+        "url": "https://github.com/nim-windowing/nayland",
+        "license": "BSD-3-Clause",
+        "added_at": 1778701333
     }
 }
