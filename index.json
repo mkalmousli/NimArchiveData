@@ -17799,5 +17799,12 @@
         "url": "https://github.com/ire4ever1190/nimsight",
         "license": "MIT",
         "added_at": 1778696903
+    },
+    "fur": {
+        "id": "fur",
+        "type": "git",
+        "url": "https://github.com/capocasa/fur",
+        "license": "MIT",
+        "added_at": 1778696920
     }
 }
