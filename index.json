@@ -18940,5 +18940,12 @@
         "url": "https://github.com/akvilary/fpdf",
         "license": "MIT",
         "added_at": 1778701765
+    },
+    "starlight": {
+        "id": "starlight",
+        "type": "git",
+        "url": "https://github.com/akvilary/starlight",
+        "license": "MIT",
+        "added_at": 1778701777
     }
 }
