@@ -18415,5 +18415,12 @@
         "url": "https://github.com/WaywardWizard/cueconfig",
         "license": "MIT",
         "added_at": 1778699219
+    },
+    "oauth2": {
+        "id": "oauth2",
+        "type": "git",
+        "url": "https://github.com/Niminem/oauth2",
+        "license": "MIT",
+        "added_at": 1778699314
     }
 }
