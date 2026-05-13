@@ -18989,5 +18989,12 @@
         "url": "https://github.com/openpeeps/e2ee",
         "license": "MIT",
         "added_at": 1778701915
+    },
+    "bunnery": {
+        "id": "bunnery",
+        "type": "git",
+        "url": "https://github.com/elcritch/bunnery",
+        "license": "BSD-2-Clause",
+        "added_at": 1778701924
     }
 }
