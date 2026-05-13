@@ -17134,5 +17134,12 @@
         "url": "https://gitlab.com/IAlbassort/nimPGP/",
         "license": "MIT",
         "added_at": 1778694162
+    },
+    "lsblk": {
+        "id": "lsblk",
+        "type": "git",
+        "url": "https://github.com/FyraLabs/lsblk.nim",
+        "license": "MIT",
+        "added_at": 1778694191
     }
 }
