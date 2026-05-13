@@ -17701,5 +17701,12 @@
         "url": "https://github.com/openpeeps/libdatachannel-nim",
         "license": "MIT",
         "added_at": 1778696545
+    },
+    "dhbp": {
+        "id": "dhbp",
+        "type": "git",
+        "url": "https://github.com/moigagoo/dhbp",
+        "license": "MIT",
+        "added_at": 1778696555
     }
 }
