@@ -18324,5 +18324,12 @@
         "url": "https://github.com/fox0430/nim-qpdf",
         "license": "MIT",
         "added_at": 1778698979
+    },
+    "ghostscript": {
+        "id": "ghostscript",
+        "type": "git",
+        "url": "https://github.com/fox0430/nim-ghostscript",
+        "license": "MIT",
+        "added_at": 1778698988
     }
 }
