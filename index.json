@@ -18352,5 +18352,12 @@
         "url": "https://github.com/fox0430/nim-podofo",
         "license": "MIT",
         "added_at": 1778699024
+    },
+    "kirpi": {
+        "id": "kirpi",
+        "type": "git",
+        "url": "https://github.com/erayzesen/kirpi",
+        "license": "MIT",
+        "added_at": 1778699033
     }
 }
