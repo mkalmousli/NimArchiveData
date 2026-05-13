@@ -18779,5 +18779,12 @@
         "url": "https://github.com/nimmer-jp/nimtra",
         "license": "MIT",
         "added_at": 1778701245
+    },
+    "overdrive": {
+        "id": "overdrive",
+        "type": "git",
+        "url": "https://github.com/xTrayambak/overdrive",
+        "license": "BSD-3-Clause",
+        "added_at": 1778701318
     }
 }
