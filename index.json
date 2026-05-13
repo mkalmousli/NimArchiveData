@@ -17778,5 +17778,12 @@
         "url": "https://github.com/cycneuramus/deceptimeed",
         "license": "AGPL-3.0-only",
         "added_at": 1778696805
+    },
+    "age": {
+        "id": "age",
+        "type": "git",
+        "url": "https://github.com/attakei/age",
+        "license": "Apache-2.0-only",
+        "added_at": 1778696833
     }
 }
