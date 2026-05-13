@@ -17995,5 +17995,12 @@
         "url": "https://github.com/nemuelw/genderize",
         "license": "GPL-3.0-only",
         "added_at": 1778697817
+    },
+    "nationalize": {
+        "id": "nationalize",
+        "type": "git",
+        "url": "https://github.com/nemuelw/nationalize",
+        "license": "GPL-3.0-only",
+        "added_at": 1778697826
     }
 }
