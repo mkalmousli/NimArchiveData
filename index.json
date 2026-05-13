@@ -18681,5 +18681,12 @@
         "url": "https://github.com/bung87/tinyvg",
         "license": "MIT",
         "added_at": 1778701028
+    },
+    "usu": {
+        "id": "usu",
+        "type": "git",
+        "url": "https://github.com/usu-dev/usu-nim",
+        "license": "MIT",
+        "added_at": 1778701040
     }
 }
