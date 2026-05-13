@@ -467,5 +467,12 @@
         "url": "https://github.com/hitblast/nimip",
         "license": "MIT",
         "added_at": 1778689326
+    },
+    "gitman": {
+        "id": "gitman",
+        "type": "git",
+        "url": "https://github.com/nirokay/gitman",
+        "license": "GPL-3.0-only",
+        "added_at": 1778689360
     }
 }
