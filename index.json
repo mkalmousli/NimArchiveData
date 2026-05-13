@@ -17869,5 +17869,12 @@
         "url": "https://github.com/thing-king/scope",
         "license": "MIT",
         "added_at": 1778697137
+    },
+    "uuidgen": {
+        "id": "uuidgen",
+        "type": "git",
+        "url": "https://github.com/jamesfrancis2004/uuidgen",
+        "license": "MIT",
+        "added_at": 1778697145
     }
 }
