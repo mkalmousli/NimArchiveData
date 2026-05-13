@@ -17183,5 +17183,12 @@
         "url": "https://github.com/sainttttt/hannah",
         "license": "MIT",
         "added_at": 1778694344
+    },
+    "batmon": {
+        "id": "batmon",
+        "type": "git",
+        "url": "https://codeberg.org/pswilde/batmon",
+        "license": "BSD-3",
+        "added_at": 1778694355
     }
 }
