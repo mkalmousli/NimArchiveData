@@ -18380,5 +18380,12 @@
         "url": "https://github.com/status-im/nim-async-channels",
         "license": "MIT",
         "added_at": 1778699113
+    },
+    "valkey": {
+        "id": "valkey",
+        "type": "git",
+        "url": "https://github.com/pshankinclarke/valkey-nim",
+        "license": "MIT",
+        "added_at": 1778699121
     }
 }
