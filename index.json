@@ -17785,5 +17785,12 @@
         "url": "https://github.com/attakei/age",
         "license": "Apache-2.0-only",
         "added_at": 1778696833
+    },
+    "jv": {
+        "id": "jv",
+        "type": "git",
+        "url": "https://github.com/meenbeese/jv",
+        "license": "MIT",
+        "added_at": 1778696894
     }
 }
