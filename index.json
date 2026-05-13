@@ -18156,5 +18156,12 @@
         "url": "https://github.com/nim-lang/parsesql",
         "license": "MIT",
         "added_at": 1778698570
+    },
+    "marvdown": {
+        "id": "marvdown",
+        "type": "git",
+        "url": "https://github.com/openpeeps/marvdown",
+        "license": "MIT",
+        "added_at": 1778698583
     }
 }
