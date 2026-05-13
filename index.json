@@ -18072,5 +18072,12 @@
         "url": "https://github.com/Apothic-AI/claude-code-sdk-nim",
         "license": "Apache-2.0",
         "added_at": 1778698161
+    },
+    "pgvector": {
+        "id": "pgvector",
+        "type": "git",
+        "url": "https://github.com/pgvector/pgvector-nim",
+        "license": "MIT",
+        "added_at": 1778698172
     }
 }
