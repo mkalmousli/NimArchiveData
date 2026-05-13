@@ -16945,5 +16945,12 @@
         "url": "https://github.com/FyraLabs/sudo.nim",
         "license": "MIT",
         "added_at": 1778693442
+    },
+    "nimsrvstat": {
+        "id": "nimsrvstat",
+        "type": "git",
+        "url": "https://github.com/Minejerik/nimsrvstat",
+        "license": "MIT",
+        "added_at": 1778693458
     }
 }
