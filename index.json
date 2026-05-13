@@ -18646,5 +18646,12 @@
         "url": "https://github.com/gaato/dimslash",
         "license": "BlueOak-1.0.0",
         "added_at": 1778700796
+    },
+    "wewbo": {
+        "id": "wewbo",
+        "type": "git",
+        "url": "https://github.com/upi-0/wewbo",
+        "license": "GPL-3.0",
+        "added_at": 1778700815
     }
 }
