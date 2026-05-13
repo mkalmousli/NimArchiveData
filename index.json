@@ -18555,5 +18555,12 @@
         "url": "https://github.com/jailop/yfnim",
         "license": "MIT",
         "added_at": 1778700560
+    },
+    "multipart": {
+        "id": "multipart",
+        "type": "git",
+        "url": "https://github.com/openpeeps/multipart",
+        "license": "MIT",
+        "added_at": 1778700584
     }
 }
