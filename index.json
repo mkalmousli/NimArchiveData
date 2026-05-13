@@ -17099,5 +17099,12 @@
         "url": "https://github.com/m4ul3r/libcapstone-nim",
         "license": "MIT",
         "added_at": 1778694073
+    },
+    "libunicorn": {
+        "id": "libunicorn",
+        "type": "git",
+        "url": "https://github.com/m4ul3r/libunicorn-nim",
+        "license": "MIT",
+        "added_at": 1778694082
     }
 }
