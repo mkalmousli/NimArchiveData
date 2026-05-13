@@ -18569,5 +18569,12 @@
         "url": "https://github.com/openpeeps/voodoo",
         "license": "MIT",
         "added_at": 1778700593
+    },
+    "diskclean": {
+        "id": "diskclean",
+        "type": "git",
+        "url": "https://github.com/ynishi/diskclean",
+        "license": "MIT",
+        "added_at": 1778700631
     }
 }
