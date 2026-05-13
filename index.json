@@ -17169,5 +17169,12 @@
         "url": "https://github.com/nirokay/holidapi",
         "license": "GPL-3.0-only",
         "added_at": 1778694307
+    },
+    "brotli": {
+        "id": "brotli",
+        "type": "git",
+        "url": "https://github.com/neroist/brotli",
+        "license": "MIT",
+        "added_at": 1778694330
     }
 }
