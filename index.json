@@ -17813,5 +17813,12 @@
         "url": "https://github.com/capocasa/jill",
         "license": "MIT",
         "added_at": 1778696933
+    },
+    "amicus": {
+        "id": "amicus",
+        "type": "git",
+        "url": "https://codeberg.org/onbox/amicus",
+        "license": "AGPL-3.0-or-later",
+        "added_at": 1778696949
     }
 }
