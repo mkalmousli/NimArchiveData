@@ -18408,5 +18408,12 @@
         "url": "https://github.com/c-blake/xm",
         "license": "MIT",
         "added_at": 1778699182
+    },
+    "cueconfig": {
+        "id": "cueconfig",
+        "type": "git",
+        "url": "https://github.com/WaywardWizard/cueconfig",
+        "license": "MIT",
+        "added_at": 1778699219
     }
 }
