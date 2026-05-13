@@ -17232,5 +17232,12 @@
         "url": "https://github.com/glassesneo/seiryu",
         "license": "MIT",
         "added_at": 1778694552
+    },
+    "spellua": {
+        "id": "spellua",
+        "type": "git",
+        "url": "https://github.com/glassesneo/spellua",
+        "license": "MIT",
+        "added_at": 1778694572
     }
 }
