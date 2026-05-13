@@ -18282,5 +18282,12 @@
         "url": "https://github.com/mmlado/keycard-nim",
         "license": "MIT",
         "added_at": 1778698905
+    },
+    "naecs": {
+        "id": "naecs",
+        "type": "git",
+        "url": "https://github.com/Hammer2900/naecs.git",
+        "license": "MIT",
+        "added_at": 1778698921
     }
 }
