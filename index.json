@@ -17792,5 +17792,12 @@
         "url": "https://github.com/meenbeese/jv",
         "license": "MIT",
         "added_at": 1778696894
+    },
+    "nimsight": {
+        "id": "nimsight",
+        "type": "git",
+        "url": "https://github.com/ire4ever1190/nimsight",
+        "license": "MIT",
+        "added_at": 1778696903
     }
 }
