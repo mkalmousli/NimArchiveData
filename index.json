@@ -16910,5 +16910,12 @@
         "url": "https://github.com/up7down8/simpleMail",
         "license": "MIT",
         "added_at": 1778693384
+    },
+    "asyncssh2": {
+        "id": "asyncssh2",
+        "type": "git",
+        "url": "https://github.com/up7down8/asyncssh2",
+        "license": "MIT",
+        "added_at": 1778693393
     }
 }
