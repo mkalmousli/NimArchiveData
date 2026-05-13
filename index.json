@@ -18527,5 +18527,12 @@
         "url": "https://github.com/WaywardWizard/nimdoc",
         "license": "MIT",
         "added_at": 1778700462
+    },
+    "sqlquery": {
+        "id": "sqlquery",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/nim_sqlquery",
+        "license": "MIT",
+        "added_at": 1778700486
     }
 }
