@@ -17939,5 +17939,12 @@
         "url": "https://github.com/nemuelw/tpdne",
         "license": "MIT",
         "added_at": 1778697659
+    },
+    "sdl3_nim": {
+        "id": "sdl3_nim",
+        "type": "git",
+        "url": "https://github.com/dinau/sdl3_nim",
+        "license": "MIT License",
+        "added_at": 1778697668
     }
 }
