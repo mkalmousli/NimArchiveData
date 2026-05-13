@@ -16987,5 +16987,12 @@
         "url": "https://github.com/codex-storage/nim-leveldb",
         "license": "MIT",
         "added_at": 1778693524
+    },
+    "nimtk": {
+        "id": "nimtk",
+        "type": "git",
+        "url": "https://github.com/neroist/nimtk",
+        "license": "MIT",
+        "added_at": 1778693563
     }
 }
