@@ -17260,5 +17260,12 @@
         "url": "https://github.com/monofuel/hippo",
         "license": "MIT",
         "added_at": 1778694610
+    },
+    "fenstim": {
+        "id": "fenstim",
+        "type": "git",
+        "url": "https://github.com/CardealRusso/fenstim",
+        "license": "MIT",
+        "added_at": 1778694642
     }
 }
