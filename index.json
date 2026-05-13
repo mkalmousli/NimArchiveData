@@ -16707,5 +16707,12 @@
         "url": "https://github.com/Q-Master/statsdaemon.nim",
         "license": "MIT",
         "added_at": 1778691424
+    },
+    "amqpstats": {
+        "id": "amqpstats",
+        "type": "git",
+        "url": "https://github.com/Q-Master/amqp-stats.nim",
+        "license": "MIT",
+        "added_at": 1778691455
     }
 }
