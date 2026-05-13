@@ -17190,5 +17190,12 @@
         "url": "https://codeberg.org/pswilde/batmon",
         "license": "BSD-3",
         "added_at": 1778694355
+    },
+    "wayland_native": {
+        "id": "wayland_native",
+        "type": "git",
+        "url": "https://git.sr.ht/~ehmry/wayland-nim",
+        "license": "Unlicense",
+        "added_at": 1778694377
     }
 }
