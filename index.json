@@ -18226,5 +18226,12 @@
         "url": "https://github.com/litlighilit/uctl",
         "license": "MIT",
         "added_at": 1778698709
+    },
+    "url": {
+        "id": "url",
+        "type": "git",
+        "url": "https://github.com/xTrayambak/url",
+        "license": "BSD-3",
+        "added_at": 1778698721
     }
 }
