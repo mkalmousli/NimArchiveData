@@ -16672,5 +16672,12 @@
         "url": "https://github.com/sls1005/nim-cppconst",
         "license": "MIT",
         "added_at": 1778691249
+    },
+    "dither": {
+        "id": "dither",
+        "type": "git",
+        "url": "https://github.com/Nycto/dither-nim",
+        "license": "Apache-2.0",
+        "added_at": 1778691275
     }
 }
