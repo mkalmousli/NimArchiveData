@@ -17043,5 +17043,12 @@
         "url": "https://git.sr.ht/~ehmry/nim_lk",
         "license": "BSD-3-Clause",
         "added_at": 1778693646
+    },
+    "gitty": {
+        "id": "gitty",
+        "type": "git",
+        "url": "https://github.com/chrischtel/gitty",
+        "license": "BSD-3-Clause",
+        "added_at": 1778693684
     }
 }
