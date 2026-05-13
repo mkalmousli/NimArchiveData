@@ -1272,5 +1272,12 @@
         "url": "https://github.com/micklat/NimBorg",
         "license": "MIT",
         "added_at": 1778707300
+    },
+    "sha1": {
+        "id": "sha1",
+        "type": "git",
+        "url": "https://github.com/onionhammer/sha1",
+        "license": "BSD",
+        "added_at": 1778707305
     }
 }
