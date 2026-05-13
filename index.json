@@ -17386,5 +17386,12 @@
         "url": "https://codeberg.org/onbox/temple",
         "license": "BSD-3-Clause",
         "added_at": 1778695178
+    },
+    "blend2d": {
+        "id": "blend2d",
+        "type": "git",
+        "url": "https://github.com/openpeeps/blend2d-nim",
+        "license": "MIT",
+        "added_at": 1778695199
     }
 }
