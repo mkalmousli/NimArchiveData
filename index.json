@@ -18667,5 +18667,12 @@
         "url": "https://github.com/openpeeps/ozark",
         "license": "MIT",
         "added_at": 1778700980
+    },
+    "lately": {
+        "id": "lately",
+        "type": "git",
+        "url": "https://github.com/hmbemba/lately",
+        "license": "MIT",
+        "added_at": 1778701008
     }
 }
