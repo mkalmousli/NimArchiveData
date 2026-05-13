@@ -17841,5 +17841,12 @@
         "url": "https://github.com/vacp2p/nim-lsquic",
         "license": "MIT",
         "added_at": 1778697061
+    },
+    "tang": {
+        "id": "tang",
+        "type": "git",
+        "url": "https://github.com/5-6-1/tang-nim",
+        "license": "MIT",
+        "added_at": 1778697097
     }
 }
