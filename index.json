@@ -16924,5 +16924,12 @@
         "url": "https://github.com/minamorl/rex",
         "license": "MIT",
         "added_at": 1778693402
+    },
+    "dim": {
+        "id": "dim",
+        "type": "git",
+        "url": "https://github.com/lorenzoliuzzo/dim",
+        "license": "GPL-3.0-or-later",
+        "added_at": 1778693418
     }
 }
