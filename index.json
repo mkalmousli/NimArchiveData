@@ -17379,5 +17379,12 @@
         "url": "https://github.com/aspiring-aster/twim",
         "license": "MIT",
         "added_at": 1778695175
+    },
+    "temple": {
+        "id": "temple",
+        "type": "git",
+        "url": "https://codeberg.org/onbox/temple",
+        "license": "BSD-3-Clause",
+        "added_at": 1778695178
     }
 }
