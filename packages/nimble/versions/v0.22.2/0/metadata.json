@@ -1,9 +1,9 @@
 {
-    "checksum": "d20d2a194e2cf6b3f1043bd5ad717c35fa2ca165298d3084c8a06116440e5d1b",
+    "checksum": "aec79e14ee15515ed9ca406fa23ab0bc8a74afce49fc19231994c2760937465b",
     "commit": "aa03f886e4a111d6af9090c6a1f1271d64b66f7b",
     "source_hash": "93fb695692bb806aeeeb666625a419e42df12ef4",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778620813,
+    "archived_at": 1778706899,
     "archive_name": "nimble-v0.22.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
