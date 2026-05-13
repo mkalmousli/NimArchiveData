@@ -1,9 +1,9 @@
 {
-    "checksum": "b0024cd482568c2796103dcdb783858f73988a6a0033c3d107b10e8720ca7831",
+    "checksum": "489a6303f317da88c38e7b91a09678a88b5ae591ebf8ff0cc00cfdf706ca2e53",
     "commit": "0f6baafb7d4c620838f0c4efe9e7575c7e821e87",
     "source_hash": "33b15502f7089e495fffc1ec2421a472a5ff5f22",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778671822,
+    "archived_at": 1778690361,
     "archive_name": "jhash-v0.1.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
