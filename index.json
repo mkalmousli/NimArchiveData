@@ -18618,5 +18618,12 @@
         "url": "https://github.com/fox0430/iori",
         "license": "MIT",
         "added_at": 1778700713
+    },
+    "jazzy": {
+        "id": "jazzy",
+        "type": "git",
+        "url": "https://github.com/canermastan/jazzy-framework",
+        "license": "MIT",
+        "added_at": 1778700722
     }
 }
