@@ -17218,5 +17218,12 @@
         "url": "https://codeberg.org/pswilde/norgbackup",
         "license": "AGPL-3.0-or-later",
         "added_at": 1778694419
+    },
+    "formatja": {
+        "id": "formatja",
+        "type": "git",
+        "url": "https://github.com/enthus1ast/formatja",
+        "license": "MIT",
+        "added_at": 1778694544
     }
 }
