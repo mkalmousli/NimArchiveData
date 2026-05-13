@@ -18471,5 +18471,12 @@
         "url": "https://github.com/arashi-software/ista",
         "license": "GPL-2.0",
         "added_at": 1778700327
+    },
+    "ic": {
+        "id": "ic",
+        "type": "git",
+        "url": "https://github.com/hmbemba/ic",
+        "license": "MIT",
+        "added_at": 1778700339
     }
 }
