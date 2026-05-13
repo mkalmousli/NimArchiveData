@@ -18499,5 +18499,12 @@
         "url": "https://github.com/hmbemba/hk",
         "license": "MIT",
         "added_at": 1778700406
+    },
+    "rz": {
+        "id": "rz",
+        "type": "git",
+        "url": "https://github.com/hmbemba/rz",
+        "license": "MIT",
+        "added_at": 1778700414
     }
 }
