@@ -17358,5 +17358,12 @@
         "url": "https://github.com/PegasusPlusUS/rangex-nim",
         "license": "MIT",
         "added_at": 1778694946
+    },
+    "katalis": {
+        "id": "katalis",
+        "type": "git",
+        "url": "https://github.com/zendbit/katalis",
+        "license": "MIT",
+        "added_at": 1778694956
     }
 }
