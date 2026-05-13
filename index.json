@@ -17463,5 +17463,12 @@
         "url": "https://github.com/elcritch/dmon-nim",
         "license": "BSD-2-Clause",
         "added_at": 1778695885
+    },
+    "sdl3": {
+        "id": "sdl3",
+        "type": "git",
+        "url": "https://github.com/transmutrix/nim-sdl3",
+        "license": "MIT",
+        "added_at": 1778695926
     }
 }
