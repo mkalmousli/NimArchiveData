@@ -17414,5 +17414,12 @@
         "url": "https://github.com/chancyk/deriche-kde",
         "license": "BSD-3-Clause",
         "added_at": 1778695280
+    },
+    "NimBTC": {
+        "id": "NimBTC",
+        "type": "git",
+        "url": "https://git.dog/Caroline/NimBTC",
+        "license": "MIT",
+        "added_at": 1778695294
     }
 }
