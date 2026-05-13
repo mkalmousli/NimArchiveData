@@ -17568,5 +17568,12 @@
         "url": "https://github.com/WKHAllen/nimdtp",
         "license": "MIT",
         "added_at": 1778696123
+    },
+    "jsony_plus": {
+        "id": "jsony_plus",
+        "type": "git",
+        "url": "https://github.com/thing-king/jsony_plus",
+        "license": "MIT",
+        "added_at": 1778696137
     }
 }
