@@ -17946,5 +17946,12 @@
         "url": "https://github.com/dinau/sdl3_nim",
         "license": "MIT License",
         "added_at": 1778697668
+    },
+    "ukpolice": {
+        "id": "ukpolice",
+        "type": "git",
+        "url": "https://github.com/nemuelw/ukpolice",
+        "license": "MIT",
+        "added_at": 1778697759
     }
 }
