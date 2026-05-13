@@ -16903,5 +16903,12 @@
         "url": "https://github.com/neroist/nimtcl",
         "license": "MIT",
         "added_at": 1778693375
+    },
+    "simpleMail": {
+        "id": "simpleMail",
+        "type": "git",
+        "url": "https://github.com/up7down8/simpleMail",
+        "license": "MIT",
+        "added_at": 1778693384
     }
 }
