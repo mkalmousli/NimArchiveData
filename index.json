@@ -18240,5 +18240,12 @@
         "url": "https://github.com/OffchainLabs/hashtree",
         "license": "MIT",
         "added_at": 1778698753
+    },
+    "Nim_for_AviUtl": {
+        "id": "Nim_for_AviUtl",
+        "type": "git",
+        "url": "https://github.com/K-Kentaro-dev/Nim_for_AviUtl",
+        "license": "MIT",
+        "added_at": 1778698781
     }
 }
