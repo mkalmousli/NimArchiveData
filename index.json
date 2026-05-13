@@ -17295,5 +17295,12 @@
         "url": "https://github.com/monofuel/openai_leap",
         "license": "MIT",
         "added_at": 1778694697
+    },
+    "llama_leap": {
+        "id": "llama_leap",
+        "type": "git",
+        "url": "https://github.com/monofuel/llama_leap",
+        "license": "MIT",
+        "added_at": 1778694832
     }
 }
