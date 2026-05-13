@@ -17533,5 +17533,12 @@
         "url": "https://github.com/roger-padrell/nim-kyber",
         "license": "MIT",
         "added_at": 1778696058
+    },
+    "floof": {
+        "id": "floof",
+        "type": "git",
+        "url": "https://github.com/arashi-software/floof",
+        "license": "BSD-3-Clause",
+        "added_at": 1778696077
     }
 }
