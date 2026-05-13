@@ -17064,5 +17064,12 @@
         "url": "https://github.com/logavanc/shobiz",
         "license": "MIT",
         "added_at": 1778693730
+    },
+    "nimsutils": {
+        "id": "nimsutils",
+        "type": "git",
+        "url": "https://github.com/FyraLabs/nimsutils",
+        "license": "MIT",
+        "added_at": 1778693751
     }
 }
