@@ -17001,5 +17001,12 @@
         "url": "https://github.com/NimAudio/nim-clap",
         "license": "MIT",
         "added_at": 1778693573
+    },
+    "pugl": {
+        "id": "pugl",
+        "type": "git",
+        "url": "https://github.com/NimAudio/nim-pugl",
+        "license": "MIT",
+        "added_at": 1778693583
     }
 }
