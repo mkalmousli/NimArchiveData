@@ -1,0 +1,10 @@
+{
+    "checksum": "028137ddbb3d87e54216d40c10ae759aac92d103dcf68d05cbf2bed8cb096e81",
+    "commit": "6dd93feb60f4cded3c05e7af7209cf63fb677893",
+    "source_hash": "983f267cf57c5e24cf25113f320b868163051904",
+    "source_hash_kind": "git_tree",
+    "archived_at": 1778694692,
+    "archive_name": "minilru-latest.tar.gz",
+    "readme": "README.md",
+    "license": "LICENSE.md"
+}
