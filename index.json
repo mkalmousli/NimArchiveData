@@ -18730,5 +18730,12 @@
         "url": "https://github.com/HaoZeke/nimvault",
         "license": "MIT",
         "added_at": 1778701136
+    },
+    "scfg_nim": {
+        "id": "scfg_nim",
+        "type": "git",
+        "url": "https://github.com/heuer/scfg-nim",
+        "license": "MIT",
+        "added_at": 1778701156
     }
 }
