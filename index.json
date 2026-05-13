@@ -17435,5 +17435,12 @@
         "url": "https://github.com/ThomasTJdev/nim_yubikey_otp",
         "license": "MIT",
         "added_at": 1778695567
+    },
+    "serverly": {
+        "id": "serverly",
+        "type": "git",
+        "url": "https://github.com/roger-padrell/serverly",
+        "license": "MIT",
+        "added_at": 1778695590
     }
 }
