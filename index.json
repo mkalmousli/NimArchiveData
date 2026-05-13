@@ -18758,5 +18758,12 @@
         "url": "https://github.com/Brokezawa/Nimphea",
         "license": "MIT",
         "added_at": 1778701204
+    },
+    "scf": {
+        "id": "scf",
+        "type": "git",
+        "url": "https://github.com/capocasa/scf",
+        "license": "MIT",
+        "added_at": 1778701221
     }
 }
