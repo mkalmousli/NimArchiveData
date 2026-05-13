@@ -19192,5 +19192,12 @@
         "url": "https://github.com/openpeeps/gumroad-nim",
         "license": "MIT",
         "added_at": 1778702374
+    },
+    "ttty": {
+        "id": "ttty",
+        "type": "git",
+        "url": "https://github.com/capocasa/ttty",
+        "license": "MIT",
+        "added_at": 1778702383
     }
 }
