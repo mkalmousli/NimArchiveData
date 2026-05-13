@@ -19017,5 +19017,12 @@
         "url": "https://github.com/elcritch/openlayers-nim",
         "license": "BSD-2-Clause",
         "added_at": 1778701952
+    },
+    "atlas": {
+        "id": "atlas",
+        "type": "git",
+        "url": "https://github.com/nim-lang/atlas",
+        "license": "MIT",
+        "added_at": 1778701961
     }
 }
