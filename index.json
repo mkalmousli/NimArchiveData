@@ -18751,5 +18751,12 @@
         "url": "https://github.com/capocasa/shorten",
         "license": "MIT",
         "added_at": 1778701193
+    },
+    "nimphea": {
+        "id": "nimphea",
+        "type": "git",
+        "url": "https://github.com/Brokezawa/Nimphea",
+        "license": "MIT",
+        "added_at": 1778701204
     }
 }
