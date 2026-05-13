@@ -18968,5 +18968,12 @@
         "url": "https://github.com/JohnMoutafis/nimgeos",
         "license": "MIT",
         "added_at": 1778701810
+    },
+    "chronos_smtp": {
+        "id": "chronos_smtp",
+        "type": "git",
+        "url": "https://github.com/fox0430/chronos-smtp",
+        "license": "MIT",
+        "added_at": 1778701852
     }
 }
