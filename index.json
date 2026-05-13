@@ -17008,5 +17008,12 @@
         "url": "https://github.com/NimAudio/nim-pugl",
         "license": "MIT",
         "added_at": 1778693583
+    },
+    "vecray": {
+        "id": "vecray",
+        "type": "git",
+        "url": "https://github.com/morganholly/vecray",
+        "license": "MIT",
+        "added_at": 1778693592
     }
 }
