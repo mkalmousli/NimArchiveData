@@ -18457,5 +18457,12 @@
         "url": "https://github.com/elcritch/sdfy",
         "license": "Apache-2.0",
         "added_at": 1778700182
+    },
+    "intops": {
+        "id": "intops",
+        "type": "git",
+        "url": "https://github.com/vacp2p/nim-intops",
+        "license": "MIT or Apache License 2.0",
+        "added_at": 1778700278
     }
 }
