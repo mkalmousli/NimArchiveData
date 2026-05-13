@@ -18674,5 +18674,12 @@
         "url": "https://github.com/hmbemba/lately",
         "license": "MIT",
         "added_at": 1778701008
+    },
+    "tinyvg": {
+        "id": "tinyvg",
+        "type": "git",
+        "url": "https://github.com/bung87/tinyvg",
+        "license": "MIT",
+        "added_at": 1778701028
     }
 }
