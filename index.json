@@ -18597,5 +18597,12 @@
         "url": "https://github.com/garrettkinman/SteadyTensor",
         "license": "MIT",
         "added_at": 1778700685
+    },
+    "greskewel": {
+        "id": "greskewel",
+        "type": "git",
+        "url": "https://github.com/openpeeps/greskewel",
+        "license": "MIT",
+        "added_at": 1778700694
     }
 }
