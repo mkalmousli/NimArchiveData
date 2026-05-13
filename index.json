@@ -18478,5 +18478,12 @@
         "url": "https://github.com/hmbemba/ic",
         "license": "MIT",
         "added_at": 1778700339
+    },
+    "nuwa_sdk": {
+        "id": "nuwa_sdk",
+        "type": "git",
+        "url": "https://github.com/martineastwood/nuwa-sdk",
+        "license": "MIT",
+        "added_at": 1778700353
     }
 }
