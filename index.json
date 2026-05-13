@@ -17127,5 +17127,12 @@
         "url": "https://github.com/C-NERD/nimAptos",
         "license": "MIT",
         "added_at": 1778694144
+    },
+    "nimPGP": {
+        "id": "nimPGP",
+        "type": "git",
+        "url": "https://gitlab.com/IAlbassort/nimPGP/",
+        "license": "MIT",
+        "added_at": 1778694162
     }
 }
