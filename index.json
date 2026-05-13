@@ -19185,5 +19185,12 @@
         "url": "https://github.com/openpeeps/boogie",
         "license": "LGPL-3.0-or-later",
         "added_at": 1778702365
+    },
+    "gumroad": {
+        "id": "gumroad",
+        "type": "git",
+        "url": "https://github.com/openpeeps/gumroad-nim",
+        "license": "MIT",
+        "added_at": 1778702374
     }
 }
