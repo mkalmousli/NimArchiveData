@@ -18905,5 +18905,12 @@
         "url": "https://github.com/viktornv/wrenim",
         "license": "MIT",
         "added_at": 1778701697
+    },
+    "onnx_rt": {
+        "id": "onnx_rt",
+        "type": "git",
+        "url": "https://github.com/bung87/onnx",
+        "license": "MIT",
+        "added_at": 1778701709
     }
 }
