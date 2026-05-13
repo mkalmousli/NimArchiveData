@@ -17855,5 +17855,12 @@
         "url": "https://github.com/5-6-1/unitx-nim",
         "license": "MIT",
         "added_at": 1778697110
+    },
+    "thorvg": {
+        "id": "thorvg",
+        "type": "git",
+        "url": "https://github.com/elcritch/thorvg-nim",
+        "license": "Unlicense",
+        "added_at": 1778697119
     }
 }
