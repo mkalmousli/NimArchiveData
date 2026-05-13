@@ -17687,5 +17687,12 @@
         "url": "https://github.com/vandot/nim-sudo",
         "license": "BSD-3-Clause",
         "added_at": 1778696533
+    },
+    "darwinmetrics": {
+        "id": "darwinmetrics",
+        "type": "git",
+        "url": "https://github.com/sm-moshi/darwinmetrics",
+        "license": "MIT",
+        "added_at": 1778696542
     }
 }
