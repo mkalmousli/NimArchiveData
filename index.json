@@ -17925,5 +17925,12 @@
         "url": "https://github.com/capocasa/pffft",
         "license": "BSD-3-Clause",
         "added_at": 1778697636
+    },
+    "morsecode": {
+        "id": "morsecode",
+        "type": "git",
+        "url": "https://github.com/nemuelw/morsecode",
+        "license": "GPL-3.0-or-later",
+        "added_at": 1778697652
     }
 }
