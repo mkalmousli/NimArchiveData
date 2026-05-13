@@ -16700,5 +16700,12 @@
         "url": "https://github.com/codex-storage/nim-json",
         "license": "MIT",
         "added_at": 1778691380
+    },
+    "statsdaemon": {
+        "id": "statsdaemon",
+        "type": "git",
+        "url": "https://github.com/Q-Master/statsdaemon.nim",
+        "license": "MIT",
+        "added_at": 1778691424
     }
 }
