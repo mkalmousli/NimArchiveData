@@ -17897,5 +17897,12 @@
         "url": "https://github.com/Luteva-ssh/obfusel",
         "license": "MIT",
         "added_at": 1778697177
+    },
+    "mash": {
+        "id": "mash",
+        "type": "git",
+        "url": "https://github.com/capocasa/mash",
+        "license": "MIT",
+        "added_at": 1778697185
     }
 }
