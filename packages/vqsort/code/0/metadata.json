@@ -1,9 +1,9 @@
 {
-    "checksum": "f03a886a444c9251211d4857a1cd60c34ec7f89bff1be96fffe8b4eb8d8c1894",
+    "checksum": "71cb414d14a530fcb20ed89563889afa67894d85c646108f8325b017acc54e47",
     "commit": "1681f1aa63f50cebb66d1c6d4d6892eb898f61a1",
     "source_hash": "a8729668c12f15ab0bf912d2ff67d2379992ec1a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778688854,
+    "archived_at": 1778705050,
     "archive_name": "vqsort-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
