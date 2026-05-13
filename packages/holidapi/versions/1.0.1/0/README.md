@@ -1,0 +1,87 @@
+= HolidAPI
+
+== About
+
+_HolidAPI_ (pronounced: _"Holiday-P-I"_, haha get it?), is a wrapper for multiple APIs serving information about holidays.
+
+== Installation
+
+`nimble install holidapi`
+
+== Currently supported countries
+
+* European countries via https://openholidaysapi.org/[openholidaysapi.org]:
+    - Albania, Andorra, Austria
+    - Belarus, Belgium, Bulgaria
+    - Croatia, Czechia
+    - Estonia
+    - France
+    - Germany
+    - Hungary
+    - Ireland, Italy
+    - Latvia, Lichtenstein, Lithuania, Luxembourg
+    - Malta, Moldova, Monaco
+    - Netherlands
+    - Poland, Portugal,
+    - Romania,
+    - San Marino, Slovenia, Spain, Switzerland,
+    - Vatican City
+
+
+* Germany (alternative) via https://www.feiertage-api.de/[feiertage-api.de]
+
+You do not see your country in this list? Help us by expanding the API wrappers! :D
+
+== Examples
+
+```nim
+# European holiday API
+import std/[strformat]
+import holidapi/country/europe
+
+let
+    holidaysInEnglish: seq[Holiday] = Netherlands.getHolidays(2024)
+    holidaysInDutch {.used.}: seq[Holiday] = Netherlands.getHolidays(2024, Dutch)
+
+for holiday in holidaysInEnglish:
+    echo &"{holiday.name} is on the " & holiday.dateTime.format("yyyy-MM-dd") &
+        &" and goes on for " & $holiday.duration.inDays() & " day(s)!"
+```
+```nim
+# European holiday API (for single country)
+import std/[strformat]
+import holidapi/country/europe/germany
+
+let
+    holidaysInEnglish: seq[Holiday] = getHolidays(2024)
+    holidaysInGerman {.used.}: seq[Holiday] = getHolidays(2024, German)
+
+for holiday in holidaysInEnglish:
+    echo &"{holiday.name} is on the " & holiday.dateTime.format("yyyy-MM-dd") &
+        &" and goes on for " & $holiday.duration.inDays() & " day(s)!"
+```
+```nim
+# Alternative German API
+import std/[strformat]
+import holidapi/country/europe/germany_alt
+
+const
+    year: int = 2024
+
+let response: OrderedTable[GermanState, seq[Holiday]] = getAllHolidays(year)
+
+for state, holidays in response:
+    echo &"Holidays for state {state}:"
+    for i, holiday in holidays:
+        echo &"{i}: {holiday.name}"
+```
+
+See `./src/holidapi/types.nim` for documentation on the `Holiday` type.
+
+== Contributions
+
+Contributions are always welcome, especially expanding the list of supported countries/regions!
+
+== Licence
+
+This project is distributed under the `GPL-3.0` licence.
