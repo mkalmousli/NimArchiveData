@@ -18737,5 +18737,12 @@
         "url": "https://github.com/heuer/scfg-nim",
         "license": "MIT",
         "added_at": 1778701156
+    },
+    "blackpaper": {
+        "id": "blackpaper",
+        "type": "git",
+        "url": "https://github.com/openpeeps/blackpaper",
+        "license": "MIT",
+        "added_at": 1778701184
     }
 }
