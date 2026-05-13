@@ -17827,5 +17827,12 @@
         "url": "https://github.com/HapticX/nmr",
         "license": "MIT",
         "added_at": 1778696960
+    },
+    "quic": {
+        "id": "quic",
+        "type": "git",
+        "url": "https://github.com/vacp2p/nim-quic",
+        "license": "MIT",
+        "added_at": 1778696969
     }
 }
