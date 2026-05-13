@@ -18044,5 +18044,12 @@
         "url": "https://github.com/ferus-web/bali",
         "license": "LGPL-3.0",
         "added_at": 1778697942
+    },
+    "Espirit": {
+        "id": "Espirit",
+        "type": "git",
+        "url": "https://github.com/Toma400/Espirit",
+        "license": "MIT NON-AI License",
+        "added_at": 1778698135
     }
 }
