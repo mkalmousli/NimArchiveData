@@ -18135,5 +18135,12 @@
         "url": "https://github.com/Naitsabot/xkcdgeohashing.nim",
         "license": "MIT",
         "added_at": 1778698514
+    },
+    "pcsc": {
+        "id": "pcsc",
+        "type": "git",
+        "url": "https://github.com/mmlado/pcsc-nim/",
+        "license": "MIT",
+        "added_at": 1778698545
     }
 }
