@@ -18639,5 +18639,12 @@
         "url": "https://github.com/copyleftdev/nim-toon",
         "license": "MIT",
         "added_at": 1778700782
+    },
+    "dimslash": {
+        "id": "dimslash",
+        "type": "git",
+        "url": "https://github.com/gaato/dimslash",
+        "license": "BlueOak-1.0.0",
+        "added_at": 1778700796
     }
 }
