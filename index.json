@@ -18394,5 +18394,12 @@
         "url": "https://github.com/0x57Origin/NimPacket",
         "license": "MIT",
         "added_at": 1778699134
+    },
+    "nimkdl": {
+        "id": "nimkdl",
+        "type": "git",
+        "url": "https://github.com/greenm01/nimkdl",
+        "license": "MIT",
+        "added_at": 1778699137
     }
 }
