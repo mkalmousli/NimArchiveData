@@ -16693,5 +16693,12 @@
         "url": "https://github.com/nirokay/bttrwttrin",
         "license": "GPL-3.0-or-later",
         "added_at": 1778691367
+    },
+    "serde": {
+        "id": "serde",
+        "type": "git",
+        "url": "https://github.com/codex-storage/nim-json",
+        "license": "MIT",
+        "added_at": 1778691380
     }
 }
