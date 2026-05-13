@@ -18765,5 +18765,12 @@
         "url": "https://github.com/capocasa/scf",
         "license": "MIT",
         "added_at": 1778701221
+    },
+    "payf": {
+        "id": "payf",
+        "type": "git",
+        "url": "https://github.com/capocasa/payf",
+        "license": "MIT",
+        "added_at": 1778701234
     }
 }
