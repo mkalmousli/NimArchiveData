@@ -16714,5 +16714,12 @@
         "url": "https://github.com/Q-Master/amqp-stats.nim",
         "license": "MIT",
         "added_at": 1778691455
+    },
+    "nimAdif": {
+        "id": "nimAdif",
+        "type": "git",
+        "url": "https://github.com/clzls/nimAdif",
+        "license": "MIT",
+        "added_at": 1778691483
     }
 }
