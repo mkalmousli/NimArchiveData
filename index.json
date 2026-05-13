@@ -17673,5 +17673,12 @@
         "url": "https://github.com/thing-king/lifter",
         "license": "MIT",
         "added_at": 1778696516
+    },
+    "html": {
+        "id": "html",
+        "type": "git",
+        "url": "https://github.com/thing-king/html",
+        "license": "MIT",
+        "added_at": 1778696524
     }
 }
