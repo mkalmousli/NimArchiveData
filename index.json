@@ -17981,5 +17981,12 @@
         "url": "https://github.com/Luteva-ssh/dewitt",
         "license": "MIT",
         "added_at": 1778697800
+    },
+    "agify": {
+        "id": "agify",
+        "type": "git",
+        "url": "https://github.com/nemuelw/nim-agify",
+        "license": "GPL-3.0-only",
+        "added_at": 1778697809
     }
 }
