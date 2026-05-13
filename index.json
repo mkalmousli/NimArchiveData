@@ -18688,5 +18688,12 @@
         "url": "https://github.com/usu-dev/usu-nim",
         "license": "MIT",
         "added_at": 1778701040
+    },
+    "rtmp": {
+        "id": "rtmp",
+        "type": "git",
+        "url": "https://github.com/openpeeps/rtmp",
+        "license": "MIT",
+        "added_at": 1778701053
     }
 }
