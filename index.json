@@ -18310,5 +18310,12 @@
         "url": "https://github.com/elcritch/geecode",
         "license": "MIT",
         "added_at": 1778698957
+    },
+    "webtokens": {
+        "id": "webtokens",
+        "type": "git",
+        "url": "https://github.com/openpeeps/webtokens",
+        "license": "MIT",
+        "added_at": 1778698967
     }
 }
