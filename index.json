@@ -17057,5 +17057,12 @@
         "url": "https://github.com/neroist/libtray",
         "license": "MIT",
         "added_at": 1778693720
+    },
+    "shobiz": {
+        "id": "shobiz",
+        "type": "git",
+        "url": "https://github.com/logavanc/shobiz",
+        "license": "MIT",
+        "added_at": 1778693730
     }
 }
