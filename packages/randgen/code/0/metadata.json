@@ -1,9 +1,9 @@
 {
-    "checksum": "37b9010387b1bbaf1b6c045febae16f18c7a4637cee2dbd3f3dd6c40ffde3aae",
+    "checksum": "534a67c54f29c4707a9eb6b63035f1b60f026c6239885b05373199b13296da53",
     "commit": "06ab570e89ee93d74840b718d98060f0597dbaba",
     "source_hash": "89f5f1cfd581c13c59b1ae9ce8f27c9898a735dc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778620097,
+    "archived_at": 1778706263,
     "archive_name": "randgen-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
