@@ -17197,5 +17197,12 @@
         "url": "https://git.sr.ht/~ehmry/wayland-nim",
         "license": "Unlicense",
         "added_at": 1778694377
+    },
+    "nclap": {
+        "id": "nclap",
+        "type": "git",
+        "url": "https://github.com/AinTEAsports/nclap",
+        "license": "MIT",
+        "added_at": 1778694389
     }
 }
