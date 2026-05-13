@@ -17162,5 +17162,12 @@
         "url": "https://github.com/jon-edward/box2d.nim",
         "license": "MIT",
         "added_at": 1778694268
+    },
+    "holidapi": {
+        "id": "holidapi",
+        "type": "git",
+        "url": "https://github.com/nirokay/holidapi",
+        "license": "GPL-3.0-only",
+        "added_at": 1778694307
     }
 }
