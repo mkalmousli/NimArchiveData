@@ -18429,5 +18429,12 @@
         "url": "https://github.com/Niminem/Nasp",
         "license": "MIT",
         "added_at": 1778699323
+    },
+    "nimletter": {
+        "id": "nimletter",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/nimletter",
+        "license": "AGPL-3.0",
+        "added_at": 1778699333
     }
 }
