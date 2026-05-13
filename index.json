@@ -16644,5 +16644,12 @@
         "url": "https://github.com/amnr/getopty",
         "license": "MIT or NCSA",
         "added_at": 1778691061
+    },
+    "awsSigV4": {
+        "id": "awsSigV4",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/nim_awsSigV4",
+        "license": "MIT",
+        "added_at": 1778691074
     }
 }
