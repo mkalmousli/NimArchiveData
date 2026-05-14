@@ -17365,5 +17365,12 @@
         "url": "https://github.com/zendbit/katalis",
         "license": "MIT",
         "added_at": 1778722893
+    },
+    "fox": {
+        "id": "fox",
+        "type": "git",
+        "url": "https://github.com/navid-m/fox",
+        "license": "GPLv3",
+        "added_at": 1778723100
     }
 }
