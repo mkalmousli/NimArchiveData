@@ -1286,5 +1286,12 @@
         "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
         "license": "MIT",
         "added_at": 1778778070
+    },
+    "csv": {
+        "id": "csv",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-csv",
+        "license": "MIT",
+        "added_at": 1778778085
     }
 }
