@@ -17078,5 +17078,12 @@
         "url": "https://git.sr.ht/~bptato/chame",
         "license": "Unlicense",
         "added_at": 1778721752
+    },
+    "chagashi": {
+        "id": "chagashi",
+        "type": "git",
+        "url": "https://git.sr.ht/~bptato/chagashi",
+        "license": "Unlicense",
+        "added_at": 1778721850
     }
 }
