@@ -1,9 +1,9 @@
 {
-    "checksum": "40fb674da7da6f5df9c40a195446ab352467466c9205bda6bc6cc64e90c19c19",
+    "checksum": "3c3c83ba37f12d036a1e2cfabb5a6d507553559b4bab3391517b7586e90fd0e7",
     "commit": "2d42e80a45020276ff38879c458615684bd3cc41",
     "source_hash": "e0ec427343eecf531cca54b0ae4d14136e9999d4",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778719736,
+    "archived_at": 1778739817,
     "archive_name": "nimipdf-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
