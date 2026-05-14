@@ -1300,5 +1300,12 @@
         "url": "https://github.com/achesak/nim-geonames",
         "license": "MIT",
         "added_at": 1778778093
+    },
+    "gravatar": {
+        "id": "gravatar",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-gravatar",
+        "license": "MIT",
+        "added_at": 1778778096
     }
 }
