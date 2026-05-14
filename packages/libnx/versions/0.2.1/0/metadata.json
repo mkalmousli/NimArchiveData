@@ -1,9 +1,9 @@
 {
-    "checksum": "f769df868c29bbd6f8170162819079b6e13634e0a0024abc70ba0d49910ae31e",
+    "checksum": "6d9290f1c2cf347464e3d7511b7853e2b91ec5ac863d3feeaf6538540fee2942",
     "commit": "6d465e4de1dc1fdaa971f6fb23f6c21af070d34f",
     "source_hash": "5db46de0a3e80ceca6cf684b6472a84d5aeed446",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707068,
+    "archived_at": 1778777709,
     "archive_name": "libnx-0.2.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
