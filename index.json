@@ -17442,5 +17442,12 @@
         "url": "https://github.com/roger-padrell/serverly",
         "license": "MIT",
         "added_at": 1778723467
+    },
+    "sigils": {
+        "id": "sigils",
+        "type": "git",
+        "url": "https://github.com/elcritch/sigils",
+        "license": "MIT",
+        "added_at": 1778723490
     }
 }
