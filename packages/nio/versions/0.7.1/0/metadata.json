@@ -1,9 +1,9 @@
 {
-    "checksum": "95fc47476815182a666a1897745962e56e95ea8245611240d52888f9e0f1e22c",
+    "checksum": "acf280c02fe0a3e693b13dc356613765adb8d18e192b2e55ff311bcad0ee92ee",
     "commit": "35a4f2407974c703472b45e8bb9368d51307f662",
     "source_hash": "88fbaba27050a6aab7432865bc6d9061a9fdfd49",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778706318,
+    "archived_at": 1778776573,
     "archive_name": "nio-0.7.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
