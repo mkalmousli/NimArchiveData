@@ -1,9 +1,9 @@
 {
-    "checksum": "c7906c5ce0dbe1b85ea9207c24503f3894c2e9fa9d0048c61f4663ca2673b1d0",
+    "checksum": "4eef549e2e7145432588161a4ac583ca156f1513160b56c82edff4198fc79da9",
     "commit": "b883d016772036ccc81322d95dcca9ee856a5f4b",
     "source_hash": "bb84d53afb42cab1ff61535c2fb2998c2dd7160d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778706585,
+    "archived_at": 1778776995,
     "archive_name": "genieos-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
