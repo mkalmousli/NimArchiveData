@@ -1,9 +1,9 @@
 {
-    "checksum": "23ee4a5f02868358cfdc28ce30728e99721a3d6a5d3544e19d32da2ad1b3d3e5",
+    "checksum": "09a715ff8c15188f7423b3b39235159f9bee88f9e4412744994d0661b9dbfe18",
     "commit": "f3c9eb3bce9ff086546240e5b6f6c90c49d1fc0b",
     "source_hash": "c36a5684ef15687e3b066733df8fe14555d919f1",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707155,
+    "archived_at": 1778777818,
     "archive_name": "c2nim-0.9.16.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
