@@ -1279,5 +1279,12 @@
         "url": "https://github.com/onionhammer/sha1",
         "license": "BSD",
         "added_at": 1778778062
+    },
+    "dropbox_filename_sanitizer": {
+        "id": "dropbox_filename_sanitizer",
+        "type": "git",
+        "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
+        "license": "MIT",
+        "added_at": 1778778070
     }
 }
