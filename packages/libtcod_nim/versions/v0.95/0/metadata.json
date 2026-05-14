@@ -1,9 +1,9 @@
 {
-    "checksum": "ace7f672e0a2a61489153841ca9c7103efca4ebf9f5ca9b6215636ec16822124",
+    "checksum": "bf86f44a20b5953ed7b817422ed7f835804210f3af5c3f6f7276d04979fe9aef",
     "commit": "0da2080fa28932eb767d0f35754a6a31f0f33186",
     "source_hash": "7f89af994752205b03b0239239e5afe383d3aac8",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778706651,
+    "archived_at": 1778777101,
     "archive_name": "libtcod_nim-v0.95.tar.gz",
     "readme": "README.md"
 }
