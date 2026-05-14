@@ -1293,5 +1293,12 @@
         "url": "https://github.com/achesak/nim-csv",
         "license": "MIT",
         "added_at": 1778778085
+    },
+    "geonames": {
+        "id": "geonames",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-geonames",
+        "license": "MIT",
+        "added_at": 1778778093
     }
 }
