@@ -1,9 +1,9 @@
 {
-    "checksum": "8ee9216ffc96fe4634144e6ea14bc6586439e13b2a9b47cf4b825c94c334089f",
+    "checksum": "01cbf2ca7af3c780c2b9f64e32d5600465b157d85b4599546567a0f26229049a",
     "commit": "ff5170f689f30bec1f07640e05da77cfa86b1cab",
     "source_hash": "bc84b2e89dd7fcebb57b6558f59b3859e5232a8d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778718967,
+    "archived_at": 1778739343,
     "archive_name": "asyncsync-v0.4.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
