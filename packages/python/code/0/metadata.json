@@ -1,9 +1,9 @@
 {
-    "checksum": "c0498b89fa3019b8d361614a71c9533a31fc1181b63a0f39cd54eb5a08c74935",
+    "checksum": "c20ecb6576f4517e4686173847be5cda500837534819c24784ea12871edb1ac8",
     "commit": "b7c3b2c447a69fdb0a974ba149062e52182fda08",
     "source_hash": "1b96aa0f499698d5935c9dae0923c3e83c50fe24",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707297,
+    "archived_at": 1778778048,
     "archive_name": "python-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
