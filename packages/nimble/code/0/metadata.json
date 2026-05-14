@@ -1,9 +1,9 @@
 {
-    "checksum": "56fac96407934e2059a99ec1b45bff4fdd7cdbdbfe6119b172c3958e6456741d",
-    "commit": "91a30cb86b95ba74ae8e9edc64f3f953221a2abe",
-    "source_hash": "72a759c1490cdf382ed5c08ce762086ca5da9126",
+    "checksum": "6ce3d3732eff6c6e7fa56bbbb259a735da50554a9019dd6b3097b4eb313e030f",
+    "commit": "0b6c6c76a69462e1988ef0fd34e0ca804dd8ac69",
+    "source_hash": "aa9bf063384d212995549a25192376495da007c2",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778706884,
+    "archived_at": 1778777453,
     "archive_name": "nimble-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

@@ -1,9 +1,9 @@
 {
-    "checksum": "9deb4840af6931fc5e5c6b89c0873dcea06527a8403f08b6918b47b02824bd6f",
+    "checksum": "b3521f3cf2cd5e7e8284426c3c2cde317255d93e8e00665d635136e97b7656e7",
     "commit": "5b82e06d0010126b698280fc6196286e3f5660b7",
     "source_hash": "3d83a3f69def02d402022400fb7eb45f580b6cf7",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778706906,
+    "archived_at": 1778777473,
     "archive_name": "nimble-v0.8.8.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
