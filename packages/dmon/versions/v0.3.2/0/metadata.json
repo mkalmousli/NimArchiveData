@@ -1,9 +1,9 @@
 {
-    "checksum": "d80be0149ba2b9c735703160d8ff4d71187702dbeea517a5640bf659de228c34",
+    "checksum": "04a8687206f4455fc94352c67e7e40d4cd01c377933c73543b3fc91da10905fa",
     "commit": "d14df19c50b488aa061b509a9397988b8910eb6d",
     "source_hash": "6e8c66cc4bb524d6719e72bb7062a923c38a9582",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778695890,
+    "archived_at": 1778723729,
     "archive_name": "dmon-v0.3.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
