@@ -1,9 +1,9 @@
 {
-    "checksum": "07fd586bdfdff57af7cf5b56ced061a7bb3f98d1350133c2930e68e75c9c557a",
+    "checksum": "a05875cdc02f5855a0fce44a892e2589138439c3d6b6fe5ded2df4db40290c22",
     "commit": "458a566754ac4f59804c9ca5e2245c2747575d82",
     "source_hash": "61c277e78e3619e84b5ffd9be616a1a82e544fd6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707313,
+    "archived_at": 1778778073,
     "archive_name": "dropbox_filename_sanitizer-v0.2.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
