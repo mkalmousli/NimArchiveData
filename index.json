@@ -17288,5 +17288,12 @@
         "url": "https://github.com/status-im/nim-minilru",
         "license": "MIT",
         "added_at": 1778722641
+    },
+    "openai_leap": {
+        "id": "openai_leap",
+        "type": "git",
+        "url": "https://github.com/monofuel/openai_leap",
+        "license": "MIT",
+        "added_at": 1778722649
     }
 }
