@@ -1,9 +1,9 @@
 {
-    "checksum": "dbafe83b46af4952e66ae8b90f12af326906a00b99250547082d9d3aa030db30",
+    "checksum": "78906eacf59dfa22321abf25823c21e30e5379a40f75561b1daae8629e930553",
     "commit": "d905d2de56c45ccae64dc292296be5d7f849c76d",
     "source_hash": "5babd598b38c343248f1add4233e8ec02b1c05c2",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707241,
+    "archived_at": 1778777952,
     "archive_name": "opengl-1.2.4.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

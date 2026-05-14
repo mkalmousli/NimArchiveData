@@ -1,9 +1,9 @@
 {
-    "checksum": "ce6f7b3270fe505382f0b47d82134ba34a3843e5f06dd92aee574870642bc0a6",
+    "checksum": "e7021bb83666fc44dfd956b99cbac29a9ce295ce3a860aa0376c4ba21a50d0ed",
     "commit": "9e1a6a276590e546875425136841a968d69e4639",
     "source_hash": "bd03b780809cb855812925ff58bb8066d1117cae",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707241,
+    "archived_at": 1778777953,
     "archive_name": "opengl-1.2.5.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
