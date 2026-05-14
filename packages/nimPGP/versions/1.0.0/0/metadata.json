@@ -1,9 +1,9 @@
 {
-    "checksum": "e445ce16b8359efe368df00a5a82b0fc4460638987075a9d50dba7a18356b788",
+    "checksum": "dedbb75e11a1c76e70edbfcb2bdfc1ba0ee9a70f0706defa6dc632463d993d8b",
     "commit": "bf617c82fe75818b27b97d8a964dff2c00bda6cb",
     "source_hash": "5b82a45ce056db829c69a68d185eb8f5c3822729",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778694166,
+    "archived_at": 1778722131,
     "archive_name": "nimPGP-1.0.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
