@@ -1,9 +1,9 @@
 {
-    "checksum": "e2a7b40f21de7d6d6f7ac1e036b3e378e9cbb211d88cc4f4bc38ce08c444f00c",
+    "checksum": "91c292cfb5bddb57ea61fc6e206a899cd4d93bb49f1acd2c3ae60078d677e9eb",
     "commit": "ed117394cef80e1de48055b238ce251645e2e386",
     "source_hash": "f5c35ad3934c019d0f6a354818ebf9086d4d9eda",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707272,
+    "archived_at": 1778778007,
     "archive_name": "lua-latest.tar.gz",
     "license": "LICENSE.md"
 }
