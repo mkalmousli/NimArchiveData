@@ -1,9 +1,9 @@
 {
-    "checksum": "94f02fbd3371da5d46ac53090826966d615ad30285a298e94b94f0220aa9cd24",
+    "checksum": "d156750dd28403c428ce64a9bbc27578e456e9322e78f2b6d824492fb76c8638",
     "commit": "f953f3a6a117e8a9dbdb5cc98adf564e6d8f6509",
     "source_hash": "c67acaf0b42324b0146822233f8fdda9983b5a80",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778707209,
+    "archived_at": 1778777903,
     "archive_name": "gtk2-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
