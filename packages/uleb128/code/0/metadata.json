@@ -1,9 +1,9 @@
 {
-    "checksum": "48621096601c1620d8f62ad253c2264855a85ffe3a42c0ad8016f6c12aad409f",
+    "checksum": "92ede6497e3eb5c51a7b4931fcb9e4c4be3664cd68f9f9d03262215b3c5c8e87",
     "commit": "e6d2cd421ea9de2800b815b1629955ca1989fa15",
     "source_hash": "e3fe547d2638658c9e02ac349d813bf8c5e10632",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778804797,
+    "archived_at": 1778826081,
     "archive_name": "uleb128-latest.tar.gz",
     "readme": "README.md"
 }
