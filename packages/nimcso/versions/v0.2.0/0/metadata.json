@@ -1,9 +1,9 @@
 {
-    "checksum": "15b25c2bd60b7f7cc69b32866eb95da41f00866b68c662a82719ff4f7dde450c",
+    "checksum": "4b4a5cf731cdbbcc5e0f366503cc73c24f9a0ff9efb169453f5ca1fc77f85205",
     "commit": "01a28a591c0e3074d8e02e9e92d7959dcc29b160",
     "source_hash": "5e9b820e613f325c645b4dcdb7efaaac3cf5acf2",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778842524,
+    "archived_at": 1778860611,
     "archive_name": "nimcso-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
