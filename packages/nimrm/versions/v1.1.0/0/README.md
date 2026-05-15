@@ -339,6 +339,7 @@ Reporting:
 PS> ad-info
 PS> opsec-check
 ```
+
 ## Notes
 
 - `execute-assembly` supports managed .NET assemblies only.
