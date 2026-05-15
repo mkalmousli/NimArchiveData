@@ -1,9 +1,9 @@
 {
-    "checksum": "45ce95cda8c8e6dbaeffb111e0599a6378c10c030aa7f85de17e9cf983d50625",
+    "checksum": "863b0344d9575028816266b64b4f7ba0f8f09799965ca55f9bd361f9f51062f4",
     "commit": "313a5ee74e599d20046defb95b30377eba331a99",
     "source_hash": "145ffebe4f3e8f2751610b48d81a6ddcf907dbd1",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778842305,
+    "archived_at": 1778860213,
     "archive_name": "spectra-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
