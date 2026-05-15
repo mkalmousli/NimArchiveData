@@ -1,9 +1,9 @@
 {
-    "checksum": "d6030cd6d9c83cf971399ba55146136ffd4d5fb2dda2237c588379f3f3deb10f",
+    "checksum": "13a45c12edf0f321fd518f5c696d3cbc119c8c174fe639d957059a0c78aaf4ab",
     "commit": "1106b9a77e6728d075e20944b75c26cde5bb2732",
     "source_hash": "21ee763f8710d3ba1cba8f5042144d89aa921222",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778842510,
+    "archived_at": 1778860588,
     "archive_name": "avrman-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
