@@ -1,9 +1,9 @@
 {
-    "checksum": "0f058516c0e5230c1622008c2813608645e923e16ac5440706509a2e7b00b046",
+    "checksum": "dfa31bfdffd40f2fb6eb70f65d62a9b6bafc3d695033f69c3b5dd9fd9e6cec88",
     "commit": "bce3e5978d780c595f03cb4399c48b62dc5cd489",
     "source_hash": "22c7933a331f2e3baa539e0d8f5183065011e649",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778911778,
+    "archived_at": 1778928042,
     "archive_name": "csvdict-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
