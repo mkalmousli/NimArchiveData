@@ -1,9 +1,9 @@
 {
-    "checksum": "60f33c161ac9a68551fcd93527f9431c4a5c237f0633e60fa1c2519ef2a0a511",
+    "checksum": "ff812cd9d5512dbd9f6296f9fe506ea5cf403903f5fc421a62e89f0817f18f0b",
     "commit": "3b38428e131588fb48aed6f959ed79efe4a16859",
     "source_hash": "110a7c3442ab8c19ea88aa847de7f63180c2f0bc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778944908,
+    "archived_at": 1778962529,
     "archive_name": "commodore-0.16.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
