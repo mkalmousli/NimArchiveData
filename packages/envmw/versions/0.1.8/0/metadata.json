@@ -1,9 +1,9 @@
 {
-    "checksum": "66e05f35350271a96e59ec2fdb8eceb97a4872aab4198cefe2b668280988355a",
+    "checksum": "d6f3b0e5ac322a0db7c4c89206e8b2f1da761ddbd18b92b12ce02a696445cb1c",
     "commit": "26b9294335436be44470b100420808d3bcbafa25",
     "source_hash": "31990330ac5d1f521d426378462245e6951e1a15",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778927795,
+    "archived_at": 1778945293,
     "archive_name": "envmw-0.1.8.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
