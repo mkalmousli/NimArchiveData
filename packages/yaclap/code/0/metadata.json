@@ -1,9 +1,9 @@
 {
-    "checksum": "2d37be557b45600b92eb10ef6115f08bbf9a700d7460f2e9a9743edea320f1a0",
+    "checksum": "b1e67230c2e7892d79c17abe11a1d64dc7821413c49cff928357ce62008e4473",
     "commit": "44e890687a25412d185f86e0f2361ff1d2eb7cb0",
     "source_hash": "953630ba4d14994d8311d3e8f804e135b28344ec",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778927745,
+    "archived_at": 1778945256,
     "archive_name": "yaclap-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
