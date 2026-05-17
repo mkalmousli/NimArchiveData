@@ -1,9 +1,9 @@
 {
-    "checksum": "61e5c5e280acb7fdd3a0fb8807718b262acb2c5c0d77b4a7528e856d0c0daee2",
+    "checksum": "26b028a4c6444f89e7ff11c3b3c8e8920f52456fdf4463091e91b2156bcb1f65",
     "commit": "7eb83be37a9f3995070daef0fb4a7553f382730c",
     "source_hash": "d813a744d278d2cc6bfbbbac2d4982171b551fba",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779033366,
+    "archived_at": 1779050343,
     "archive_name": "nexus-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
