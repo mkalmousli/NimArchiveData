@@ -439,5 +439,12 @@
         "url": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
         "license": "CC0",
         "added_at": 1779137144
+    },
+    "rtmidi": {
+        "id": "rtmidi",
+        "type": "git",
+        "url": "https://github.com/stoneface86/nim-rtmidi/",
+        "license": "MIT",
+        "added_at": 1779137158
     }
 }
