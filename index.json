@@ -642,5 +642,12 @@
         "url": "https://github.com/foxoman/openurl",
         "license": "MIT",
         "added_at": 1779065447
+    },
+    "tinydialogs": {
+        "id": "tinydialogs",
+        "type": "git",
+        "url": "https://github.com/Patitotective/tinydialogs",
+        "license": "MIT",
+        "added_at": 1779065470
     }
 }
