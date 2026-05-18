@@ -19,5 +19,12 @@
         "url": "https://github.com/blue0x1/xpath",
         "license": "MIT",
         "added_at": 1779085451
+    },
+    "mailclient": {
+        "id": "mailclient",
+        "type": "git",
+        "url": "https://github.com/akvilary/mailclient",
+        "license": "MIT",
+        "added_at": 1779085457
     }
 }
