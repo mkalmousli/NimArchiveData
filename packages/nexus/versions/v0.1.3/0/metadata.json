@@ -1,9 +1,9 @@
 {
-    "checksum": "248dfac9bd8fb1b9f2c90b15d21b24e0e017f8eb0961baaf2b0024d6d5748913",
+    "checksum": "d158cf21ccb66cc11a2083dbec66fd68a31f114fd4bd751072dfb758d50d6183",
     "commit": "d24ecb1a3d4e873a683a5ab1a76c1dfd98475892",
     "source_hash": "32dc2076706cbe6f26f39ff7f129bdfa86ed8b48",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779050344,
+    "archived_at": 1779065391,
     "archive_name": "nexus-v0.1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
