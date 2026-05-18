@@ -229,5 +229,12 @@
         "url": "https://github.com/roger-padrell/vexbox",
         "license": "MIT",
         "added_at": 1779085905
+    },
+    "nivot": {
+        "id": "nivot",
+        "type": "git",
+        "url": "https://github.com/Luteva-ssh/nivot",
+        "license": "MIT",
+        "added_at": 1779085906
     }
 }
