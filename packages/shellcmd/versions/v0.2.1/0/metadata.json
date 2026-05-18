@@ -1,9 +1,9 @@
 {
-    "checksum": "d80d73a8cc7e5657723d11626f42dca2c5f24dbc75240a620df4bee7b50d3931",
+    "checksum": "8fd35c2f8ab4db6edf34bd3e54fb882c595a0455f5e086f81a612f8ff615c577",
     "commit": "9366bca83cea5c4b4bd74d703fb28bf399641c0d",
     "source_hash": "04adafe8c937b8c81f18699f37edb83d09c219df",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779103789,
+    "archived_at": 1779121050,
     "archive_name": "shellcmd-v0.2.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
