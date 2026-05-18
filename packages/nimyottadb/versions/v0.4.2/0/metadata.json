@@ -1,9 +1,9 @@
 {
-    "checksum": "c18c87680766fbff0b3166aec680b22c8804dedcc1c025ac5c85a9d7cb2c3370",
+    "checksum": "2a506c026cfa80b07bd89dc447a2734400fb4084d473a86433550342591d38f8",
     "commit": "4c560830efcf6f88121dc91aef3da433a0820783",
     "source_hash": "ea02fe2d0b745a6e3ff65100b77d4a57826b424a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779063956,
+    "archived_at": 1779085828,
     "archive_name": "nimyottadb-v0.4.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
