@@ -474,5 +474,12 @@
         "url": "https://github.com/nirokay/gitman",
         "license": "GPL-3.0-only",
         "added_at": 1779086477
+    },
+    "lorem": {
+        "id": "lorem",
+        "type": "git",
+        "url": "https://github.com/neroist/lorem",
+        "license": "MIT",
+        "added_at": 1779086500
     }
 }
