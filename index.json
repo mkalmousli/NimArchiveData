@@ -124,5 +124,12 @@
         "url": "https://github.com/YesDrX/nim-jobscheduler",
         "license": "MIT",
         "added_at": 1779103188
+    },
+    "treestand": {
+        "id": "treestand",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-treestand",
+        "license": "MIT",
+        "added_at": 1779103197
     }
 }
