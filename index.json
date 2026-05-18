@@ -628,5 +628,12 @@
         "url": "https://github.com/jfilby/nexus",
         "license": "Apache-2.0",
         "added_at": 1779065387
+    },
+    "rpgsheet": {
+        "id": "rpgsheet",
+        "type": "git",
+        "url": "https://git.skylarhill.me/skylar/rpgsheet",
+        "license": "GPLv3",
+        "added_at": 1779065445
     }
 }
