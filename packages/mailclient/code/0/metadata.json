@@ -1,9 +1,9 @@
 {
-    "checksum": "5622e4c7be9a98ebe43567cfb04567757c41d7355e46663c9234d60921849b58",
+    "checksum": "68d39bb2f999780961faf13a9dc36e1025af12f0ddf41d160877f5de4a454c5a",
     "commit": "ea62846c5b92cc419400eb20485b7daa45cd327e",
     "source_hash": "ef77fe53b68022129b9ce88223db161088d0492a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779120464,
+    "archived_at": 1779136110,
     "archive_name": "mailclient-latest.tar.gz",
     "readme": "README.md"
 }
