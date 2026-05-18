@@ -1,9 +1,9 @@
 {
-    "checksum": "22be4878213725da6884412c05dbe17e353d3ff14319dbf1dcdd6366edb5f48a",
+    "checksum": "216585c75bffd017a388d9c20d6c000462a0a5f332f9d66461a5bcdaf7f65824",
     "commit": "92af8103ac9a4faa47af23a8e8cb15e73ada3ae2",
     "source_hash": "c1eb9f94762af7f17e6f21d1fd8ab2fb1e4b5074",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779049915,
+    "archived_at": 1779064825,
     "archive_name": "luigi-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
