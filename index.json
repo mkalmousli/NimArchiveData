@@ -250,5 +250,12 @@
         "url": "https://pf4sh.eu/git/pulux/envmw",
         "license": "MIT",
         "added_at": 1779085917
+    },
+    "niqlite": {
+        "id": "niqlite",
+        "type": "git",
+        "url": "https://github.com/mentalonigiri/niqlite",
+        "license": "MIT",
+        "added_at": 1779085932
     }
 }
