@@ -1,9 +1,9 @@
 {
-    "checksum": "6c1606d0a88d1a1463693df751f57024e9d481f4b5d0eadf5e2e4bc303f67bec",
+    "checksum": "dc14532fd4f075715ba1a1107cdee2f14d7e576f65bdebb6600c48ccccbfdacd",
     "commit": "e50f235b71656331aca227e17f9043ec33abc238",
     "source_hash": "3bc4ae6241732dc376fb77926a2c87ab813ac5bf",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779063484,
+    "archived_at": 1779085479,
     "archive_name": "uniq-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
