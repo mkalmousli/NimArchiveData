@@ -1,9 +1,9 @@
 {
-    "checksum": "a031d64c0431dd5febb3ccfe1160fcc08b6d6b9414a82f35d5b3828bcfd1efc7",
+    "checksum": "684d8a51b6c4b6e5fe4028387b60af4523a93b6c649314bffef89497cc43c072",
     "commit": "d152c277832672cdf1d24689f4f31e07ffa41d42",
     "source_hash": "2f2bf36d632dd1638cb35100cb6efe051f6bceb8",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701409,
+    "archived_at": 1779153892,
     "archive_name": "async_postgres-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

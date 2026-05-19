@@ -1,9 +1,9 @@
 {
-    "checksum": "148bc053bcd3eed9553abb9714b211efe49b432cff4d7d19d4018cdcebf3676a",
-    "commit": "8e204312ed9481a64dc373fe3213ed5563856c9c",
-    "source_hash": "47f18dd7fe6fb5e028f799c2dcf95d8f52f94b4f",
+    "checksum": "d3e93aa2879882007a47ad65665daef8b1d69329e411e627b1d1a21e28914758",
+    "commit": "76276542ceb0c6fa44f55d642bdeaf9fa6289664",
+    "source_hash": "25c30a2c8730a3ff684a1aa4661b9a3d7f101a14",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701409,
+    "archived_at": 1779153892,
     "archive_name": "async_postgres-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

@@ -1,9 +1,9 @@
 {
-    "checksum": "6f8db9c10bb785dff0fae5a80d4ca0afab958dfe7bf2e03adef473af393a9910",
+    "checksum": "96d40f17722e0e98a1532f7f9fb65cc05aa2a5b216616b2102cb78cdda626c9f",
     "commit": "8974aa25744eaa7ab2de815548dbb2c5a36b5682",
     "source_hash": "5e07fb6c502620c6c1bf624d3ca8af568e4ef129",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701409,
+    "archived_at": 1779153892,
     "archive_name": "async_postgres-v0.1.0.tar.gz",
     "readme": "README.md"
 }
