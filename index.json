@@ -18982,5 +18982,12 @@
         "url": "https://github.com/openpeeps/twofa",
         "license": "MIT",
         "added_at": 1779154384
+    },
+    "e2ee": {
+        "id": "e2ee",
+        "type": "git",
+        "url": "https://github.com/openpeeps/e2ee",
+        "license": "MIT",
+        "added_at": 1779154392
     }
 }
