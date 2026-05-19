@@ -747,5 +747,12 @@
         "url": "https://github.com/mjfh/nim-tmplpro.git",
         "license": "UNLICENSE",
         "added_at": 1779174311
+    },
+    "azure_translate": {
+        "id": "azure_translate",
+        "type": "git",
+        "url": "https://github.com/williamhatcher/azure_translate",
+        "license": "MIT",
+        "added_at": 1779174330
     }
 }
