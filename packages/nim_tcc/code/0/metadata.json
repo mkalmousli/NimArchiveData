@@ -1,9 +1,9 @@
 {
-    "checksum": "57403df69254f7aed4f1780a134ca076e9d50a8800c4b4ec9cacac5a0122ad77",
+    "checksum": "788b6b6c3e934d186aa93ad3cbab93ef6f3b3f9676917877575362d491a36687",
     "commit": "49553e0aa613068ea4d913e72163d8801f9bc1e6",
     "source_hash": "2e202e844169462b1b3df7e0408cd97fb6a047a6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701753,
+    "archived_at": 1779154234,
     "archive_name": "nim_tcc-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
