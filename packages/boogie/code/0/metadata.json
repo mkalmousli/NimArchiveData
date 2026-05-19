@@ -1,9 +1,9 @@
 {
-    "checksum": "5bb05a12df4790ed10cb7766f2cd2119610e4129e91a068465f77d72f70dc0a3",
-    "commit": "2338df125d07dc9e2a7d4496f4a456f95c413b24",
-    "source_hash": "2478ce9123773313385873068314adbc48181f0e",
+    "checksum": "e0ec0db48e11b5038cdb6269b5bddc6b569ccd1f276018012b117f47c476dcc1",
+    "commit": "fae7dfac800b0690178d9551d745c1038d35963a",
+    "source_hash": "5440f6d76baf6557dd3032249c8d348fd8c3fb22",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702369,
+    "archived_at": 1779154880,
     "archive_name": "boogie-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
