@@ -18800,5 +18800,12 @@
         "url": "https://github.com/nim-windowing/surfer",
         "license": "BSD-3-Clause",
         "added_at": 1779153837
+    },
+    "ybus": {
+        "id": "ybus",
+        "type": "git",
+        "url": "https://github.com/nim-windowing/ybus",
+        "license": "BSD-3-Clause",
+        "added_at": 1779153876
     }
 }
