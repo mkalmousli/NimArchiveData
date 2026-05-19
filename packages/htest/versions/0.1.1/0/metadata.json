@@ -1,9 +1,9 @@
 {
-    "checksum": "f33dc40da16c97cdde48779550ba2a5ec6efbefcfabbff34715360402752c46e",
+    "checksum": "55a7a299b273913720bac9d5d3cd164ff9259378a37abdbe2be8f7a4bfd6154a",
     "commit": "236f95e35e1946e86a0c3df9e416b461dd0e874c",
     "source_hash": "64cf3f11887c901b798f1d6556d78362fe823c3c",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779173930,
+    "archived_at": 1779189962,
     "archive_name": "htest-0.1.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
