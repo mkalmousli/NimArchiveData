@@ -19003,5 +19003,12 @@
         "url": "https://github.com/elcritch/figdraw",
         "license": "MIT",
         "added_at": 1779154408
+    },
+    "metalx": {
+        "id": "metalx",
+        "type": "git",
+        "url": "https://github.com/elcritch/metalx",
+        "license": "MIT",
+        "added_at": 1779154419
     }
 }
