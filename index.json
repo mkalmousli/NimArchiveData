@@ -19031,5 +19031,12 @@
         "url": "https://github.com/openpeeps/impeller-nim",
         "license": "MIT",
         "added_at": 1779154484
+    },
+    "chronos_dnsc": {
+        "id": "chronos_dnsc",
+        "type": "git",
+        "url": "https://github.com/fox0430/chronos-dnsc",
+        "license": "MIT",
+        "added_at": 1779154493
     }
 }
