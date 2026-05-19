@@ -19094,5 +19094,12 @@
         "url": "https://github.com/fox0430/reni",
         "license": "MIT",
         "added_at": 1779154655
+    },
+    "lxprs": {
+        "id": "lxprs",
+        "type": "git",
+        "url": "https://github.com/capocasa/lxprs",
+        "license": "MIT",
+        "added_at": 1779154664
     }
 }
