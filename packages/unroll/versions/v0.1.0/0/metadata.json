@@ -1,9 +1,9 @@
 {
-    "checksum": "b2b54dfb3960df5f3c3007c04388985ecbd7fd0676dec27400c52c86c83c1821",
+    "checksum": "146e1b437bbda0083b5189b9adca57b19ee3eb175fd9c65d39f03150403efc43",
     "commit": "b12f5df38be18a3ff506b71ef44f58fe71d38abb",
     "source_hash": "6fc046a112ec49bcf3275dc860c76ac119d147a1",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779189849,
+    "archived_at": 1779208420,
     "archive_name": "unroll-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
