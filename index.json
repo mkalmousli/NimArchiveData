@@ -19101,5 +19101,12 @@
         "url": "https://github.com/capocasa/lxprs",
         "license": "MIT",
         "added_at": 1779154664
+    },
+    "supranim_session": {
+        "id": "supranim_session",
+        "type": "git",
+        "url": "https://github.com/supranim/session",
+        "license": "MIT",
+        "added_at": 1779154674
     }
 }
