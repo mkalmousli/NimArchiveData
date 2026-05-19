@@ -19010,5 +19010,12 @@
         "url": "https://github.com/elcritch/metalx",
         "license": "MIT",
         "added_at": 1779154419
+    },
+    "openlayers": {
+        "id": "openlayers",
+        "type": "git",
+        "url": "https://github.com/elcritch/openlayers-nim",
+        "license": "BSD-2-Clause",
+        "added_at": 1779154427
     }
 }
