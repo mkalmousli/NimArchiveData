@@ -18877,5 +18877,12 @@
         "url": "https://github.com/openpeeps/pluginkit",
         "license": "MIT",
         "added_at": 1779154136
+    },
+    "rin": {
+        "id": "rin",
+        "type": "git",
+        "url": "https://github.com/capocasa/rin",
+        "license": "MIT",
+        "added_at": 1779154144
     }
 }
