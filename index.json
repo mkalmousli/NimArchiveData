@@ -18912,5 +18912,12 @@
         "url": "https://github.com/bung87/onnx",
         "license": "MIT",
         "added_at": 1779154193
+    },
+    "nextract": {
+        "id": "nextract",
+        "type": "git",
+        "url": "https://github.com/nim-community/nextract",
+        "license": "MIT",
+        "added_at": 1779154201
     }
 }
