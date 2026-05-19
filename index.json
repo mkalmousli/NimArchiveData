@@ -18947,5 +18947,12 @@
         "url": "https://github.com/akvilary/starlight",
         "license": "MIT",
         "added_at": 1779154255
+    },
+    "td": {
+        "id": "td",
+        "type": "git",
+        "url": "https://github.com/capocasa/td",
+        "license": "MIT",
+        "added_at": 1779154264
     }
 }
