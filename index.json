@@ -18954,5 +18954,12 @@
         "url": "https://github.com/capocasa/td",
         "license": "MIT",
         "added_at": 1779154264
+    },
+    "kairos": {
+        "id": "kairos",
+        "type": "git",
+        "url": "https://github.com/jmgomez/kairos",
+        "license": "MIT",
+        "added_at": 1779154275
     }
 }
