@@ -1,9 +1,9 @@
 {
-    "checksum": "d085bb9870a85e4ae78054404abdc1df4ee98dd55d181b91217619d70671d53c",
+    "checksum": "981e473feea982fc520ebb71b52b6973a579c9057a892bba652b3f3363a62d4f",
     "commit": "1c31712e2ea318f02a908908c58470d974cd95a8",
     "source_hash": "8b6d74144d1d82cbf95ce970c937b486ffa68232",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701814,
+    "archived_at": 1779154292,
     "archive_name": "nimgeos-v0.8.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
