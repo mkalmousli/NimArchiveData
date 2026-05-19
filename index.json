@@ -733,5 +733,12 @@
         "url": "https://github.com/Unaimend/bionim",
         "license": "UNLICENSE",
         "added_at": 1779224286
+    },
+    "jhash": {
+        "id": "jhash",
+        "type": "git",
+        "url": "https://github.com/mjfh/nim-jhash.git",
+        "license": "UNLICENSE",
+        "added_at": 1779224301
     }
 }
