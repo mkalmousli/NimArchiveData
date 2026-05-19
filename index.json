@@ -19059,5 +19059,12 @@
         "url": "https://github.com/bdombro/nim-argsbarg",
         "license": "MIT",
         "added_at": 1779154548
+    },
+    "openparser": {
+        "id": "openparser",
+        "type": "git",
+        "url": "https://github.com/openpeeps/openparser",
+        "license": "MIT",
+        "added_at": 1779154617
     }
 }
