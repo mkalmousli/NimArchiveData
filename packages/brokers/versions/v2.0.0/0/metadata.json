@@ -1,9 +1,9 @@
 {
-    "checksum": "abd4fea22e9851c9430b1b708ca7149c3ce41760cdef9d11cf603f504ddae279",
+    "checksum": "a3b3bf0bdf806eed1917cc0b96d8b16c63aed5c8259a990ce3183aa8f3dd8896",
     "commit": "6cbf2b52e29849975b476b7809f7e35af7ccc335",
     "source_hash": "2db126a87b104fdf1db1493246f5794fbbdfcb15",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702231,
+    "archived_at": 1779154696,
     "archive_name": "brokers-v2.0.0.tar.gz",
     "readme": "README.md"
 }

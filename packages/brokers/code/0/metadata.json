@@ -1,9 +1,9 @@
 {
-    "checksum": "cc3363ed96c9942edcc6cd05b7d3fdad02c1d0ace20a14fa23f1407e50a61ea0",
-    "commit": "6e7b7cc1ec0d0989d50da58af84f4b9a8dfc8a6f",
-    "source_hash": "b0c2a1cea95061aef6a5cdcb6607133dc94f1cd2",
+    "checksum": "e15e0c002283ed605d80942a00ce37e90a12d6a9d635de276f07f9d41eae0d7d",
+    "commit": "7b6bfe11b7bf105583a366145f8c99150b4c224d",
+    "source_hash": "fe2f7761173eec1b689a1abe312a75031b5bda1f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702230,
+    "archived_at": 1779154694,
     "archive_name": "brokers-latest.tar.gz",
     "readme": "README.md"
 }
