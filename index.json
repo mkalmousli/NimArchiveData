@@ -103,5 +103,12 @@
         "url": "https://github.com/ph4mished/morse",
         "license": "MIT",
         "added_at": 1779188551
+    },
+    "tabulator": {
+        "id": "tabulator",
+        "type": "git",
+        "url": "https://github.com/erykjj/nim-tabulator",
+        "license": "MIT",
+        "added_at": 1779188558
     }
 }
