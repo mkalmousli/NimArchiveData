@@ -18793,5 +18793,12 @@
         "url": "https://github.com/nim-windowing/nayland",
         "license": "BSD-3-Clause",
         "added_at": 1779153803
+    },
+    "surfer": {
+        "id": "surfer",
+        "type": "git",
+        "url": "https://github.com/nim-windowing/surfer",
+        "license": "BSD-3-Clause",
+        "added_at": 1779153837
     }
 }
