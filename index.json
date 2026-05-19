@@ -761,5 +761,12 @@
         "url": "https://github.com/kerrycobb/PhylogeNi",
         "license": "MIT",
         "added_at": 1779224328
+    },
+    "geminim": {
+        "id": "geminim",
+        "type": "git",
+        "url": "https://github.com/IDF31/geminim",
+        "license": "BSD-2",
+        "added_at": 1779224335
     }
 }
