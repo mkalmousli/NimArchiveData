@@ -362,5 +362,12 @@
         "url": "https://github.com/svenrdz/curlies",
         "license": "MIT",
         "added_at": 1779151336
+    },
+    "littlefs": {
+        "id": "littlefs",
+        "type": "git",
+        "url": "https://github.com/Graveflo/nim-littlefs.git",
+        "license": "BSD-3-Clause-1",
+        "added_at": 1779151347
     }
 }
