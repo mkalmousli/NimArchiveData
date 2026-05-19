@@ -1,5 +1,4 @@
-<img width="1801" height="873" alt="ig_0b408a98a03cfaf8016a06555f5cb081919910ce1ee37af06b" src="https://github.com/user-attachments/assets/d7cdfaa9-cae4-4b06-8158-ee0a6c1cd4cf" />
-
+# Sarcophagus
 
 Sarcophagus is a FastAPI inspired higher-level API layer for [Mummy](https://github.com/guzba/mummy).
 
@@ -8,10 +7,6 @@ It enables writing REST & JSON APIs for Mummy web server using Nim types that ar
 The Nim types can be encoded/decorded using JSON, CBOR, or MSGPACK. The typed apis are used to create OpenAPI route metadata and to produce a `swagger.json` docs for you. Swagger examples can be added to the endpoints as well. Other non-JSON/CBOR/SGPACK endpoints can also be added.
 
 Sarcophagus also provides security helpers to make OAuth2-protected API endpoints. This uses JWT tokens. These can be used directly with Mummy in addition to Sarcophagus typed APIs.
-
-Security guide: [docs/security.md](docs/security.md) covers secure OAuth2,
-signed cookies, browser login flows, CORS/CSRF concerns, request IDs, and
-secret-handling guidance.
 
 ## Installation
 
@@ -246,14 +241,6 @@ By default, TAPIS supports JSON. Compile with `-d:feature.sarcophagus.cbor` or
 `-d:feature.sarcophagus.msgpack` to enable CBOR or MessagePack request/response
 negotiation.
 
-TAPIS transparently compresses large typed, raw, error, and OpenAPI responses
-when the request `Accept-Encoding` allows `gzip` or `deflate`. It sets
-`Content-Encoding`, `Vary: Accept-Encoding`, and the compressed `Content-Length`,
-including for `HEAD` responses. Mummy also has response compression; TAPIS sets
-`Content-Encoding` before handing the response to Mummy, so Mummy will not
-double-compress TAPIS responses. Raw Mummy handlers registered on `api.router`
-continue to use Mummy's own compression behavior.
-
 Error handling is automatic for TAPIS routes:
 
 - `ApiError` uses its explicit status, code, message, and details.
@@ -262,9 +249,6 @@ Error handling is automatic for TAPIS routes:
 - Set `config.includeStackTraces = true` to include stack traces in error bodies.
 
 ## `sarcophagus/tapis_security`
-
-For a broader discussion of OAuth2, cookies, signed sessions, and browser login
-patterns, see [docs/security.md](docs/security.md).
 
 `sarcophagus/tapis_security` adds OpenAPI-aware route security to TAPIS. It is
 exported by `sarcophagus/tapis`, so most applications only need to import
@@ -355,9 +339,6 @@ tokens and the OpenAPI generator emits `components.securitySchemes` plus per-rou
 `security` requirements.
 
 ## `sarcophagus/oauth2`
-
-For end-to-end operational guidance, including browser login and authorization
-code flow setup, see [docs/security.md](docs/security.md).
 
 `sarcophagus/oauth2` is the main facade. The implementation is split into:
 

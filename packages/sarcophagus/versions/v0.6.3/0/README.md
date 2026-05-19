@@ -1,17 +1,6 @@
-<img width="1801" height="873" alt="ig_0b408a98a03cfaf8016a06555f5cb081919910ce1ee37af06b" src="https://github.com/user-attachments/assets/d7cdfaa9-cae4-4b06-8158-ee0a6c1cd4cf" />
+# Sarcophagus
 
-
-Sarcophagus is a FastAPI inspired higher-level API layer for [Mummy](https://github.com/guzba/mummy).
-
-It enables writing REST & JSON APIs for Mummy web server using Nim types that are automatically parsed for you. Sarcophagus calls these "TAPIS" short for typed APIs.
-
-The Nim types can be encoded/decorded using JSON, CBOR, or MSGPACK. The typed apis are used to create OpenAPI route metadata and to produce a `swagger.json` docs for you. Swagger examples can be added to the endpoints as well. Other non-JSON/CBOR/SGPACK endpoints can also be added.
-
-Sarcophagus also provides security helpers to make OAuth2-protected API endpoints. This uses JWT tokens. These can be used directly with Mummy in addition to Sarcophagus typed APIs.
-
-Security guide: [docs/security.md](docs/security.md) covers secure OAuth2,
-signed cookies, browser login flows, CORS/CSRF concerns, request IDs, and
-secret-handling guidance.
+Sarcophagus is a FastAPI inspired higher-level API layer for [Mummy](https://github.com/guzba/mummy). Its TAPIS modules turn typed Nim procs into HTTP handlers, JSON/CBOR codecs, OpenAPI route metadata, and OAuth2-protected endpoints.
 
 ## Installation
 
@@ -22,20 +11,6 @@ nimble install https://github.com/elcritch/sarcophagus
 ```
 
 Note, `jwt` can cause issues during installation. Add `requires "jwt >= 0.3"` to your nimble file if you get `jwt` issues.
-
-## Logging
-
-Sarcophagus uses [Chroniclers](https://github.com/elcritch/chroniclers) for
-logging facade support. TAPIS logs handled route errors by default with the
-request method, path, response status, error code, exception type, and message.
-To compile out Chroniclers log calls in an application, build with:
-
-```sh
-nim c -d:chroniclersLogBackend=none app.nim
-```
-
-Use `-d:chroniclersLogBackend=std` for Nim's `std/logging`, or install 
-Sarcophagus with the `chronicles` feature to use Chronicles (recommended) using `requires "sarcophagus[chroncicles]"` in your Nimble file.
 
 ## Basic Example
 
@@ -88,8 +63,7 @@ Core pieces:
 - `initApiRouter(title, version, config)` creates a typed Mummy router wrapper.
 - `tapi(method, path, ...)` marks a proc as an API endpoint.
 - `api.add(handler)` registers a `tapi`-annotated proc.
-- `api.registerOAuth2(config)` mounts the standard typed-router `/oauth/token`
-  endpoint.
+- `api.registerOAuth2(config)` mounts the standard `/oauth/token` endpoint.
 - `api.mountOpenApi()` mounts `/swagger.json`.
 - `ApiResponse[T]` lets a handler set status codes and headers.
 - `raiseApiError(status, message, code, details)` produces structured error JSON.
@@ -137,25 +111,8 @@ proc createItem(
   apiResponse(ItemOut(name: body.name, count: body.count), statusCode = 201)
 ```
 
-Use `Body[T]` when a flat route needs both path/query parameters and a request
-body:
-
-```nim
-proc updateItem(
-    body: Body[CreateItemBody],
-    id: int,
-    notify: Option[bool],
-): ItemOut {.tapi(put, "/items/@id", summary = "Update item").} =
-  ItemOut(id: id, name: body.name, count: body.count)
-
-proc createItem(
-    body: Body[CreateItemBody],
-    dryRun: Option[bool],
-): ItemOut {.tapi(post, "/items", summary = "Create item").} =
-  ItemOut(id: 0, name: body.name, count: body.count)
-```
-
-Use `ApiRequest[Params, Body]` when grouped path/query parameters are clearer:
+Use `ApiRequest[Params, Body]` when a route needs both path/query parameters and
+a request body:
 
 ```nim
 type ItemPath = object
@@ -167,92 +124,9 @@ proc updateItem(
   ItemOut(id: input.params.id, name: input.body.name, count: input.body.count)
 ```
 
-### OpenAPI Examples
-
-Request and response examples can be added to the OpenAPI document with the
-block-style docs helpers:
-
-```nim
-api.post(
-  "/items",
-  createItem,
-  summary = "Create item",
-  responseStatus = 201,
-  request = block:
-    apiRequestDocs:
-      examples:
-        "create":
-          summary = "Create item request"
-          value = CreateItemBody(name: "probe", count: 3),
-  responses = block:
-    apiResponseDocs:
-      http(201):
-        description = "Created item response"
-        examples:
-          "created":
-            summary = "Created item"
-            value = ItemOut(id: 42, name: "probe", count: 3),
-)
-```
-
-### Mixed Routers
-
-TAPIS routes and regular Mummy handlers can use the same router. Register raw
-Mummy handlers on `api.router` when you need lower-level control or an endpoint
-that should not participate in TAPIS encoding and OpenAPI metadata:
-
-```nim
-import mummy
-import mummy/routers
-import sarcophagus/tapis
-
-proc status(request: Request) {.gcsafe.} =
-  var headers: mummy.HttpHeaders
-  headers["Content-Type"] = "application/json; charset=utf-8"
-  request.respond(200, headers, """{"status":"ok"}""")
-
-proc readItem(id: int): ItemOut {.gcsafe.} =
-  ItemOut(id: id, name: "item-" & $id)
-
-let api = initApiRouter("Mixed API", "1.0.0")
-api.router.get("/status", status)
-api.get("/items/@id", readItem, summary = "Read item")
-api.mountOpenApi()
-
-newServer(api.router).serve(Port(8080), address = "127.0.0.1")
-```
-
-### Raw HTML Responses
-
-Use `RawResponse["text/html"]` when a typed TAPIS handler should return HTML or
-another pre-encoded string body instead of JSON encoding:
-
-```nim
-proc docs(): RawResponse["text/html"] {.gcsafe.} =
-  htmlResponse("""
-<!DOCTYPE html>
-<html>
-<head><title>API Docs</title></head>
-<body><div id="redoc"></div></body>
-</html>""")
-
-api.get("/docs", docs, summary = "API docs")
-```
-
-`rawResponse["content/type"](...)` and `textResponse(...)` are also available
-for other string response types.
-
 By default, TAPIS supports JSON. Compile with `-d:feature.sarcophagus.cbor` or
 `-d:feature.sarcophagus.msgpack` to enable CBOR or MessagePack request/response
 negotiation.
-
-TAPIS transparently compresses large typed, raw, error, and OpenAPI responses
-when the request `Accept-Encoding` allows `gzip` or `deflate`. It sets
-`Content-Encoding`, `Vary: Accept-Encoding`, and the compressed `Content-Length`,
-including for `HEAD` responses. Mummy also has response compression; TAPIS sets
-`Content-Encoding` before handing the response to Mummy, so Mummy will not
-double-compress TAPIS responses. Raw Mummy handlers registered on `api.router`
-continue to use Mummy's own compression behavior.
 
 Error handling is automatic for TAPIS routes:
 
@@ -262,9 +136,6 @@ Error handling is automatic for TAPIS routes:
 - Set `config.includeStackTraces = true` to include stack traces in error bodies.
 
 ## `sarcophagus/tapis_security`
-
-For a broader discussion of OAuth2, cookies, signed sessions, and browser login
-patterns, see [docs/security.md](docs/security.md).
 
 `sarcophagus/tapis_security` adds OpenAPI-aware route security to TAPIS. It is
 exported by `sarcophagus/tapis`, so most applications only need to import
@@ -354,20 +225,10 @@ The same security metadata is used twice: the runtime wrapper validates bearer
 tokens and the OpenAPI generator emits `components.securitySchemes` plus per-route
 `security` requirements.
 
-## `sarcophagus/oauth2`
+## `sarcophagus/core/oauth2` And `sarcophagus/oauth2`
 
-For end-to-end operational guidance, including browser login and authorization
-code flow setup, see [docs/security.md](docs/security.md).
-
-`sarcophagus/oauth2` is the main facade. The implementation is split into:
-
-- `sarcophagus/oauth2/core` for protocol logic such as token issuance,
-  authorization-code exchange, and resource-server validation.
-- `sarcophagus/oauth2/common` for typed API payloads, callbacks, and error
-  response helpers.
-- `sarcophagus/oauth2/mummy_support` for raw Mummy handlers, router registration,
-  and route-wrapping macros.
-
+`sarcophagus/core/oauth2` is the protocol core. It implements the client
+credentials grant and resource-server validation over Sarcophagus bearer tokens.
 
 Typical setup:
 
@@ -413,24 +274,16 @@ let validation = validateOAuth2BearerToken(
 )
 ```
 
-Typed TAPIS registration is the first-class OAuth2 setup:
+`sarcophagus/oauth2` contains Mummy-oriented helpers for non-TAPIS handlers:
 
-- `api.registerOAuth2(config)` mounts the token endpoint.
-- `api.registerOAuth2AuthorizationCode(...)` mounts the browser authorization
-  endpoint and token endpoint for authorization-code login.
-- `security = oauth2(...)` and `withSecurity(...)` keep OpenAPI metadata in sync
-  with runtime bearer-token enforcement.
-
-For non-TAPIS handlers, use the same names on a plain Mummy `Router`:
-
-- `oauth2TokenHandler(config)` returns a raw token endpoint handler.
-- `oauth2AuthorizeHandler(...)` returns a raw authorization endpoint.
-- `router.registerOAuth2(config)` mounts the token endpoint at `/oauth/token`.
-- `router.registerOAuth2AuthorizationCode(...)` mounts raw authorization-code
-  endpoints.
+- `oauth2TokenHandler(config)` returns a raw Mummy token endpoint handler.
+- `registerOAuth2(router, config)` mounts that token endpoint at `/oauth/token`.
 - `requireOAuth2BearerAuth(request, config, scopes)` validates a request in place.
 - `oauth2(handler, config, scopes)` wraps a raw handler.
 - `withOAuth2(config, scopes):` rewrites raw Mummy route registrations in a block.
+
+For TAPIS routes, prefer `security = oauth2(...)` or `withSecurity(...)` so
+OpenAPI metadata stays in sync with runtime enforcement.
 
 ## `sarcophagus/security/secret_hashing`
 
@@ -495,20 +348,17 @@ let storedHash = hashSecret("client-secret", policy)
 doAssert verifySecret("client-secret", storedHash, policy)
 ```
 
-## `sarcophagus/oauth2/hashed_clients`
+## `sarcophagus/security/oauth2_hashed_clients`
 
-`sarcophagus/oauth2/hashed_clients` adds reusable OAuth2 client
+`sarcophagus/security/oauth2_hashed_clients` adds reusable OAuth2 client
 credential plumbing for applications that store hashed client secrets instead of
 plaintext secrets. Storage is callback-based, so an application can back it with
 SQLite, Postgres, flat files, or another store.
 
-The older `sarcophagus/security/oauth2_hashed_clients` import path remains as a
-compatibility facade.
-
 For setup tools, seed a client and persist the resulting `HashedOAuth2Client`:
 
 ```nim
-import sarcophagus/oauth2/hashed_clients
+import sarcophagus/security/oauth2_hashed_clients
 
 let credentials = seedHashedOAuth2Client(
   proc(client: HashedOAuth2Client) {.gcsafe.} =
@@ -526,16 +376,6 @@ At runtime, mount a token endpoint using a loader callback:
 
 ```nim
 router.registerHashedOAuth2(
-  oauthConfig,
-  proc(clientId: string): Option[HashedOAuth2Client] {.gcsafe.} =
-    loadClientFromDb(clientId),
-)
-```
-
-Typed API routers support the same endpoint registration:
-
-```nim
-api.registerHashedOAuth2(
   oauthConfig,
   proc(clientId: string): Option[HashedOAuth2Client] {.gcsafe.} =
     loadClientFromDb(clientId),
