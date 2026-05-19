@@ -18898,5 +18898,12 @@
         "url": "https://github.com/jabbalaci/nimbang",
         "license": "MIT",
         "added_at": 1779154162
+    },
+    "wrenim": {
+        "id": "wrenim",
+        "type": "git",
+        "url": "https://github.com/viktornv/wrenim",
+        "license": "MIT",
+        "added_at": 1779154180
     }
 }
