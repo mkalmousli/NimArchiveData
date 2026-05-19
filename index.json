@@ -18856,5 +18856,12 @@
         "url": "https://github.com/holo-nim/holo-json",
         "license": "MIT",
         "added_at": 1779154099
+    },
+    "papr": {
+        "id": "papr",
+        "type": "git",
+        "url": "https://github.com/capocasa/papr",
+        "license": "MIT",
+        "added_at": 1779154109
     }
 }
