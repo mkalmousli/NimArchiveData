@@ -18842,5 +18842,12 @@
         "url": "https://github.com/iceberg-work/sse",
         "license": "MIT",
         "added_at": 1779154058
+    },
+    "booyaka": {
+        "id": "booyaka",
+        "type": "git",
+        "url": "https://github.com/openpeeps/booyaka",
+        "license": "AGPL-3.0-or-later",
+        "added_at": 1779154086
     }
 }
