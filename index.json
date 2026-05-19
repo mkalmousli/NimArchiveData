@@ -19073,5 +19073,12 @@
         "url": "https://github.com/openpeeps/duckdb-nim",
         "license": "MIT",
         "added_at": 1779154626
+    },
+    "zxc": {
+        "id": "zxc",
+        "type": "git",
+        "url": "https://github.com/openpeeps/zxc-nim",
+        "license": "MIT",
+        "added_at": 1779154634
     }
 }
