@@ -1,9 +1,9 @@
 {
-    "checksum": "67cb2cbb8c9cc275567f59ba62608f06bfb54affd0d097737fa20bcd3d430e6b",
+    "checksum": "646ed2713f92180e4f2ceba6e1076410d75ea2d90110133cdb2c0085d12c8985",
     "commit": "bc6d423288637a6e58fa2d72a6ce6e24a36c6079",
     "source_hash": "a45c09da9df2420c633dc90c558fb2c2f4b29395",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779189773,
+    "archived_at": 1779208322,
     "archive_name": "webui-0.4.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
