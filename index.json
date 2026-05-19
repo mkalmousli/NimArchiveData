@@ -19045,5 +19045,12 @@
         "url": "https://codeberg.org/SpotlightKid/audio2json",
         "license": "MIT",
         "added_at": 1779154518
+    },
+    "atem": {
+        "id": "atem",
+        "type": "git",
+        "url": "https://github.com/capocasa/atem",
+        "license": "MIT",
+        "added_at": 1779154538
     }
 }
