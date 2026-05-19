@@ -18870,5 +18870,12 @@
         "url": "https://github.com/nim-community/nimctx",
         "license": "MIT",
         "added_at": 1779154128
+    },
+    "pluginkit": {
+        "id": "pluginkit",
+        "type": "git",
+        "url": "https://github.com/openpeeps/pluginkit",
+        "license": "MIT",
+        "added_at": 1779154136
     }
 }
