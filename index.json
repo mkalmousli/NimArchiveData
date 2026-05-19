@@ -19206,5 +19206,12 @@
         "url": "https://github.com/supranim/supra",
         "license": "MIT",
         "added_at": 1779154901
+    },
+    "bau": {
+        "id": "bau",
+        "type": "git",
+        "url": "https://github.com/bitstormFA/bau",
+        "license": "MIT",
+        "added_at": 1779154909
     }
 }
