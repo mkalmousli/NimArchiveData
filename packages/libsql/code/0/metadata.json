@@ -1,9 +1,9 @@
 {
-    "checksum": "68c173b8c93a2d706102ff1f3cc1ab1bde83f6c04204b45d766bb0358ceb5c83",
-    "commit": "65a0b1aa8383d05eb1910d9c4fd5c7f650a86557",
-    "source_hash": "49a9e5f7c38a48cf47067a6f87ce4c2a73ae1a58",
+    "checksum": "08a84d05b82635a30b86bfaf614d16d545ed2d2b8b54b79260e874c8cd494219",
+    "commit": "de6d0bd59a95c6b48b9557f12b864766e57f65aa",
+    "source_hash": "efc133ba2367b3330e31c6f35523b024a4ac0bc1",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702328,
+    "archived_at": 1779154840,
     "archive_name": "libsql-latest.tar.gz",
     "readme": "README.md"
 }
