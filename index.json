@@ -19171,5 +19171,12 @@
         "url": "https://github.com/openpeeps/libopendmarc-nim",
         "license": "MIT",
         "added_at": 1779154856
+    },
+    "paddle": {
+        "id": "paddle",
+        "type": "git",
+        "url": "https://github.com/openpeeps/paddle-nim",
+        "license": "MIT",
+        "added_at": 1779154868
     }
 }
