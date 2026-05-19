@@ -1,9 +1,9 @@
 {
-    "checksum": "90b55388c8699c794bbd716ce85ee7ae2b325b09d1cd617e82aa1346fa3abda7",
+    "checksum": "62b0c9897b79efae1676b28366979c220d21d5c93549f76ccdc35d5aec401eaa",
     "commit": "e1229ba093cbd395fbd6aa3ce19f3c42f903aeca",
     "source_hash": "aa705f009a8684956cc503686a4eefc7de7ba42c",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778701160,
+    "archived_at": 1779153618,
     "archive_name": "scfg_nim-0.2.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
