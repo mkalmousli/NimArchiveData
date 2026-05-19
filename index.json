@@ -18772,5 +18772,12 @@
         "url": "https://github.com/capocasa/payf",
         "license": "MIT",
         "added_at": 1779153690
+    },
+    "nimtra": {
+        "id": "nimtra",
+        "type": "git",
+        "url": "https://github.com/nimmer-jp/nimtra",
+        "license": "MIT",
+        "added_at": 1779153700
     }
 }
