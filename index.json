@@ -432,5 +432,12 @@
         "url": "https://github.com/The-Ticking-Clockwork/NULID",
         "license": "CC0",
         "added_at": 1779189483
+    },
+    "crockfordb32": {
+        "id": "crockfordb32",
+        "type": "git",
+        "url": "https://github.com/The-Ticking-Clockwork/Crockford-Base32-Nim",
+        "license": "CC0",
+        "added_at": 1779189513
     }
 }
