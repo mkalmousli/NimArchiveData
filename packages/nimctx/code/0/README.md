@@ -4,44 +4,43 @@
 [![Nim Version](https://img.shields.io/badge/nim-%3E%3D2.2.0-orange.svg)](https://nim-lang.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-English | [中文](README.zh.md)
+[English](README.md) | 中文
 
-Nim Context MCP Server provides deep context for Nim projects and standard library for AI programming assistants, including module indexing for dependency packages.
+Nim Context MCP Server 为 AI 编程助手提供深度的 Nim 项目和标准库上下文，包括依赖包的模块索引。
 
-This project nimctx solves the problem of AI programming assistants lacking deep context about Nim projects.
+本项目 nimctx 解决了 AI 编程助手缺乏关于 Nim 项目的深度上下文的问题。
 
-## The Problem
+## 问题
 
-When AI assistants (like Claude) help with Nim programming, they face several challenges:
+当 AI 助手（如 Claude）帮助进行 Nim 编程时，它们面临以下几个挑战：
 
-1. **No easy access to stdlib docs** - Can't look up standard library functions, their signatures, or documentation
-2. **Dependency blind spot** - Don't know what packages a project depends on or what's available in them
-3. **Import confusion** - Can't tell if `import json` refers to stdlib or a third-party package
-4. **Version compatibility** - Hard to check if code works across different Nim versions
-5. **Manual context** - Users have to manually copy-paste docs or package info into conversations
+1. **无法轻松访问标准库文档** - 无法查找标准库函数、它们的签名或文档
+2. **依赖包盲点** - 不知道项目依赖哪些包或这些包中有什么可用内容
+3. **导入困惑** - 无法判断 `import json` 是指标准库还是第三方包
+4. **版本兼容性** - 难以检查代码是否能在不同 Nim 版本下正常工作
+5. **手动上下文** - 用户必须手动复制粘贴文档或包信息到对话中
 
+## 功能
 
-## Features
+### 标准库支持
+- **标准库文档查询**: 搜索和获取 Nim 标准库的符号、过程签名和文档
+- **模块文档**: 获取 stdlib 模块的导出符号和文档
 
-### Standard Library Support
-- **Standard Library Documentation Query**: Search and retrieve symbols, procedure signatures, and documentation from the Nim standard library
-- **Module Documentation**: Get exported symbols and documentation from stdlib modules
+### 依赖包支持
+- **依赖包列表**: 通过 nimble 获取项目依赖信息
+- **包模块索引**: 索引已安装包的模块（如 `jsony`, `chronos` 等）
+- **跨包搜索**: 在多个依赖包中搜索符号
+- **包内搜索**: 在特定包中搜索符号
 
-### Dependency Package Support
-- **Dependency Listing**: Get project dependency information via nimble
-- **Package Module Indexing**: Index modules from installed packages (e.g., `jsony`, `chronos`, etc.)
-- **Cross-Package Search**: Search symbols across multiple dependency packages
-- **Package-Specific Search**: Search symbols within a specific package
+### 开发辅助
+- **Import 解析**: 解析 import 语句的来源（stdlib 或依赖包）
+- **过程签名**: 获取 stdlib 或依赖包中过程的详细签名
+- **智能缓存**: 搜索结果缓存，提升响应速度
+- **项目根目录支持**: 所有工具支持 `projectRoot` 参数，可指定任意 Nim 项目进行分析
 
-### Development Assistance
-- **Import Resolution**: Resolve the source of import statements (stdlib or dependency packages)
-- **Procedure Signatures**: Get detailed signatures for procedures from stdlib or dependency packages
-- **Smart Caching**: Search result caching for improved response speed
-- **Project Root Support**: All tools support `projectRoot` parameter to analyze any Nim project
+## 安装
 
-## Installation
-
-### Build from Source
+### 从源码构建
 
 ```bash
 git clone <repository>
@@ -49,27 +48,27 @@ cd nimctx
 nimble build
 ```
 
-Or using nim command:
+或使用 nim 命令：
 
 ```bash
 nim c -d:release src/nimctx.nim
 ```
 
-## Usage
+## 使用
 
-### Command Line
+### 命令行运行
 
 ```bash
 ./nimctx
 ```
 
-The server communicates with MCP clients via standard input/output (stdio).
+服务器通过标准输入输出 (stdio) 与 MCP 客户端通信。
 
-### MCP Client Configuration
+### MCP Client 配置
 
 #### Claude Desktop (macOS)
 
-Edit `~/Library/Application Support/Claude/claude_desktop_config.json`:
+编辑 `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 ```json
 {
@@ -84,7 +83,7 @@ Edit `~/Library/Application Support/Claude/claude_desktop_config.json`:
 
 #### RooCode / Cline (VS Code)
 
-Add to VS Code settings:
+在 VS Code 设置中添加：
 
 ```json
 {
@@ -99,63 +98,63 @@ Add to VS Code settings:
 }
 ```
 
-## Available Tools
+## 可用工具
 
-| Tool Name | Description | Parameters |
-|-----------|-------------|------------|
-| `search_stdlib` | Search for functions, types, variables in Nim STANDARD LIBRARY ONLY. Use ONLY when user explicitly asks about: 'stdlib', 'standard library', or mentions specific stdlib modules like 'strutils', 'json', 'os', 'system', etc. | `query`, `moduleFilter?`, `symbolType?`, `packageFilter?` |
-| `get_proc_signature` | Get detailed function signature from INDEXED packages only. Use ONLY when: 1) User mentions a specific function name AND 2) User explicitly mentions a stdlib module (strutils, json, etc.) or an already-indexed package. | `procName`, `packageName?`, `projectRoot?` |
-| `list_dependencies` | List project dependencies from nimble. Use ONLY when user explicitly asks about project dependencies, nimble packages, or 'what packages does this project use'. | `directOnly?`, `projectRoot?` |
-| `get_module_docs` | Get documentation for a module from INDEXED packages only. Use ONLY when user explicitly asks about a specific module by name (e.g., 'strutils', 'json', 'system') and wants to see its documentation. | `modulePath`, `packageName?`, `projectRoot?` |
-| `resolve_import` | Find where an imported module comes from (stdlib path, nimble package location, or local file). Use when user asks: 'Where is X imported from?', 'Which package provides Y?', 'Find source of import Z'. | `importPath`, `projectRoot?` |
-| `check_version_compat` | Check Nim version compatibility by testing code against different Nim versions | `filePath?`, `testAllInstalled?`, `updateNimble?`, `projectRoot?` |
-| `list_nim_versions` | List all available Nim versions | - |
+| 工具名 | 描述 | 参数 |
+|-------|------|------|
+| `search_stdlib` | 在 Nim 标准库中搜索函数、类型、变量。仅在用户明确询问 stdlib、standard library 或特定 stdlib 模块（如 strutils、json、os、system 等）时使用 | `query`, `moduleFilter?`, `symbolType?`, `packageFilter?` |
+| `get_proc_signature` | 从已索引的包中获取函数的详细签名。仅在用户提到特定函数名且明确提到 stdlib 模块或已索引包时使用 | `procName`, `packageName?`, `projectRoot?` |
+| `list_dependencies` | 从 nimble 列出项目依赖。仅在用户明确询问项目依赖、nimble 包或"这个项目使用了什么包"时使用 | `directOnly?`, `projectRoot?` |
+| `get_module_docs` | 从已索引的包中获取模块文档。仅在用户明确询问特定模块（如 strutils、json、system）并想要查看其文档时使用 | `modulePath`, `packageName?`, `projectRoot?` |
+| `resolve_import` | 查找导入的模块来源（stdlib 路径、nimble 包位置或本地文件）。在用户询问"X 是从哪里导入的？"、"哪个包提供了 Y？"、"查找导入 Z 的来源"时使用 | `importPath`, `projectRoot?` |
+| `check_version_compat` | 检查 Nim 版本兼容性，测试代码在不同 Nim 版本下的兼容性 | `filePath?`, `testAllInstalled?`, `updateNimble?`, `projectRoot?` |
+| `list_nim_versions` | 列出所有可用的 Nim 版本 | - |
 
-### Usage Examples
+### 使用示例
 
-**Search Standard Library:**
+**搜索标准库:**
 ```
 search_stdlib(query: "split", moduleFilter: "strutils")
 ```
 
-**Search in Dependency Packages:**
+**在依赖包中搜索:**
 ```
 search_stdlib(query: "parseJson", packageFilter: "jsony")
 ```
 
-**Get Procedure Signature from Package:**
+**获取包中过程的签名:**
 ```
 get_proc_signature(procName: "fromJson", packageName: "jsony")
 ```
 
-**List Dependencies:**
+**列出依赖:**
 ```
 list_dependencies(directOnly: true)
 ```
 
-**Specify Project Root:**
+**指定项目根目录:**
 ```
-# Analyze dependencies of a specific project
+# 分析特定项目的依赖
 list_dependencies(projectRoot: "/path/to/my/project")
 
-# Search symbols in another project
+# 在其他项目中搜索符号
 search_stdlib(query: "parseJson", projectRoot: "/path/to/my/project")
 ```
 
-**Check Version Compatibility:**
+**检查版本兼容性:**
 ```
 check_version_compat(filePath: "src/myfile.nim", testAllInstalled: true)
 ```
 
-**List Nim Versions:**
+**列出 Nim 版本:**
 ```
 list_nim_versions()
 ```
 
-## Configuration
+## 配置
 
 ```json
-// ~/.config/nimctx/config.json or ./nimctx.json
+// ~/.config/nimctx/config.json 或 ./nimctx.json
 {
   "nim": {
     "nimPath": "/usr/local/bin/nim",
@@ -173,39 +172,49 @@ list_nim_versions()
 }
 ```
 
-## Project Structure
+## 项目结构
 
 ```
 nimctx/
 ├── src/
-│   ├── nimctx.nim              # Main entry + MCP server
+│   ├── nimctx.nim              # 主入口 + MCP服务器
 │   └── nimctx/
-│       ├── config.nim          # Configuration management
-│       ├── version_compat.nim  # Nim version compatibility checking
+│       ├── config.nim          # 配置管理
+│       ├── version_compat.nim  # Nim 版本兼容性检查
 │       ├── stdlib/
-│       │   └── indexer.nim     # Standard library indexing
+│       │   └── indexer.nim     # 标准库索引
 │       ├── packages/
-│       │   └── indexer.nim     # Dependency package indexing
+│       │   └── indexer.nim     # 依赖包索引
 │       ├── project/
-│       │   └── manager.nim     # Nimble dependency management
+│       │   └── manager.nim     # nimble依赖管理
 │       └── utils/
-│           ├── cache.nim       # In-memory cache system
-│           ├── logging.nim     # Logging utilities
-│           ├── indexing.nim    # Indexing utilities and common types
-│           └── sqlite_indexer.nim  # SQLite-based symbol indexing backend
-├── tests/                      # Tests
-├── examples/                   # Configuration examples
-└── notes/                      # Design documents
+│           ├── cache.nim       # 内存缓存系统
+│           ├── logging.nim     # 日志工具
+│           ├── indexing.nim    # 索引工具和通用类型
+│           └── sqlite_indexer.nim  # SQLite 符号索引后端
+├── tests/                      # 测试
+├── examples/                   # 配置示例
+└── notes/                      # 设计文档
 ```
 
-## Technical Features
+## 运行测试
 
-- **SQLite-Based Indexing**: Persistent and efficient symbol storage using SQLite backend for fast lookups
-- **Multi-Level Caching**: File index cache + in-memory search cache for optimal performance
-- **Incremental Indexing**: Index dependency packages on demand with automatic discovery
-- **Version Compatibility Checking**: Test code against multiple Nim versions via choosenim integration
-- **Smart Recognition**: Automatically distinguishes between stdlib and package modules
+```bash
+# 运行所有测试
+nim c -r tests/test_cache.nim
+nim c -r tests/test_packages.nim
+nim c -r tests/test_project_manager.nim
+nim c -r tests/test_integration.nim
+```
 
-## License
+## 技术特性
+
+- **SQLite 索引后端**: 使用 SQLite 后端进行持久化、高效的符号存储，实现快速查找
+- **多级缓存**: 文件索引缓存 + 内存搜索缓存，实现最佳性能
+- **增量索引**: 按需索引依赖包，自动发现新包
+- **版本兼容性检查**: 通过 choosenim 集成，测试代码在多个 Nim 版本下的兼容性
+- **智能识别**: 自动区分 stdlib 和包模块
+
+## 许可证
 
 MIT
