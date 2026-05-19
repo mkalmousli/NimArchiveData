@@ -18835,5 +18835,12 @@
         "url": "https://github.com/bung87/nim-simpledb",
         "license": "MIT",
         "added_at": 1779154049
+    },
+    "server_sent_events": {
+        "id": "server_sent_events",
+        "type": "git",
+        "url": "https://github.com/iceberg-work/sse",
+        "license": "MIT",
+        "added_at": 1779154058
     }
 }
