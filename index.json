@@ -18821,5 +18821,12 @@
         "url": "https://github.com/capocasa/sfax",
         "license": "MIT",
         "added_at": 1779153905
+    },
+    "crown": {
+        "id": "crown",
+        "type": "git",
+        "url": "https://github.com/nimmer-jp/crown",
+        "license": "MIT",
+        "added_at": 1779153912
     }
 }
