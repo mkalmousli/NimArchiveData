@@ -1,9 +1,9 @@
 {
-    "checksum": "5209fb1ee5d8ad1ba2a4802d658f6e60721885691d7b3714205f19ba5e919861",
+    "checksum": "531d9f11317c1a3558df83b27816237a8dffafabd3bcea30f4906cdb14d532d6",
     "commit": "ef869dc1208c9232ebd03689896d108f01adf83c",
     "source_hash": "7eded9cc06e60869ec30c1e385714278fe740b99",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702052,
+    "archived_at": 1779154523,
     "archive_name": "audio2json-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
