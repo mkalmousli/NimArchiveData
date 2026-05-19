@@ -18814,5 +18814,12 @@
         "url": "https://github.com/fox0430/async-postgres",
         "license": "MIT",
         "added_at": 1779153888
+    },
+    "sfax": {
+        "id": "sfax",
+        "type": "git",
+        "url": "https://github.com/capocasa/sfax",
+        "license": "MIT",
+        "added_at": 1779153905
     }
 }
