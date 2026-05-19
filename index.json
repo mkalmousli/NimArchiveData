@@ -19220,5 +19220,12 @@
         "url": "https://github.com/openpeeps/hyperscan-nim",
         "license": "MIT",
         "added_at": 1779154944
+    },
+    "oris": {
+        "id": "oris",
+        "type": "git",
+        "url": "https://github.com/openpeeps/oris",
+        "license": "MIT",
+        "added_at": 1779154951
     }
 }
