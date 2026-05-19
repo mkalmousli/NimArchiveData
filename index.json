@@ -19227,5 +19227,12 @@
         "url": "https://github.com/openpeeps/oris",
         "license": "MIT",
         "added_at": 1779154951
+    },
+    "hate5d": {
+        "id": "hate5d",
+        "type": "git",
+        "url": "https://github.com/MarkArchive/hate5d",
+        "license": "LGPL-3.0",
+        "added_at": 1779154959
     }
 }
