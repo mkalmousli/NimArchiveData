@@ -1,9 +1,9 @@
 {
-    "checksum": "6101d16d9c237268f45cbef18ba3dd90d3156b655470633aadc128080d675500",
+    "checksum": "eed0bfac334b92fef7f010856c71f376b826acd0ce9a42326196dbcc31d25449",
     "commit": "0e6d78a1792b7c5e9f90e36bc1d47c665b4824a3",
     "source_hash": "fcf02ff970340c259729e0c6a652c135d498599b",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702161,
+    "archived_at": 1779154629,
     "archive_name": "duckdb-latest.tar.gz",
     "readme": "README.md"
 }
