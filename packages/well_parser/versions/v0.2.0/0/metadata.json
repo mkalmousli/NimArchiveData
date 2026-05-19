@@ -1,9 +1,9 @@
 {
-    "checksum": "94aa696aa685b1cd6cc737b8cbf9445fdcb7dedcfc6e0a2d3a79544a393cd539",
+    "checksum": "c81aa8fc135710d4d0a6a44ba5a3d0ec45226cf6f4b9c6d5450047c381674c9a",
     "commit": "925f52b34e8a101b2db22b387f7bc867f261633d",
     "source_hash": "5537f5a07492008e2016c06ccbf7b992a490fb67",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779172716,
+    "archived_at": 1779189118,
     "archive_name": "well_parser-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
