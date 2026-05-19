@@ -1,10 +1,10 @@
 {
-    "checksum": "18e12215b315460b99d4b34764ddf59f4ac3760b9fcbce6c79ae13a713b7fdb6",
+    "checksum": "5caed423e70efa42acf2253856d1711ebe4bbad320c5211c2678d6aaa3f7e374",
     "commit": "ef2033b3f62fd9293c1683554183a690646e6b79",
     "source_hash": "d9b4d08459ff9e33dd6079be208910962d280a4e",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154440,
-    "archive_name": "atlas-latest.tar.gz",
+    "archived_at": 1779154441,
+    "archive_name": "atlas-0.12.6.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
