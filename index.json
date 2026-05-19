@@ -117,5 +117,12 @@
         "url": "https://github.com/bk20x/M",
         "license": "BSD-3-Clause",
         "added_at": 1779188568
+    },
+    "jobscheduler": {
+        "id": "jobscheduler",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-jobscheduler",
+        "license": "MIT",
+        "added_at": 1779188577
     }
 }
