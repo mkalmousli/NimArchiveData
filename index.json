@@ -712,5 +712,12 @@
         "url": "https://github.com/m33m33/libsaedea",
         "license": "MIT",
         "added_at": 1779208807
+    },
+    "gsl": {
+        "id": "gsl",
+        "type": "git",
+        "url": "https://github.com/YesDrX/gsl-nim.git",
+        "license": "GPL3",
+        "added_at": 1779208809
     }
 }
