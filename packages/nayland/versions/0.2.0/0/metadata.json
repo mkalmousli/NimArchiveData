@@ -1,10 +1,10 @@
 {
-    "checksum": "d8af71fdaeb8ef0464943d45badb7965f036be4de7ebc3cce0434243b7aa5082",
+    "checksum": "ee1f1940e12c340d623b9c87e6a76010ea30c0cf5d32953dc0e7a4e00660f276",
     "commit": "97a3277582aeb26995b221d203662e61b02fd8a1",
     "source_hash": "98282a70fe2fe4634626e5b09d31824787a2a367",
     "source_hash_kind": "git_tree",
     "archived_at": 1779153807,
-    "archive_name": "nayland-latest.tar.gz",
+    "archive_name": "nayland-0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
