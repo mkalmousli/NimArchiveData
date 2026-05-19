@@ -1,9 +1,9 @@
 {
-    "checksum": "2136bf95c4437e9dfe86ac4e98c113b5c55311f7e2681b2b9113d8389541715c",
+    "checksum": "6017a8ed3a0afbf7e25bfded2455b71fcbd10bfc49c83ca128617a86c10f88d7",
     "commit": "52948744fe6d463771136461fe2b7befab4dd7e3",
     "source_hash": "b5793fb30c2e619bf3f0e15bd131d4f60b118f69",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778702348,
+    "archived_at": 1779154859,
     "archive_name": "opendmarc-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
