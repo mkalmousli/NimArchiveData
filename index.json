@@ -18807,5 +18807,12 @@
         "url": "https://github.com/nim-windowing/ybus",
         "license": "BSD-3-Clause",
         "added_at": 1779153876
+    },
+    "async_postgres": {
+        "id": "async_postgres",
+        "type": "git",
+        "url": "https://github.com/fox0430/async-postgres",
+        "license": "MIT",
+        "added_at": 1779153888
     }
 }
