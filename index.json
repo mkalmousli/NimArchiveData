@@ -18933,5 +18933,12 @@
         "url": "https://github.com/turbomaster95/nim-tcc",
         "license": "MIT",
         "added_at": 1779154231
+    },
+    "fpdf": {
+        "id": "fpdf",
+        "type": "git",
+        "url": "https://github.com/akvilary/fpdf",
+        "license": "MIT",
+        "added_at": 1779154246
     }
 }
