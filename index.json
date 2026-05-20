@@ -264,5 +264,12 @@
         "url": "https://github.com/bctnry/nim-libsndfile",
         "license": "MIT",
         "added_at": 1779236942
+    },
+    "nimgo": {
+        "id": "nimgo",
+        "type": "git",
+        "url": "https://github.com/Alogani/NimGo",
+        "license": "MIT",
+        "added_at": 1779236948
     }
 }
