@@ -306,5 +306,12 @@
         "url": "https://github.com/Alogani/asyncsync",
         "license": "MIT",
         "added_at": 1779237044
+    },
+    "csvdict": {
+        "id": "csvdict",
+        "type": "git",
+        "url": "https://github.com/Alogani/csvdict",
+        "license": "MIT",
+        "added_at": 1779237062
     }
 }
