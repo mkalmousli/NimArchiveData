@@ -40,5 +40,12 @@
         "url": "https://github.com/akvilary/unislug",
         "license": "MIT",
         "added_at": 1779309575
+    },
+    "dmarcmaster": {
+        "id": "dmarcmaster",
+        "type": "git",
+        "url": "https://github.com/capocasa/dmarcmaster",
+        "license": "MIT",
+        "added_at": 1779309583
     }
 }
