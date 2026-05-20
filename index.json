@@ -271,5 +271,12 @@
         "url": "https://github.com/Alogani/NimGo",
         "license": "MIT",
         "added_at": 1779310242
+    },
+    "shellcmd": {
+        "id": "shellcmd",
+        "type": "git",
+        "url": "https://github.com/Alogani/shellcmd",
+        "license": "MIT",
+        "added_at": 1779310276
     }
 }
