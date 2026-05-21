@@ -446,5 +446,12 @@
         "url": "https://github.com/stoneface86/nim-rtmidi/",
         "license": "MIT",
         "added_at": 1779396564
+    },
+    "luigi": {
+        "id": "luigi",
+        "type": "git",
+        "url": "https://github.com/neroist/luigi",
+        "license": "MIT",
+        "added_at": 1779396574
     }
 }
