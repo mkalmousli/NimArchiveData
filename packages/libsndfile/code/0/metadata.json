@@ -1,9 +1,9 @@
 {
-    "checksum": "f39f83e13446ad2932720b5070b7fbc7d6b9cada62f87835721279762822a04a",
+    "checksum": "dcf64d27e3f87e2c7663bceca2b9a8943aa6da63c9cb8ba2e6997e7ab1a1edda",
     "commit": "9cdd804235728785ab1a613a6cd851d7caa313f6",
     "source_hash": "cba2d3c450d2832bfc4d29f25adb16370ba86e06",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779345291,
+    "archived_at": 1779362102,
     "archive_name": "libsndfile-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
