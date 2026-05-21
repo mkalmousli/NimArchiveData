@@ -1,9 +1,9 @@
 {
-    "checksum": "77274cce7997fa6bca9a69853b89763fe04fe5c12e7960b87042af1557263618",
+    "checksum": "65099bfbe43640faac9a63095e0ca52a03c1af3e9521c2c2d76fbd0625348794",
     "commit": "7f04c299ca8b5f42b65077f8c588868bc9fab161",
     "source_hash": "92124866af01fe1f70fbff5e3b70d51af2f685b0",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779379549,
+    "archived_at": 1779395546,
     "archive_name": "proven-v0.9.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
