@@ -320,5 +320,12 @@
         "url": "https://codeberg.org/samsamros/RRC-permits",
         "license": "GPL-3.0",
         "added_at": 1779345536
+    },
+    "avrman": {
+        "id": "avrman",
+        "type": "git",
+        "url": "https://github.com/Abathargh/avrman",
+        "license": "BSD-3",
+        "added_at": 1779345552
     }
 }
