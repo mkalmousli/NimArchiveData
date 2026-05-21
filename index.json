@@ -411,5 +411,12 @@
         "url": "https://github.com/Abathargh/avr_io",
         "license": "BSD-3",
         "added_at": 1779362808
+    },
+    "modernnet": {
+        "id": "modernnet",
+        "type": "git",
+        "url": "https://github.com/Nimberite-Development/ModernNet",
+        "license": "Apache-2.0",
+        "added_at": 1779362853
     }
 }
