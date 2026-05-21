@@ -1,9 +1,9 @@
 {
-    "checksum": "d3b2514d28900241380683046d0ea300e0c9e1fc395928b266570a31b07d7bb9",
+    "checksum": "b72984e8187f6498da432ef9d53cf96dcc63b5404d0c80539b8ff33e6e02cd7b",
     "commit": "2fe29f776678f37d8ac90153d6aa79dc9f3bf7f3",
     "source_hash": "41f199595414262a603008032bcb64de3092019c",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779323503,
+    "archived_at": 1779345185,
     "archive_name": "sparc-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
