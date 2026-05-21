@@ -663,5 +663,12 @@
         "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
         "license": "MIT",
         "added_at": 1779325011
+    },
+    "niprefs": {
+        "id": "niprefs",
+        "type": "git",
+        "url": "https://github.com/Patitotective/niprefs",
+        "license": "MIT",
+        "added_at": 1779325018
     }
 }
