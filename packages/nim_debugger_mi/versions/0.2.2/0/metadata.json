@@ -1,9 +1,9 @@
 {
-    "checksum": "fba5a9c4cde98f300de57671f0b71c7053ef4ad6f6aacd0f69917ddd59448f67",
+    "checksum": "a9254156838ed66a4801ea7a1a54b9ac6d17e664ced2f33c65fab7bf0cc7589f",
     "commit": "a99c0cfb682e7d2797befeafc7cf5d29f374ae29",
     "source_hash": "4360249fdca3bb20d78674300f4b4ab26891a4d8",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779465557,
+    "archived_at": 1779482178,
     "archive_name": "nim_debugger_mi-0.2.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
