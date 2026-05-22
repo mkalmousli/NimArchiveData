@@ -1,9 +1,9 @@
 {
-    "checksum": "d8a12dea96f8b875d8b04f60a1d3a34cd05cf3c10513e4591c01db96ed83fe0f",
+    "checksum": "1ae10bb89a91c41f14701b4ce9b4aeed4e6c1644498305a48096ebfb0dfe5070",
     "commit": "84df905dfa106192d36eb4d00e268c45c3f273c4",
     "source_hash": "2b2d3a61672afe6cac2e03da0f521987ac4698c5",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779395659,
+    "archived_at": 1779409409,
     "archive_name": "jobscheduler-latest.tar.gz",
     "readme": "README.md"
 }
