@@ -89,5 +89,12 @@
         "url": "https://github.com/ph4mished/commodore",
         "license": "MIT",
         "added_at": 1779465413
+    },
+    "caesar": {
+        "id": "caesar",
+        "type": "git",
+        "url": "https://github.com/ph4mished/caesar",
+        "license": "MIT",
+        "added_at": 1779465423
     }
 }
