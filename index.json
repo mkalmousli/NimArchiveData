@@ -565,5 +565,12 @@
         "url": "https://github.com/choltreppe/unroll",
         "license": "MIT",
         "added_at": 1779411115
+    },
+    "geolocation": {
+        "id": "geolocation",
+        "type": "git",
+        "url": "https://github.com/HazeCS/geolocation",
+        "license": "MIT",
+        "added_at": 1779411126
     }
 }
