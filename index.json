@@ -397,5 +397,12 @@
         "url": "https://codeberg.org/samsamros/rssatom",
         "license": "MIT",
         "added_at": 1779533449
+    },
+    "sudoku": {
+        "id": "sudoku",
+        "type": "git",
+        "url": "https://github.com/roberto170/sudoku",
+        "license": "MIT",
+        "added_at": 1779533482
     }
 }
