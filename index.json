@@ -26,5 +26,12 @@
         "url": "https://github.com/akvilary/mailclient",
         "license": "MIT",
         "added_at": 1779532142
+    },
+    "humanize": {
+        "id": "humanize",
+        "type": "git",
+        "url": "https://github.com/akvilary/humanize",
+        "license": "MIT",
+        "added_at": 1779532149
     }
 }
