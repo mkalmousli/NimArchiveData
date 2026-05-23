@@ -425,5 +425,12 @@
         "url": "https://github.com/keithaustin/worldtree",
         "license": "MIT",
         "added_at": 1779516952
+    },
+    "nulid": {
+        "id": "nulid",
+        "type": "git",
+        "url": "https://github.com/The-Ticking-Clockwork/NULID",
+        "license": "CC0",
+        "added_at": 1779516956
     }
 }
