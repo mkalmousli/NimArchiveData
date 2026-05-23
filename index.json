@@ -5,5 +5,12 @@
         "url": "https://github.com/blue0x1/nimrm",
         "license": "MIT",
         "added_at": 1779532105
+    },
+    "winrm": {
+        "id": "winrm",
+        "type": "git",
+        "url": "https://github.com/blue0x1/nim-winrm",
+        "license": "MIT",
+        "added_at": 1779532125
     }
 }
