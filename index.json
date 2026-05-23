@@ -47,5 +47,12 @@
         "url": "https://github.com/capocasa/dmarcmaster",
         "license": "MIT",
         "added_at": 1779516063
+    },
+    "uniq": {
+        "id": "uniq",
+        "type": "git",
+        "url": "https://github.com/akvilary/uniq",
+        "license": "MIT",
+        "added_at": 1779516069
     }
 }
