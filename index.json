@@ -649,5 +649,12 @@
         "url": "https://github.com/Patitotective/tinydialogs",
         "license": "MIT",
         "added_at": 1779534344
+    },
+    "artemis": {
+        "id": "artemis",
+        "type": "git",
+        "url": "https://git.skylarhill.me/skylar/artemis",
+        "license": "GPLv3",
+        "added_at": 1779534364
     }
 }
