@@ -537,5 +537,12 @@
         "url": "https://github.com/choltreppe/unibs",
         "license": "MIT",
         "added_at": 1779496841
+    },
+    "polyrpc": {
+        "id": "polyrpc",
+        "type": "git",
+        "url": "https://github.com/choltreppe/polyrpc",
+        "license": "MIT",
+        "added_at": 1779496855
     }
 }
