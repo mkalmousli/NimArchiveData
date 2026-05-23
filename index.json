@@ -390,5 +390,12 @@
         "url": "https://github.com/ajusa/dekao",
         "license": "MIT",
         "added_at": 1779516883
+    },
+    "rssatom": {
+        "id": "rssatom",
+        "type": "git",
+        "url": "https://codeberg.org/samsamros/rssatom",
+        "license": "MIT",
+        "added_at": 1779516893
     }
 }
