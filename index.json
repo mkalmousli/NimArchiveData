@@ -138,5 +138,12 @@
         "url": "https://github.com/bk20x/Hashbrowns",
         "license": "MIT",
         "added_at": 1779495720
+    },
+    "subprocess": {
+        "id": "subprocess",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nim-subprocess",
+        "license": "MIT",
+        "added_at": 1779495725
     }
 }
