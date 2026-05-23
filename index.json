@@ -621,5 +621,12 @@
         "url": "https://github.com/srozb/entgrep",
         "license": "MIT",
         "added_at": 1779497001
+    },
+    "nexus": {
+        "id": "nexus",
+        "type": "git",
+        "url": "https://github.com/jfilby/nexus",
+        "license": "Apache-2.0",
+        "added_at": 1779497008
     }
 }
