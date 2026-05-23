@@ -558,5 +558,12 @@
         "url": "https://github.com/choltreppe/objaccess",
         "license": "MIT",
         "added_at": 1779517259
+    },
+    "unroll": {
+        "id": "unroll",
+        "type": "git",
+        "url": "https://github.com/choltreppe/unroll",
+        "license": "MIT",
+        "added_at": 1779517264
     }
 }
