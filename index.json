@@ -684,5 +684,12 @@
         "url": "https://github.com/Niminem/Py2Nim",
         "license": "MIT",
         "added_at": 1779604581
+    },
+    "rangequeries": {
+        "id": "rangequeries",
+        "type": "git",
+        "url": "https://github.com/vanyle/RangeQueriesNim",
+        "license": "MIT",
+        "added_at": 1779604592
     }
 }
