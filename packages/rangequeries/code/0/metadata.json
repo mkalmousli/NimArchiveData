@@ -1,9 +1,9 @@
 {
-    "checksum": "46f74c52b483f10001f558dc842ae95cd8fb7bdaa4d83ea8b595c87af98a7ec8",
+    "checksum": "f19b832ae538036d065fb64b21b6ce7c94c9df91e7063a005c8c46c3a4c6f559",
     "commit": "576f820068966964390b30afe2a24caa1bccc282",
     "source_hash": "03731e0a1a3194dabf90ee2b59588e1bc83066d6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779568696,
+    "archived_at": 1779584085,
     "archive_name": "rangequeries-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
