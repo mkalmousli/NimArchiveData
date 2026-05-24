@@ -705,5 +705,12 @@
         "url": "https://gitlab.com/pmetras/nim0.git",
         "license": "MIT",
         "added_at": 1779655206
+    },
+    "libsaedea": {
+        "id": "libsaedea",
+        "type": "git",
+        "url": "https://github.com/m33m33/libsaedea",
+        "license": "MIT",
+        "added_at": 1779655212
     }
 }
