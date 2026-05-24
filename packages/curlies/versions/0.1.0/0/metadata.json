@@ -1,9 +1,9 @@
 {
-    "checksum": "609523f9741103b558dffa4e6e8ace0ba8e2aff8ce6323366b4e4ef337e6bc0e",
+    "checksum": "a15b03749dd8b393c8f0f8fa60b9c1cff23cf24a999cebd15bd4b9d7c58fb625",
     "commit": "7a665b630eabcb23c6dcee1b697277ded1361835",
     "source_hash": "ae191dc9a889c205b485ad13112b241049bb93fc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779568061,
+    "archived_at": 1779583020,
     "archive_name": "curlies-0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
