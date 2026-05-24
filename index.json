@@ -614,5 +614,12 @@
         "url": "https://github.com/infinitybeond1/passy",
         "license": "GPL3",
         "added_at": 1779619842
+    },
+    "entgrep": {
+        "id": "entgrep",
+        "type": "git",
+        "url": "https://github.com/srozb/entgrep",
+        "license": "MIT",
+        "added_at": 1779619846
     }
 }
