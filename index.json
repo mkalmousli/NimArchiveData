@@ -201,5 +201,12 @@
         "url": "https://github.com/ph4mished/sparc",
         "license": "MIT",
         "added_at": 1779582458
+    },
+    "yaclap": {
+        "id": "yaclap",
+        "type": "git",
+        "url": "https://codeberg.org/emanresu3/yaclap",
+        "license": "MIT",
+        "added_at": 1779582468
     }
 }
