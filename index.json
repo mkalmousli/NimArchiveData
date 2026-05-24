@@ -635,5 +635,12 @@
         "url": "https://git.skylarhill.me/skylar/rpgsheet",
         "license": "GPLv3",
         "added_at": 1779604521
+    },
+    "openurl": {
+        "id": "openurl",
+        "type": "git",
+        "url": "https://github.com/foxoman/openurl",
+        "license": "MIT",
+        "added_at": 1779604523
     }
 }
