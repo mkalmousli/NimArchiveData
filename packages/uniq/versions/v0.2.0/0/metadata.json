@@ -1,9 +1,9 @@
 {
-    "checksum": "0f9e0b99eb5a11183536334f909b0e87f424b63d21778353f1e417ec48cd35cb",
+    "checksum": "6f017f134c05ac4554a3ae0f40b9701c5f0ae48cececf4d58bed3196a4ce834f",
     "commit": "74c202254009ce0a1a77fd8e008c2fbc0133e285",
     "source_hash": "593f4276674ad25a746b0315f7216b6b4e2edd11",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779636156,
+    "archived_at": 1779653871,
     "archive_name": "uniq-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
