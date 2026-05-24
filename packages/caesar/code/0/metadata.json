@@ -1,9 +1,9 @@
 {
-    "checksum": "4d63e0bce79b2f830001593b0ea4629e701088f5f967f6deb3039c45b5ee2edc",
+    "checksum": "0dd53ae5acc241f097a800a5ca5580274de11322191c2a93bcf099631b9233e4",
     "commit": "ac187939e0b9e02ce3df0b23d360f2f9d73cc0a7",
     "source_hash": "d0461f2dcd598241402e8492bcd3ef56c38c94dd",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779567403,
+    "archived_at": 1779582025,
     "archive_name": "caesar-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

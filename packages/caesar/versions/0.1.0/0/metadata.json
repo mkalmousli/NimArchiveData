@@ -1,9 +1,9 @@
 {
-    "checksum": "78e5c35a1dac45a06051a9dcf4571834464b67b4f0eef5a1080ab94769abdbfe",
+    "checksum": "51c317e615a03d57f052e264b391f2f920202c46f32d294032edee16728e504a",
     "commit": "e05936fa6cfc99517b0c6d4cf624eb67057b1e8f",
     "source_hash": "ec70b23cd7f4268bfc82b0e08d760d712ae9753a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779567403,
+    "archived_at": 1779582025,
     "archive_name": "caesar-0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
