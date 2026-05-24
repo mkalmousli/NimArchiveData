@@ -1,9 +1,9 @@
 {
-    "checksum": "ff69b926ec82832f961cbbf43fd395fed9ab6f7d76e56dad844812d3f0db8aba",
+    "checksum": "7d234a83a71ab3c4b97c5b73f7b02d0b57ecdd7e1c2582485559536dab833986",
     "commit": "c416a60696d762ff3203a18536f8572feddf1e23",
     "source_hash": "ea9dabbfab33583e60ba4cd933218bd1140d3bab",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779568071,
+    "archived_at": 1779583037,
     "archive_name": "nfind-v1.5.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
