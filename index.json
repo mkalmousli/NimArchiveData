@@ -75,5 +75,12 @@
         "url": "https://github.com/hyperpolymath/proven",
         "license": "PMPL-1.0",
         "added_at": 1779581917
+    },
+    "gpt4free": {
+        "id": "gpt4free",
+        "type": "git",
+        "url": "https://github.com/Monsler/gpt4free",
+        "license": "MIT",
+        "added_at": 1779581958
     }
 }
