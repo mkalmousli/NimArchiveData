@@ -719,5 +719,12 @@
         "url": "https://github.com/YesDrX/gsl-nim.git",
         "license": "GPL3",
         "added_at": 1779619986
+    },
+    "onnxruntime": {
+        "id": "onnxruntime",
+        "type": "git",
+        "url": "https://github.com/YesDrX/onnxruntime-nim.git",
+        "license": "MIT",
+        "added_at": 1779619992
     }
 }
