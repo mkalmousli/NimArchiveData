@@ -551,5 +551,12 @@
         "url": "https://github.com/choltreppe/arrayutils",
         "license": "MIT",
         "added_at": 1779654969
+    },
+    "objaccess": {
+        "id": "objaccess",
+        "type": "git",
+        "url": "https://github.com/choltreppe/objaccess",
+        "license": "MIT",
+        "added_at": 1779654975
     }
 }
