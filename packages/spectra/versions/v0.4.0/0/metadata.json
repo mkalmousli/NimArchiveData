@@ -1,9 +1,9 @@
 {
-    "checksum": "ab7c08418b314df523cd5fec323463e84574b95f9da226a560dacda87f4c50da",
+    "checksum": "552ef53d922de0f06744ec050d78e6a466616b95b76dd8a638ac4a6ae23f755b",
     "commit": "5d7ff723e62aeff42d62ff6242875126869b0f63",
     "source_hash": "ed4fd8dc08787f90493cc8e00b1fd1abcd7e276f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779582433,
+    "archived_at": 1779603666,
     "archive_name": "spectra-v0.4.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
