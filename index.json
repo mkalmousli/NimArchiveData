@@ -334,5 +334,12 @@
         "url": "https://github.com/amkrajewski/nimcso",
         "license": "MIT",
         "added_at": 1779669220
+    },
+    "vqsort": {
+        "id": "vqsort",
+        "type": "git",
+        "url": "https://github.com/Asc2011/vqsort",
+        "license": "MIT",
+        "added_at": 1779669353
     }
 }
