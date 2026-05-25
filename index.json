@@ -369,5 +369,12 @@
         "url": "https://github.com/Graveflo/nim-littlefs.git",
         "license": "BSD-3-Clause-1",
         "added_at": 1779709197
+    },
+    "nfind": {
+        "id": "nfind",
+        "type": "git",
+        "url": "https://github.com/Graveflo/nfind.git",
+        "license": "MIT",
+        "added_at": 1779709204
     }
 }
