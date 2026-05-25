@@ -313,5 +313,12 @@
         "url": "https://github.com/Alogani/csvdict",
         "license": "MIT",
         "added_at": 1779669179
+    },
+    "well_parser": {
+        "id": "well_parser",
+        "type": "git",
+        "url": "https://codeberg.org/samsamros/RRC-permits",
+        "license": "GPL-3.0",
+        "added_at": 1779669188
     }
 }
