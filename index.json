@@ -327,5 +327,12 @@
         "url": "https://github.com/Abathargh/avrman",
         "license": "BSD-3",
         "added_at": 1779669203
+    },
+    "nimcso": {
+        "id": "nimcso",
+        "type": "git",
+        "url": "https://github.com/amkrajewski/nimcso",
+        "license": "MIT",
+        "added_at": 1779669220
     }
 }
