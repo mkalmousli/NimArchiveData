@@ -1,9 +1,9 @@
 {
-    "checksum": "79e1ee387f846f7bc5524c33c159ea20c1c2fa08e098de2455c007e7aeda85ca",
+    "checksum": "10548e482ffa3f26b023dbaead4635fe0f0b387311d08ec656dba24ee04d497c",
     "commit": "db1a6400655877a874e1a918cca490a3070cf84f",
     "source_hash": "ff733e81ec57bae33b0770d725c7d76cc3f2990a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779691594,
+    "archived_at": 1779709521,
     "archive_name": "gitman-1.0.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
