@@ -656,5 +656,12 @@
         "url": "https://git.skylarhill.me/skylar/artemis",
         "license": "GPLv3",
         "added_at": 1779710183
+    },
+    "periapsisEngine": {
+        "id": "periapsisEngine",
+        "type": "git",
+        "url": "https://github.com/Periapsis-Studios/Periapsis-Engine",
+        "license": "MIT",
+        "added_at": 1779710186
     }
 }
