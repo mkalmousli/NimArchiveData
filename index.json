@@ -54,5 +54,12 @@
         "url": "https://github.com/akvilary/uniq",
         "license": "MIT",
         "added_at": 1779668362
+    },
+    "nimhuml": {
+        "id": "nimhuml",
+        "type": "git",
+        "url": "https://github.com/w3Abhishek/nimhuml",
+        "license": "MIT",
+        "added_at": 1779668374
     }
 }
