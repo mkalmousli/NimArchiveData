@@ -145,5 +145,12 @@
         "url": "https://github.com/YesDrX/nim-subprocess",
         "license": "MIT",
         "added_at": 1779754939
+    },
+    "nim_debugger_mi": {
+        "id": "nim_debugger_mi",
+        "type": "git",
+        "url": "https://github.com/YesDrX/nimdebugger",
+        "license": "MIT",
+        "added_at": 1779754953
     }
 }
