@@ -61,5 +61,12 @@
         "url": "https://github.com/w3Abhishek/nimhuml",
         "license": "MIT",
         "added_at": 1779754775
+    },
+    "json2schema": {
+        "id": "json2schema",
+        "type": "git",
+        "url": "https://github.com/Luteva-ssh/json2schema",
+        "license": "MIT",
+        "added_at": 1779754786
     }
 }
