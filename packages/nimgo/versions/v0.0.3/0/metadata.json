@@ -1,9 +1,9 @@
 {
-    "checksum": "efe539b6ad077a86b9d253676139cb39d41f71f2e9a1892d57cf2897c1cc814a",
+    "checksum": "125c950bc0e3f302aa1ddfb209b09c18dff8bc0e910a61916b2ff15d092651d3",
     "commit": "bb1e017d8cf935ee36dd36ad59eb1d5750730c27",
     "source_hash": "1729946df3f13c7f12573337d743d9b6ac7f221b",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779755252,
+    "archived_at": 1779777007,
     "archive_name": "nimgo-v0.0.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
