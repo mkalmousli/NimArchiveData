@@ -782,5 +782,12 @@
         "url": "https://github.com/felipetesc/NimChromePath",
         "license": "MIT",
         "added_at": 1779829776
+    },
+    "nimbitarray": {
+        "id": "nimbitarray",
+        "type": "git",
+        "url": "https://github.com/YesDrX/bitarray",
+        "license": "MIT",
+        "added_at": 1779829782
     }
 }
