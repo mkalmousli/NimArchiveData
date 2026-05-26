@@ -1,9 +1,9 @@
 {
-    "checksum": "8cf91c5e84084fa07eae0e362aa74e8401c9db6505139f2af5ebbac15854635e",
+    "checksum": "49763f0424f8ced7ecdf2a35b43928c5f9d62c312fbcbf6bd3ce7d59b820ca12",
     "commit": "661f675d0dfdae94bb3803978b43abe43931f223",
     "source_hash": "43ff80fe169031f556444e60df005f4bbc7ed2ee",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779756375,
+    "archived_at": 1779778255,
     "archive_name": "gsl-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
