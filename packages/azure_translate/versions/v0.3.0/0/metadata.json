@@ -1,9 +1,9 @@
 {
-    "checksum": "0c8f619d69dc26155ab73ffb1a35f5ce7e8d6340a26e5f0e3d4cfcafcaddaeed",
+    "checksum": "ba6524bc2ba61e688ca47de77c4479be0c5cc77d82f8fdb68278673680cad7ef",
     "commit": "f4634bd6d0028634b342e915341fdcbf51519b02",
     "source_hash": "ae8d265858b22f7129eb9806ac13f7f6a7576cfc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779829521,
+    "archived_at": 1779843139,
     "archive_name": "azure_translate-v0.3.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
