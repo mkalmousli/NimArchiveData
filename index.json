@@ -509,5 +509,110 @@
         "url": "https://github.com/hitblast/mcsrvstat.nim",
         "license": "MIT",
         "added_at": 1779881362
+    },
+    "nimitheme": {
+        "id": "nimitheme",
+        "type": "git",
+        "url": "https://github.com/neroist/nimitheme",
+        "license": "MIT",
+        "added_at": 1779881400
+    },
+    "nimpretty_t": {
+        "id": "nimpretty_t",
+        "type": "git",
+        "url": "https://github.com/tobealive/nimpretty_t",
+        "license": "MIT",
+        "added_at": 1779881402
+    },
+    "webui": {
+        "id": "webui",
+        "type": "git",
+        "url": "https://github.com/webui-dev/nim-webui",
+        "license": "MIT",
+        "added_at": 1779881403
+    },
+    "unibs": {
+        "id": "unibs",
+        "type": "git",
+        "url": "https://github.com/choltreppe/unibs",
+        "license": "MIT",
+        "added_at": 1779881405
+    },
+    "polyrpc": {
+        "id": "polyrpc",
+        "type": "git",
+        "url": "https://github.com/choltreppe/polyrpc",
+        "license": "MIT",
+        "added_at": 1779881407
+    },
+    "arrayutils": {
+        "id": "arrayutils",
+        "type": "git",
+        "url": "https://github.com/choltreppe/arrayutils",
+        "license": "MIT",
+        "added_at": 1779881409
+    },
+    "objaccess": {
+        "id": "objaccess",
+        "type": "git",
+        "url": "https://github.com/choltreppe/objaccess",
+        "license": "MIT",
+        "added_at": 1779881410
+    },
+    "unroll": {
+        "id": "unroll",
+        "type": "git",
+        "url": "https://github.com/choltreppe/unroll",
+        "license": "MIT",
+        "added_at": 1779881412
+    },
+    "geolocation": {
+        "id": "geolocation",
+        "type": "git",
+        "url": "https://github.com/HazeCS/geolocation",
+        "license": "MIT",
+        "added_at": 1779881414
+    },
+    "uing": {
+        "id": "uing",
+        "type": "git",
+        "url": "https://github.com/neroist/uing",
+        "license": "MIT",
+        "added_at": 1779881415
+    },
+    "testdiff": {
+        "id": "testdiff",
+        "type": "git",
+        "url": "https://github.com/geotre/testdiff",
+        "license": "MIT",
+        "added_at": 1779881417
+    },
+    "parlexgen": {
+        "id": "parlexgen",
+        "type": "git",
+        "url": "https://github.com/choltreppe/parlexgen",
+        "license": "MIT",
+        "added_at": 1779881419
+    },
+    "nimcorpora": {
+        "id": "nimcorpora",
+        "type": "git",
+        "url": "https://github.com/neroist/nimcorpora",
+        "license": "0BSD",
+        "added_at": 1779881421
+    },
+    "htest": {
+        "id": "htest",
+        "type": "git",
+        "url": "https://github.com/Yandall/HTest/",
+        "license": "MIT",
+        "added_at": 1779881422
+    },
+    "passy": {
+        "id": "passy",
+        "type": "git",
+        "url": "https://github.com/infinitybeond1/passy",
+        "license": "GPL3",
+        "added_at": 1779881424
     }
 }
