@@ -964,5 +964,817 @@
         "url": "https://github.com/Xe/argument_parser/",
         "license": "MIT",
         "added_at": 1779882392
+    },
+    "genieos": {
+        "id": "genieos",
+        "type": "git",
+        "url": "https://github.com/Araq/genieos/",
+        "license": "MIT",
+        "added_at": 1779882432
+    },
+    "jester": {
+        "id": "jester",
+        "type": "git",
+        "url": "https://github.com/dom96/jester/",
+        "license": "MIT",
+        "added_at": 1779882434
+    },
+    "nanim": {
+        "id": "nanim",
+        "type": "git",
+        "url": "https://github.com/ErikWDev/nanim/",
+        "license": "MIT",
+        "added_at": 1779882436
+    },
+    "templates": {
+        "id": "templates",
+        "type": "git",
+        "url": "https://github.com/onionhammer/nim-templates.git",
+        "license": "BSD",
+        "added_at": 1779882438
+    },
+    "murmur": {
+        "id": "murmur",
+        "type": "git",
+        "url": "https://github.com/olahol/nimrod-murmur/",
+        "license": "MIT",
+        "added_at": 1779882440
+    },
+    "libtcod_nim": {
+        "id": "libtcod_nim",
+        "type": "git",
+        "url": "https://github.com/Vladar4/libtcod_nim/",
+        "license": "zlib",
+        "added_at": 1779882442
+    },
+    "nimgame": {
+        "id": "nimgame",
+        "type": "git",
+        "url": "https://github.com/Vladar4/nimgame/",
+        "license": "MIT",
+        "added_at": 1779882444
+    },
+    "nimgame2": {
+        "id": "nimgame2",
+        "type": "git",
+        "url": "https://github.com/Vladar4/nimgame2/",
+        "license": "MIT",
+        "added_at": 1779882446
+    },
+    "sfml": {
+        "id": "sfml",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-sfml/",
+        "license": "MIT",
+        "added_at": 1779882447
+    },
+    "enet": {
+        "id": "enet",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-enet/",
+        "license": "MIT",
+        "added_at": 1779882449
+    },
+    "locale": {
+        "id": "locale",
+        "type": "git",
+        "url": "https://github.com/nim-community/nim-locale",
+        "license": "MIT",
+        "added_at": 1779882451
+    },
+    "fowltek": {
+        "id": "fowltek",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimlibs/",
+        "license": "MIT",
+        "added_at": 1779882453
+    },
+    "nake": {
+        "id": "nake",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nake/",
+        "license": "MIT",
+        "added_at": 1779882455
+    },
+    "nimrod-glfw": {
+        "id": "nimrod-glfw",
+        "type": "git",
+        "url": "https://github.com/rafaelvasco/nimrod-glfw/",
+        "license": "MIT",
+        "added_at": 1779882457
+    },
+    "chipmunk6": {
+        "id": "chipmunk6",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nimrod-chipmunk/",
+        "license": "MIT",
+        "added_at": 1779882458
+    },
+    "chipmunk7_demos": {
+        "id": "chipmunk7_demos",
+        "type": "git",
+        "url": "https://github.com/matkuki/chipmunk7_demos/",
+        "license": "MIT",
+        "added_at": 1779882460
+    },
+    "glfw": {
+        "id": "glfw",
+        "type": "git",
+        "url": "https://github.com/johnnovak/nim-glfw",
+        "license": "MIT",
+        "added_at": 1779882462
+    },
+    "ao": {
+        "id": "ao",
+        "type": "git",
+        "url": "https://github.com/ephja/nim-ao",
+        "license": "MIT",
+        "added_at": 1779882464
+    },
+    "termbox": {
+        "id": "termbox",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/nim-termbox",
+        "license": "MIT",
+        "added_at": 1779882466
+    },
+    "kwin": {
+        "id": "kwin",
+        "type": "git",
+        "url": "https://github.com/reactormonk/nim-kwin",
+        "license": "MIT",
+        "added_at": 1779882467
+    },
+    "opencv": {
+        "id": "opencv",
+        "type": "git",
+        "url": "https://github.com/dom96/nim-opencv",
+        "license": "MIT",
+        "added_at": 1779882469
+    },
+    "nimble": {
+        "id": "nimble",
+        "type": "git",
+        "url": "https://github.com/nim-lang/nimble",
+        "license": "BSD",
+        "added_at": 1779882471
+    },
+    "libnx": {
+        "id": "libnx",
+        "type": "git",
+        "url": "https://github.com/jyapayne/nim-libnx",
+        "license": "Unlicense",
+        "added_at": 1779882472
+    },
+    "switch_build": {
+        "id": "switch_build",
+        "type": "git",
+        "url": "https://github.com/jyapayne/switch-build",
+        "license": "MIT",
+        "added_at": 1779882474
+    },
+    "aporia": {
+        "id": "aporia",
+        "type": "git",
+        "url": "https://github.com/nim-lang/Aporia",
+        "license": "GPLv2",
+        "added_at": 1779882476
+    },
+    "c2nim": {
+        "id": "c2nim",
+        "type": "git",
+        "url": "https://github.com/nim-lang/c2nim",
+        "license": "MIT",
+        "added_at": 1779882477
+    },
+    "threading": {
+        "id": "threading",
+        "type": "git",
+        "url": "https://github.com/nim-lang/threading",
+        "license": "MIT",
+        "added_at": 1779882479
+    },
+    "pas2nim": {
+        "id": "pas2nim",
+        "type": "git",
+        "url": "https://github.com/nim-lang/pas2nim",
+        "license": "MIT",
+        "added_at": 1779882481
+    },
+    "ipsumgenera": {
+        "id": "ipsumgenera",
+        "type": "git",
+        "url": "https://github.com/dom96/ipsumgenera",
+        "license": "MIT",
+        "added_at": 1779882483
+    },
+    "clibpp": {
+        "id": "clibpp",
+        "type": "git",
+        "url": "https://github.com/onionhammer/clibpp.git",
+        "license": "MIT",
+        "added_at": 1779882484
+    },
+    "pastebin": {
+        "id": "pastebin",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-pastebin",
+        "license": "MIT",
+        "added_at": 1779882487
+    },
+    "yahooweather": {
+        "id": "yahooweather",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-yahooweather",
+        "license": "MIT",
+        "added_at": 1779882488
+    },
+    "noaa": {
+        "id": "noaa",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-noaa",
+        "license": "MIT",
+        "added_at": 1779882490
+    },
+    "rss": {
+        "id": "rss",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-rss",
+        "license": "MIT",
+        "added_at": 1779882492
+    },
+    "extmath": {
+        "id": "extmath",
+        "type": "git",
+        "url": "https://github.com/achesak/extmath.nim",
+        "license": "MIT",
+        "added_at": 1779882494
+    },
+    "gtk2": {
+        "id": "gtk2",
+        "type": "git",
+        "url": "https://github.com/nim-lang/gtk2",
+        "license": "MIT",
+        "added_at": 1779882495
+    },
+    "cairo": {
+        "id": "cairo",
+        "type": "git",
+        "url": "https://github.com/nim-lang/cairo",
+        "license": "MIT",
+        "added_at": 1779882497
+    },
+    "x11": {
+        "id": "x11",
+        "type": "git",
+        "url": "https://github.com/nim-lang/x11",
+        "license": "MIT",
+        "added_at": 1779882499
+    },
+    "opengl": {
+        "id": "opengl",
+        "type": "git",
+        "url": "https://github.com/nim-lang/opengl",
+        "license": "MIT",
+        "added_at": 1779882501
+    },
+    "lua": {
+        "id": "lua",
+        "type": "git",
+        "url": "https://github.com/nim-lang/lua",
+        "license": "MIT",
+        "added_at": 1779882502
+    },
+    "tcl": {
+        "id": "tcl",
+        "type": "git",
+        "url": "https://github.com/nim-lang/tcl",
+        "license": "MIT",
+        "added_at": 1779882504
+    },
+    "glm": {
+        "id": "glm",
+        "type": "git",
+        "url": "https://github.com/stavenko/nim-glm",
+        "license": "MIT",
+        "added_at": 1779882506
+    },
+    "python": {
+        "id": "python",
+        "type": "git",
+        "url": "https://github.com/nim-lang/python",
+        "license": "MIT",
+        "added_at": 1779882508
+    },
+    "NimBorg": {
+        "id": "NimBorg",
+        "type": "git",
+        "url": "https://github.com/micklat/NimBorg",
+        "license": "MIT",
+        "added_at": 1779882509
+    },
+    "sha1": {
+        "id": "sha1",
+        "type": "git",
+        "url": "https://github.com/onionhammer/sha1",
+        "license": "BSD",
+        "added_at": 1779882511
+    },
+    "dropbox_filename_sanitizer": {
+        "id": "dropbox_filename_sanitizer",
+        "type": "git",
+        "url": "https://github.com/Araq/dropbox_filename_sanitizer/",
+        "license": "MIT",
+        "added_at": 1779882513
+    },
+    "csv": {
+        "id": "csv",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-csv",
+        "license": "MIT",
+        "added_at": 1779882514
+    },
+    "geonames": {
+        "id": "geonames",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-geonames",
+        "license": "MIT",
+        "added_at": 1779882516
+    },
+    "gravatar": {
+        "id": "gravatar",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-gravatar",
+        "license": "MIT",
+        "added_at": 1779882517
+    },
+    "coverartarchive": {
+        "id": "coverartarchive",
+        "type": "git",
+        "url": "https://github.com/achesak/nim-coverartarchive",
+        "license": "MIT",
+        "added_at": 1779882519
+    },
+    "commandeer": {
+        "id": "commandeer",
+        "type": "git",
+        "url": "https://github.com/fenekku/commandeer",
+        "license": "MIT",
+        "added_at": 1779882520
+    },
+    "bloom": {
+        "id": "bloom",
+        "type": "git",
+        "url": "https://github.com/boydgreenfield/nimrod-bloom",
+        "license": "MIT",
+        "added_at": 1779882522
+    },
+    "awesome_rmdir": {
+        "id": "awesome_rmdir",
+        "type": "git",
+        "url": "https://github.com/Araq/awesome_rmdir/",
+        "license": "MIT",
+        "added_at": 1779882523
+    },
+    "nimalpm": {
+        "id": "nimalpm",
+        "type": "git",
+        "url": "https://github.com/barcharcraz/nimalpm/",
+        "license": "GPLv2",
+        "added_at": 1779882525
+    },
+    "png": {
+        "id": "png",
+        "type": "git",
+        "url": "https://github.com/barcharcraz/nimlibpng",
+        "license": "libpng",
+        "added_at": 1779882527
+    },
+    "sdl2": {
+        "id": "sdl2",
+        "type": "git",
+        "url": "https://github.com/nim-lang/sdl2",
+        "license": "MIT",
+        "added_at": 1779882528
+    },
+    "gamelib": {
+        "id": "gamelib",
+        "type": "git",
+        "url": "https://github.com/PMunch/SDLGamelib",
+        "license": "MIT",
+        "added_at": 1779882530
+    },
+    "nimcr": {
+        "id": "nimcr",
+        "type": "git",
+        "url": "https://github.com/PMunch/nimcr",
+        "license": "MIT",
+        "added_at": 1779882532
+    },
+    "gtkgenui": {
+        "id": "gtkgenui",
+        "type": "git",
+        "url": "https://github.com/PMunch/gtkgenui",
+        "license": "MIT",
+        "added_at": 1779882533
+    },
+    "persvector": {
+        "id": "persvector",
+        "type": "git",
+        "url": "https://github.com/PMunch/nim-persistent-vector",
+        "license": "MIT",
+        "added_at": 1779882535
+    },
+    "pcap": {
+        "id": "pcap",
+        "type": "git",
+        "url": "https://github.com/PMunch/nim-pcap",
+        "license": "MIT",
+        "added_at": 1779882536
+    },
+    "drawille": {
+        "id": "drawille",
+        "type": "git",
+        "url": "https://github.com/PMunch/drawille-nim",
+        "license": "MIT",
+        "added_at": 1779882538
+    },
+    "binaryparse": {
+        "id": "binaryparse",
+        "type": "git",
+        "url": "https://github.com/PMunch/binaryparse",
+        "license": "MIT",
+        "added_at": 1779882540
+    },
+    "libkeepass": {
+        "id": "libkeepass",
+        "type": "git",
+        "url": "https://github.com/PMunch/libkeepass",
+        "license": "MIT",
+        "added_at": 1779882541
+    },
+    "zhsh": {
+        "id": "zhsh",
+        "type": "git",
+        "url": "https://github.com/PMunch/zhangshasha",
+        "license": "MIT",
+        "added_at": 1779882543
+    },
+    "termstyle": {
+        "id": "termstyle",
+        "type": "git",
+        "url": "https://github.com/PMunch/termstyle",
+        "license": "MIT",
+        "added_at": 1779882544
+    },
+    "combparser": {
+        "id": "combparser",
+        "type": "git",
+        "url": "https://github.com/PMunch/combparser",
+        "license": "MIT",
+        "added_at": 1779882546
+    },
+    "protobuf": {
+        "id": "protobuf",
+        "type": "git",
+        "url": "https://github.com/PMunch/protobuf-nim",
+        "license": "MIT",
+        "added_at": 1779882548
+    },
+    "strslice": {
+        "id": "strslice",
+        "type": "git",
+        "url": "https://github.com/PMunch/strslice",
+        "license": "MIT",
+        "added_at": 1779882549
+    },
+    "jsonschema": {
+        "id": "jsonschema",
+        "type": "git",
+        "url": "https://github.com/PMunch/jsonschema",
+        "license": "MIT",
+        "added_at": 1779882551
+    },
+    "nimlangserver": {
+        "id": "nimlangserver",
+        "type": "git",
+        "url": "https://github.com/nim-lang/langserver",
+        "license": "MIT",
+        "added_at": 1779882553
+    },
+    "nimlsp": {
+        "id": "nimlsp",
+        "type": "git",
+        "url": "https://github.com/PMunch/nimlsp",
+        "license": "MIT",
+        "added_at": 1779882554
+    },
+    "optionsutils": {
+        "id": "optionsutils",
+        "type": "git",
+        "url": "https://github.com/PMunch/nim-optionsutils",
+        "license": "MIT",
+        "added_at": 1779882556
+    },
+    "getmac": {
+        "id": "getmac",
+        "type": "git",
+        "url": "https://github.com/PMunch/getmac",
+        "license": "MIT",
+        "added_at": 1779882557
+    },
+    "macroutils": {
+        "id": "macroutils",
+        "type": "git",
+        "url": "https://github.com/PMunch/macroutils",
+        "license": "MIT",
+        "added_at": 1779882559
+    },
+    "ansiparse": {
+        "id": "ansiparse",
+        "type": "git",
+        "url": "https://github.com/PMunch/ansiparse",
+        "license": "MIT",
+        "added_at": 1779882561
+    },
+    "ansitohtml": {
+        "id": "ansitohtml",
+        "type": "git",
+        "url": "https://github.com/PMunch/ansitohtml",
+        "license": "MIT",
+        "added_at": 1779882562
+    },
+    "xevloop": {
+        "id": "xevloop",
+        "type": "git",
+        "url": "https://github.com/PMunch/xevloop",
+        "license": "MIT",
+        "added_at": 1779882564
+    },
+    "nancy": {
+        "id": "nancy",
+        "type": "git",
+        "url": "https://github.com/PMunch/nancy",
+        "license": "MIT",
+        "added_at": 1779882565
+    },
+    "imlib2": {
+        "id": "imlib2",
+        "type": "git",
+        "url": "https://github.com/PMunch/Imlib2",
+        "license": "MIT",
+        "added_at": 1779882567
+    },
+    "notificatcher": {
+        "id": "notificatcher",
+        "type": "git",
+        "url": "https://github.com/PMunch/notificatcher",
+        "license": "MIT",
+        "added_at": 1779882568
+    },
+    "notifishower": {
+        "id": "notifishower",
+        "type": "git",
+        "url": "https://github.com/PMunch/notifishower",
+        "license": "MIT",
+        "added_at": 1779882570
+    },
+    "wxnim": {
+        "id": "wxnim",
+        "type": "git",
+        "url": "https://github.com/PMunch/wxnim",
+        "license": "MIT",
+        "added_at": 1779882572
+    },
+    "futhark": {
+        "id": "futhark",
+        "type": "git",
+        "url": "https://github.com/PMunch/futhark",
+        "license": "MIT",
+        "added_at": 1779882573
+    },
+    "ratel": {
+        "id": "ratel",
+        "type": "git",
+        "url": "https://github.com/PMunch/ratel",
+        "license": "MIT",
+        "added_at": 1779882575
+    },
+    "coap": {
+        "id": "coap",
+        "type": "git",
+        "url": "https://github.com/PMunch/libcoap",
+        "license": "MIT",
+        "added_at": 1779882577
+    },
+    "ikeahomesmart": {
+        "id": "ikeahomesmart",
+        "type": "git",
+        "url": "https://github.com/PMunch/ikeahomesmart",
+        "license": "MIT",
+        "added_at": 1779882579
+    },
+    "autotemplate": {
+        "id": "autotemplate",
+        "type": "git",
+        "url": "https://github.com/PMunch/autotemplate",
+        "license": "MIT",
+        "added_at": 1779882580
+    },
+    "deriveables": {
+        "id": "deriveables",
+        "type": "git",
+        "url": "https://github.com/PMunch/deriveables",
+        "license": "MIT",
+        "added_at": 1779882582
+    },
+    "mapm": {
+        "id": "mapm",
+        "type": "git",
+        "url": "https://github.com/PMunch/mapm-nim",
+        "license": "MIT+Freeware",
+        "added_at": 1779882584
+    },
+    "sdl2_nim": {
+        "id": "sdl2_nim",
+        "type": "git",
+        "url": "https://github.com/Vladar4/sdl2_nim",
+        "license": "zlib",
+        "added_at": 1779882585
+    },
+    "assimp": {
+        "id": "assimp",
+        "type": "git",
+        "url": "https://github.com/barcharcraz/nim-assimp",
+        "license": "MIT",
+        "added_at": 1779882587
+    },
+    "freeimage": {
+        "id": "freeimage",
+        "type": "git",
+        "url": "https://github.com/barcharcraz/nim-freeimage",
+        "license": "MIT",
+        "added_at": 1779882588
+    },
+    "bcrypt": {
+        "id": "bcrypt",
+        "type": "git",
+        "url": "https://github.com/ithkuil/bcryptnim/",
+        "license": "BSD",
+        "added_at": 1779882590
+    },
+    "opencl": {
+        "id": "opencl",
+        "type": "git",
+        "url": "https://github.com/nim-lang/opencl",
+        "license": "MIT",
+        "added_at": 1779882592
+    },
+    "DevIL": {
+        "id": "DevIL",
+        "type": "git",
+        "url": "https://github.com/Varriount/DevIL",
+        "license": "MIT",
+        "added_at": 1779882593
+    },
+    "signals": {
+        "id": "signals",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/signals.nim",
+        "license": "MIT",
+        "added_at": 1779882595
+    },
+    "sling": {
+        "id": "sling",
+        "type": "git",
+        "url": "https://github.com/Druage/sling",
+        "license": "unlicense",
+        "added_at": 1779882597
+    },
+    "number_files": {
+        "id": "number_files",
+        "type": "git",
+        "url": "https://github.com/Araq/number_files/",
+        "license": "MIT",
+        "added_at": 1779882598
+    },
+    "redissessions": {
+        "id": "redissessions",
+        "type": "git",
+        "url": "https://github.com/ithkuil/redissessions/",
+        "license": "MIT",
+        "added_at": 1779882600
+    },
+    "horde3d": {
+        "id": "horde3d",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/horde3d",
+        "license": "WTFPL",
+        "added_at": 1779882602
+    },
+    "mongo": {
+        "id": "mongo",
+        "type": "git",
+        "url": "https://github.com/nim-lang/mongo",
+        "license": "MIT",
+        "added_at": 1779882604
+    },
+    "allegro5": {
+        "id": "allegro5",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/allegro5",
+        "license": "MIT",
+        "added_at": 1779882606
+    },
+    "physfs": {
+        "id": "physfs",
+        "type": "git",
+        "url": "https://github.com/fowlmouth/physfs",
+        "license": "WTFPL",
+        "added_at": 1779882608
+    },
+    "shoco": {
+        "id": "shoco",
+        "type": "git",
+        "url": "https://github.com/onionhammer/shoconim.git",
+        "license": "MIT",
+        "added_at": 1779882609
+    },
+    "murmur3": {
+        "id": "murmur3",
+        "type": "git",
+        "url": "https://github.com/boydgreenfield/nimrod-murmur",
+        "license": "MIT",
+        "added_at": 1779882611
+    },
+    "hex": {
+        "id": "hex",
+        "type": "git",
+        "url": "https://github.com/esbullington/nimrod-hex",
+        "license": "MIT",
+        "added_at": 1779882613
+    },
+    "strfmt": {
+        "id": "strfmt",
+        "type": "git",
+        "url": "https://github.com/bio-nim/nim-strfmt",
+        "license": "MIT",
+        "added_at": 1779882615
+    },
+    "jade-nim": {
+        "id": "jade-nim",
+        "type": "git",
+        "url": "https://github.com/idlewan/jade-nim",
+        "license": "MIT",
+        "added_at": 1779882616
+    },
+    "gh_nimrod_doc_pages": {
+        "id": "gh_nimrod_doc_pages",
+        "type": "git",
+        "url": "https://github.com/Araq/gh_nimrod_doc_pages",
+        "license": "MIT",
+        "added_at": 1779882618
+    },
+    "midnight_dynamite": {
+        "id": "midnight_dynamite",
+        "type": "git",
+        "url": "https://github.com/Araq/midnight_dynamite",
+        "license": "MIT",
+        "added_at": 1779882619
+    },
+    "rsvg": {
+        "id": "rsvg",
+        "type": "git",
+        "url": "https://github.com/def-/rsvg",
+        "license": "MIT",
+        "added_at": 1779882621
+    },
+    "emerald": {
+        "id": "emerald",
+        "type": "git",
+        "url": "https://github.com/flyx/emerald",
+        "license": "WTFPL",
+        "added_at": 1779882623
+    },
+    "niminst": {
+        "id": "niminst",
+        "type": "git",
+        "url": "https://github.com/nim-lang/niminst",
+        "license": "MIT",
+        "added_at": 1779882624
+    },
+    "redis": {
+        "id": "redis",
+        "type": "git",
+        "url": "https://github.com/nim-lang/redis",
+        "license": "MIT",
+        "added_at": 1779882626
+    },
+    "dialogs": {
+        "id": "dialogs",
+        "type": "git",
+        "url": "https://github.com/nim-lang/dialogs",
+        "license": "MIT",
+        "added_at": 1779882628
     }
 }
