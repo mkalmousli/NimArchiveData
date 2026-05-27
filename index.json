@@ -166,5 +166,12 @@
         "url": "https://github.com/YesDrX/nimproto3",
         "license": "MIT",
         "added_at": 1779863741
+    },
+    "owasp_encoder": {
+        "id": "owasp_encoder",
+        "type": "git",
+        "url": "https://github.com/superkelvint/owasp-encoder-nim",
+        "license": "BSD-3-Clause",
+        "added_at": 1779863906
     }
 }
