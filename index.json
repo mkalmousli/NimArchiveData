@@ -460,5 +460,12 @@
         "url": "https://github.com/dschaadt/sun_moon",
         "license": "MIT",
         "added_at": 1779881174
+    },
+    "nimip": {
+        "id": "nimip",
+        "type": "git",
+        "url": "https://github.com/hitblast/nimip",
+        "license": "MIT",
+        "added_at": 1779881182
     }
 }
