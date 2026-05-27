@@ -187,5 +187,12 @@
         "url": "https://github.com/bk20x/uleb128",
         "license": "MIT",
         "added_at": 1779841704
+    },
+    "spectra": {
+        "id": "spectra",
+        "type": "git",
+        "url": "https://github.com/ph4mished/spectra",
+        "license": "MIT",
+        "added_at": 1779841709
     }
 }
