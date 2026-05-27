@@ -789,5 +789,12 @@
         "url": "https://github.com/YesDrX/bitarray",
         "license": "MIT",
         "added_at": 1779843382
+    },
+    "torim": {
+        "id": "torim",
+        "type": "git",
+        "url": "https://github.com/Techno-Fox/torim",
+        "license": "GPL-3.0",
+        "added_at": 1779843393
     }
 }
