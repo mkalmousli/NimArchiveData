@@ -775,5 +775,152 @@
         "url": "https://github.com/arturo-lang/arturo",
         "license": "MIT",
         "added_at": 1779881772
+    },
+    "nimchromepath": {
+        "id": "nimchromepath",
+        "type": "git",
+        "url": "https://github.com/felipetesc/NimChromePath",
+        "license": "MIT",
+        "added_at": 1779882008
+    },
+    "nimbitarray": {
+        "id": "nimbitarray",
+        "type": "git",
+        "url": "https://github.com/YesDrX/bitarray",
+        "license": "MIT",
+        "added_at": 1779882009
+    },
+    "torim": {
+        "id": "torim",
+        "type": "git",
+        "url": "https://github.com/Techno-Fox/torim",
+        "license": "GPL-3.0",
+        "added_at": 1779882011
+    },
+    "jupyternim": {
+        "id": "jupyternim",
+        "type": "git",
+        "url": "https://github.com/stisa/jupyternim",
+        "license": "MIT",
+        "added_at": 1779882015
+    },
+    "randgen": {
+        "id": "randgen",
+        "type": "git",
+        "url": "https://github.com/YesDrX/randgen",
+        "license": "MIT",
+        "added_at": 1779882016
+    },
+    "numnim": {
+        "id": "numnim",
+        "type": "git",
+        "url": "https://github.com/YesDrX/numnim",
+        "license": "MIT",
+        "added_at": 1779882018
+    },
+    "filesize": {
+        "id": "filesize",
+        "type": "git",
+        "url": "https://github.com/sergiotapia/filesize",
+        "license": "MIT",
+        "added_at": 1779882020
+    },
+    "argon2_bind": {
+        "id": "argon2_bind",
+        "type": "git",
+        "url": "https://github.com/D-Nice/argon2_bind",
+        "license": "Apache-2.0",
+        "added_at": 1779882022
+    },
+    "nbaser": {
+        "id": "nbaser",
+        "type": "git",
+        "url": "https://github.com/D-Nice/nbaser",
+        "license": "Apache-2.0",
+        "added_at": 1779882024
+    },
+    "nio": {
+        "id": "nio",
+        "type": "git",
+        "url": "https://github.com/c-blake/nio",
+        "license": "MIT",
+        "added_at": 1779882025
+    },
+    "decisiontree": {
+        "id": "decisiontree",
+        "type": "git",
+        "url": "https://github.com/Michedev/DecisionTreeNim",
+        "license": "GPL-3.0",
+        "added_at": 1779882027
+    },
+    "tsv2json": {
+        "id": "tsv2json",
+        "type": "git",
+        "url": "https://github.com/hectormonacci/tsv2json",
+        "license": "MIT",
+        "added_at": 1779882029
+    },
+    "nimler": {
+        "id": "nimler",
+        "type": "git",
+        "url": "https://github.com/wltsmrz/nimler",
+        "license": "MIT",
+        "added_at": 1779882030
+    },
+    "zstd": {
+        "id": "zstd",
+        "type": "git",
+        "url": "https://github.com/wltsmrz/nim_zstd",
+        "license": "MIT",
+        "added_at": 1779882032
+    },
+    "QuickJS4nim": {
+        "id": "QuickJS4nim",
+        "type": "git",
+        "url": "https://github.com/ImVexed/quickjs4nim",
+        "license": "MIT",
+        "added_at": 1779882034
+    },
+    "BitVector": {
+        "id": "BitVector",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/BitVector",
+        "license": "MIT",
+        "added_at": 1779882036
+    },
+    "RollingHash": {
+        "id": "RollingHash",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/RollingHash",
+        "license": "MIT",
+        "added_at": 1779882038
+    },
+    "BipBuffer": {
+        "id": "BipBuffer",
+        "type": "git",
+        "url": "https://github.com/MarcAzar/BipBuffer",
+        "license": "MIT",
+        "added_at": 1779882039
+    },
+    "whip": {
+        "id": "whip",
+        "type": "git",
+        "url": "https://github.com/mattaylor/whip",
+        "license": "MIT",
+        "added_at": 1779882041
+    },
+    "elvis": {
+        "id": "elvis",
+        "type": "git",
+        "url": "https://github.com/mattaylor/elvis",
+        "license": "MIT",
+        "added_at": 1779882042
+    },
+    "nimrun": {
+        "id": "nimrun",
+        "type": "git",
+        "url": "https://github.com/lee-b/nimrun",
+        "license": "MIT",
+        "added_at": 1779882044
     }
 }
