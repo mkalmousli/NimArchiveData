@@ -929,5 +929,12 @@
         "url": "https://github.com/Michedev/sequtils2",
         "license": "MIT",
         "added_at": 1779882088
+    },
+    "github_api": {
+        "id": "github_api",
+        "type": "git",
+        "url": "https://github.com/watzon/github-api-nim",
+        "license": "WTFPL",
+        "added_at": 1779882165
     }
 }
