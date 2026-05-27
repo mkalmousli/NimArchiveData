@@ -1,9 +1,9 @@
 {
-    "checksum": "1bec754cc84c0d67782b52217ae256393fb2aa0227243b99ebae86ff33e6ae78",
+    "checksum": "26f2ddcb8ec4f40a0a4e9d40636a771a758070fcff573743979cb8a7e1163ee3",
     "commit": "3287bfdaca7beaff8f9009a2e6c3b660694cc2d7",
     "source_hash": "695bb1677f133183136d6ac657f99727f2fc0052",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779843032,
+    "archived_at": 1779865944,
     "archive_name": "lrparser-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
