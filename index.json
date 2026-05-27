@@ -796,5 +796,12 @@
         "url": "https://github.com/Techno-Fox/torim",
         "license": "GPL-3.0",
         "added_at": 1779843393
+    },
+    "jupyternim": {
+        "id": "jupyternim",
+        "type": "git",
+        "url": "https://github.com/stisa/jupyternim",
+        "license": "MIT",
+        "added_at": 1779843398
     }
 }
