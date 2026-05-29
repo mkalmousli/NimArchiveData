@@ -1,9 +1,9 @@
 {
-    "checksum": "18e12215b315460b99d4b34764ddf59f4ac3760b9fcbce6c79ae13a713b7fdb6",
-    "commit": "ef2033b3f62fd9293c1683554183a690646e6b79",
-    "source_hash": "d9b4d08459ff9e33dd6079be208910962d280a4e",
+    "checksum": "429fb75e708b7a8c0515b514fb5005343e25e9baf512092aafddf3b9003f9fee",
+    "commit": "c0c012638462783add69a349e08d782701377581",
+    "source_hash": "d02f0c15ac65754254d58199e3f1564a1ee301d9",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154440,
+    "archived_at": 1780018638,
     "archive_name": "atlas-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
