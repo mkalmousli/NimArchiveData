@@ -96,5 +96,5 @@ häte5d
 ```
 
 ## license
-LGPL 3.0 (see [LICENSE](LICENSE).)
-Games made with häte5d are **not** required to be open source.
+LGPL 3.0 (see [LICENSE](LICENSE.md).)
+Games made with häte5d are **not** required to be open source (read [NOTICE](NOTICE.md)).
