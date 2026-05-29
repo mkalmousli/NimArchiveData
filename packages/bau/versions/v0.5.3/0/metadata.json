@@ -1,10 +1,10 @@
 {
-    "checksum": "74361ee6da1aca35a56046e63dfe09f4c9046d5d987839033eafb46e2c80ba8a",
+    "checksum": "c1ec031f6a7f5ffdaff6b958f1ce8939f84535d3cbcbc4d0d7dc9af19df7a76f",
     "commit": "68d1d101f4b99d630c7240138437f66ce0916426",
     "source_hash": "819965b090575f8175aeb1b3dbd57e2fd4765f24",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780019162,
-    "archive_name": "bau-latest.tar.gz",
+    "archived_at": 1780019164,
+    "archive_name": "bau-v0.5.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
