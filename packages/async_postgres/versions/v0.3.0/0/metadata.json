@@ -1,10 +1,10 @@
 {
-    "checksum": "9df3bfb2446babeba7fc30de010b920f6a8095a1d2f54609f0356e6347ff73b7",
+    "checksum": "1b74828c6562e70f28df341becfdb13c34fd69471b94739e9a6c4d8dadb8e34d",
     "commit": "2ac2d89ccf1bffaf8410acd0365f685d72b9cb1c",
     "source_hash": "77700875346f5ea6bfba9aab281b27b439f834c6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780018101,
-    "archive_name": "async_postgres-latest.tar.gz",
+    "archived_at": 1780018102,
+    "archive_name": "async_postgres-v0.3.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
