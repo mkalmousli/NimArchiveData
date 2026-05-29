@@ -1,9 +1,9 @@
 {
-    "checksum": "64b334a515f1cc54ebd385fa12ace5da6e7b70337adec8314178ebb4e78eb993",
+    "checksum": "ff2fda820fe8043b095c3ddd18afdcda8b8c47d60ec026fe3929af6a873f9b51",
     "commit": "59398c623876a9a641a81318b6b05617f92dbe7a",
     "source_hash": "9f11a27a452e358f3bf2b306ff3396e02419cebf",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780017910,
-    "archive_name": "nimtra-latest.tar.gz",
+    "archived_at": 1780017916,
+    "archive_name": "nimtra-0.2.2.tar.gz",
     "readme": "README.md"
 }
