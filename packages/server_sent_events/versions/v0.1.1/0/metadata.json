@@ -1,9 +1,9 @@
 {
-    "checksum": "8be5a62a9c58574ddea18b5c54977519bfcd3772e87c74f50bf779ce43afae86",
+    "checksum": "7893575b37f34012cdfd7c3a29d654b887bd29bb152837d173dec11202a21a3d",
     "commit": "93e721c82c05d1a9881980b242890c76ecee0847",
     "source_hash": "a8604355aaa20ef3b16fea6020f8f58ef88965f3",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154061,
+    "archived_at": 1780018272,
     "archive_name": "server_sent_events-v0.1.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
