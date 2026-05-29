@@ -18961,5 +18961,12 @@
         "url": "https://github.com/jmgomez/kairos",
         "license": "MIT",
         "added_at": 1780018475
+    },
+    "nimgeos": {
+        "id": "nimgeos",
+        "type": "git",
+        "url": "https://github.com/JohnMoutafis/nimgeos",
+        "license": "MIT",
+        "added_at": 1780018488
     }
 }
