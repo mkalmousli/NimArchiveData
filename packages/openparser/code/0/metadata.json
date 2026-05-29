@@ -1,9 +1,9 @@
 {
-    "checksum": "9d869c76e1341caa4af23ae4303cedf389a1651bd612cf48a63428932f1d60a3",
-    "commit": "9aba43cafe9d92b6188b5a12a3bab5d168973ed4",
-    "source_hash": "5a869038730290a9b9d56b9a8ceba1f38bed5bd9",
+    "checksum": "c9fde399f1c0642a773d5d95c9cc83efa611c2695d2da830245cfa3bcfa8fdee",
+    "commit": "2813021e39925d3b97c999bc31e8974ab70f092c",
+    "source_hash": "69878bb4386ec7b0577313c0af342c1a3a29a41b",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154620,
+    "archived_at": 1780018840,
     "archive_name": "openparser-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
