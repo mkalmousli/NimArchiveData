@@ -19150,5 +19150,12 @@
         "url": "https://github.com/sednoids/Nimduvo",
         "license": "MIT License",
         "added_at": 1780019068
+    },
+    "libsql": {
+        "id": "libsql",
+        "type": "git",
+        "url": "https://github.com/bung87/libsql",
+        "license": "MIT",
+        "added_at": 1780019087
     }
 }
