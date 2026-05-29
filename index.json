@@ -19241,5 +19241,12 @@
         "url": "https://github.com/AmanoTeam/httpquery",
         "license": "LGPL-3.0",
         "added_at": 1780019244
+    },
+    "nexum": {
+        "id": "nexum",
+        "type": "git",
+        "url": "https://github.com/nim-community/nexum",
+        "license": "AGPL-3.0",
+        "added_at": 1780019252
     }
 }
