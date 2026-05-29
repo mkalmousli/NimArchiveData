@@ -1,9 +1,9 @@
 {
-    "checksum": "42e4c0e18b66fdcb3dec11ea45b32026be6082fed7a2e3ea37a6b131e063eca1",
+    "checksum": "eb3c54b8ccb14deda1137a3af60481c00750668789b815676c73dad6ff2ee307",
     "commit": "5612a76eb3a31612ed20f731c149cc618ac41714",
     "source_hash": "5e8d22abc4b812f99e66957b2097d4dc43372cf3",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154860,
+    "archived_at": 1780019109,
     "archive_name": "opendmarc-0.1.0.tar.gz",
     "readme": "README.md"
 }
