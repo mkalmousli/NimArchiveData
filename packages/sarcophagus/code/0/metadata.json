@@ -1,9 +1,9 @@
 {
-    "checksum": "fc27ef474e49058d957efa983044cec948e532ad768d3f36dd779f8ea6f60e6d",
-    "commit": "359fca27632176adf4bfdd8dd9774a03aba00c58",
-    "source_hash": "72f02bfe1eb3650c94d82ec9b4cfe4812f58f781",
+    "checksum": "547167829fa4fbb74b2a5caab723845a66e4323992002c14addb6568877136b2",
+    "commit": "a255b23f234d5a763b67aab9d84239b1e1c7cdbf",
+    "source_hash": "8e0f3bd19e2eacb3fc9197cb6e4b4e846d4176e2",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154750,
+    "archived_at": 1780018993,
     "archive_name": "sarcophagus-latest.tar.gz",
     "readme": "README.md"
 }
