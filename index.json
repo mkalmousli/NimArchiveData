@@ -18723,5 +18723,12 @@
         "url": "https://github.com/openpeeps/money",
         "license": "MIT",
         "added_at": 1780017790
+    },
+    "nimvault": {
+        "id": "nimvault",
+        "type": "git",
+        "url": "https://github.com/HaoZeke/nimvault",
+        "license": "MIT",
+        "added_at": 1780017799
     }
 }
