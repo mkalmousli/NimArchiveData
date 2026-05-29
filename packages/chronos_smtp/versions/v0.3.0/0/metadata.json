@@ -1,9 +1,9 @@
 {
-    "checksum": "ecc3ca7f27cdbedcb953124d80e6a424b5b2c4600186504d16153173128986dd",
+    "checksum": "2b0448a670c6c0d556a898f05de1fb87d26fc58a46920e97e7fc1218607be6d9",
     "commit": "72ff509b57835575c2a80b81c4965230020ba449",
     "source_hash": "db0a102608466e04f512647f076aaa234b6db71d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1779154333,
+    "archived_at": 1780018534,
     "archive_name": "chronos_smtp-v0.3.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
