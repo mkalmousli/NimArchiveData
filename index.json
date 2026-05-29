@@ -19052,5 +19052,12 @@
         "url": "https://github.com/capocasa/atem",
         "license": "MIT",
         "added_at": 1780018758
+    },
+    "argsbarg": {
+        "id": "argsbarg",
+        "type": "git",
+        "url": "https://github.com/bdombro/nim-argsbarg",
+        "license": "MIT",
+        "added_at": 1780018768
     }
 }
