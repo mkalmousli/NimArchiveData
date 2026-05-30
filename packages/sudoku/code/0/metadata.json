@@ -1,9 +1,9 @@
 {
-    "checksum": "840c7adefa9c002ba7abdc712c4e3ce44cc572951233f4b4a2431c2aafc1c193",
+    "checksum": "8648af2281d9ff10aca1135426cb584f7e09c6380bc3a4c389da7a52714fd710",
     "commit": "5d3eb1d77f82dcc493aa653cc73c72335c06f0ef",
     "source_hash": "2853a51184ea02e9bcfdd1db915f7a58d8aacbc9",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780137882,
+    "archived_at": 1780155439,
     "archive_name": "sudoku-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
