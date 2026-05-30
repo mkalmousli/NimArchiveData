@@ -1,9 +1,9 @@
 {
-    "checksum": "fd8b30269ee920e926ae6ff74451420ca5e8737d2adbe189c436ffdeb3929139",
+    "checksum": "fd6bcc5065c3f10632815f148e4ccaa69b14e17d724599dcecbb976b057c541f",
     "commit": "2c82a5b5cae62748c27c261bac4211093ce1a5ea",
     "source_hash": "20e4593fea96f1b9483741c91a8f352dfd886e20",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780121812,
+    "archived_at": 1780137521,
     "archive_name": "niqlite-latest.tar.gz",
     "readme": "README.md"
 }
