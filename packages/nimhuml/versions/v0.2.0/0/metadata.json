@@ -1,9 +1,9 @@
 {
-    "checksum": "cf6cf27d4b64c66b2d33d26b962d28994c9eb1a53200487566b2e336a2a7bfa4",
+    "checksum": "56d133aaa6e88e1496119c4c5e916ce4d00cacf71bbbd28f7bc580d9aa44a6a2",
     "commit": "f02c2e9b8942bc7e070611dc4fd6f8ce0f54b616",
     "source_hash": "704dd6da7d6736d62bc164b299583d36abc954d4",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780100481,
+    "archived_at": 1780121158,
     "archive_name": "nimhuml-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
