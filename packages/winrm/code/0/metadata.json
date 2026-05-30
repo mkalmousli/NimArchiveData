@@ -1,9 +1,9 @@
 {
-    "checksum": "01afc3bb2b59d76edfb771109d26ebfb075f279f8e332fca9b6f10affea0ad54",
+    "checksum": "72e2b587f2e1d1fc620b8a6db756f4143bde744f713a8c7e8f2c765d99b62f88",
     "commit": "f7a52ccbf93278cf3cbce2b09f00fca76f5ea1cb",
     "source_hash": "d81119bb4ff679f4275483174257428240f12163",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780087441,
+    "archived_at": 1780100423,
     "archive_name": "winrm-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
