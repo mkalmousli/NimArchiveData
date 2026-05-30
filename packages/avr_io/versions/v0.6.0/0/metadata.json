@@ -1,9 +1,9 @@
 {
-    "checksum": "e18764dd57c09c949b3b3c311249ebb787c001a43752d0b87f533f83ad6c013a",
+    "checksum": "7833274d797e93dccab903b8400d33724a28a52aa22de7a44545f25594346628",
     "commit": "84647d922a3a688652c844dedea5b0782fa47892",
     "source_hash": "816eb38cece767b0ea6ecf286887dd3336bbf8e6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780122422,
+    "archived_at": 1780137887,
     "archive_name": "avr_io-v0.6.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
