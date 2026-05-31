@@ -1,9 +1,9 @@
 {
-    "checksum": "e2e9fa4340fb6670d0d4cdf8e2c19bba799e13c00eb036eb32c597277c102794",
+    "checksum": "daa79340a50810cda2f4206edf6bf3964278e379cdd96025d56430f66ced4600",
     "commit": "43d99722418ce1ad99919ce0d6e3d8cb604033ae",
     "source_hash": "5a3f6d2434fbaa70fde784b4837eac8c6aa29a0e",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780223831,
+    "archived_at": 1780241215,
     "archive_name": "json2schema-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
