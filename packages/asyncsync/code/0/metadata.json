@@ -1,9 +1,9 @@
 {
-    "checksum": "eddaedff2f647453436e12f00dde058f646c6b0d2b1a29b1d9ce6ef88ff4b2d2",
+    "checksum": "d90add2cadd512c41f95c32637e204f454883f29ed57b3198eabccf87295a22b",
     "commit": "c4ba6984898b466e143fe16ee0f01e060a72715d",
     "source_hash": "12e0aef9a8e66c850e5d0ca3287a0e79c13eb189",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780172866,
+    "archived_at": 1780187364,
     "archive_name": "asyncsync-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
