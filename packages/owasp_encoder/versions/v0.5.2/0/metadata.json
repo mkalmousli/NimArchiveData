@@ -1,9 +1,9 @@
 {
-    "checksum": "5026df32df954c845c523741a01ebf50f8f62a65950474ae7c4760d1a7d05a5e",
+    "checksum": "d10d1d333c5d16fe6537200cd3c41e2566680c1d2a0fb5d81183713d233e2dc5",
     "commit": "bac66800de22b70325e6342e058741c10e45e52d",
     "source_hash": "469957e78487ff012bc042005e7044a0d2ae490c",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780187134,
+    "archived_at": 1780209396,
     "archive_name": "owasp_encoder-v0.5.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
