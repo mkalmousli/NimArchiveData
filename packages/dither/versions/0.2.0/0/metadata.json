@@ -1,9 +1,9 @@
 {
-    "checksum": "accdcf9cf10fc68998c472bcc72f401915c52083efa2f636b347d5fbcf6986ad",
+    "checksum": "c6b3ce301fb5038ec3335d52783e5619c56466c5f6f49c49c7a7e0d8e7d06ac0",
     "commit": "60fd2d4ee700fe1824f2c40e51c5809b6109320a",
     "source_hash": "1df672252b72a365784837e47fa17a4c58925976",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691279,
+    "archived_at": 1780336989,
     "archive_name": "dither-0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
