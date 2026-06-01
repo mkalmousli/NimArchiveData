@@ -1,9 +1,9 @@
 {
-    "checksum": "c2035aeb90118b407c7c0c7a8b364c256f3a76ea0711e7243fbda5765be6b064",
+    "checksum": "6dc87f9ccea20389ec9fd257001a2626e87bbbf1c6dfedcd0623419d7f6f229e",
     "commit": "7b2ecabfd84c3c2e2e94b60a2a986d0dad4eab3c",
     "source_hash": "3dc508d1079cb63f752e7cec343f9dfca8cada2f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722635,
+    "archived_at": 1780340357,
     "archive_name": "surrealdb-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
