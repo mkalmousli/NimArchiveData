@@ -1,9 +1,9 @@
 {
-    "checksum": "5b6b070dd60ba7a448048ec50d961efbbdf4d53c2c7bd18d6c76b35aa55497f1",
+    "checksum": "44257b0ededbfec254352475df1af92ba12c76c57daf0c03b4b00bc6151e2cf8",
     "commit": "0299fdab05a9befea7d242fdebafe792d1100af0",
     "source_hash": "d578996d309db131a00612b83488c03d4a010cdc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691588,
+    "archived_at": 1780337297,
     "archive_name": "rmq_statsd-v0.2.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
