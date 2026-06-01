@@ -1,9 +1,9 @@
 {
-    "checksum": "a90c06e7c068395781ea6db1e75898b0bc8b909e4d7b8a0403dd10dc9826d297",
+    "checksum": "80a8da36fa7147dbfcf20447031c94ec178af0a9c231ccbe0d8718a1ea4178a4",
     "commit": "3530a04848ba17eff39f438a23113be1bee75a2c",
     "source_hash": "357533dbf288b79b5c0905eb723bb64bcc06d01b",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778721624,
+    "archived_at": 1780339301,
     "archive_name": "rng-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
