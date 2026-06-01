@@ -16931,5 +16931,12 @@
         "url": "https://github.com/lorenzoliuzzo/dim",
         "license": "GPL-3.0-or-later",
         "added_at": 1780339109
+    },
+    "respite": {
+        "id": "respite",
+        "type": "git",
+        "url": "https://github.com/guzba/respite",
+        "license": "MIT",
+        "added_at": 1780339118
     }
 }
