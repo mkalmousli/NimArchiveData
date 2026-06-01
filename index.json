@@ -16483,5 +16483,12 @@
         "url": "https://github.com/hmbemba/pathutils",
         "license": "MIT",
         "added_at": 1780336202
+    },
+    "sqids": {
+        "id": "sqids",
+        "type": "git",
+        "url": "https://github.com/sqids/sqids-nim",
+        "license": "MIT",
+        "added_at": 1780336205
     }
 }
