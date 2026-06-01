@@ -1,9 +1,9 @@
 {
-    "checksum": "4896138f4a64df7bfe1cb16740e95d2087a768c44569de8a2ebffe0ec12df963",
+    "checksum": "37de87f533d50b25cd4c1d8b690ea9e02572475885a08b0982cbcb029f9c915c",
     "commit": "91ba6d124721dbf456e4dba0ec7d3d31b1d7620f",
     "source_hash": "20e899dc6b9475d9b80b49545cdacdd61cd571cc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723882,
+    "archived_at": 1780341738,
     "archive_name": "nim_kyber-v1.0.0.tar.gz",
     "readme": "README.md"
 }
