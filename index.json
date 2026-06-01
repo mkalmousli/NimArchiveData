@@ -16574,5 +16574,12 @@
         "url": "https://github.com/auxym/bight",
         "license": "MIT",
         "added_at": 1780336496
+    },
+    "nsdl1": {
+        "id": "nsdl1",
+        "type": "git",
+        "url": "https://github.com/amnr/nsdl1",
+        "license": "NCSA",
+        "added_at": 1780336510
     }
 }
