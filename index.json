@@ -16532,5 +16532,12 @@
         "url": "https://github.com/inv2004/ccal",
         "license": "MIT",
         "added_at": 1780336322
+    },
+    "implot": {
+        "id": "implot",
+        "type": "git",
+        "url": "https://github.com/dinau/nim_implot",
+        "license": "MIT License",
+        "added_at": 1780336353
     }
 }
