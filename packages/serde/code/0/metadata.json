@@ -1,9 +1,9 @@
 {
-    "checksum": "84a73d86e64f663fffd4971ae0afbf96359890c4c972ee46853b2e3088faa281",
+    "checksum": "4de7f56118d60d96d0f4954a5fc5163710916babc0f6c6832b0d5ec9bdc60d51",
     "commit": "fb117e5bd200ef1b4e5d27b9f3b85d63dcf9aa85",
     "source_hash": "338a4a699269748bf260b0fdacfd880fd8b41bdc",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691383,
+    "archived_at": 1780337098,
     "archive_name": "serde-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
