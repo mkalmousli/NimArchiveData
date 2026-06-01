@@ -17596,5 +17596,12 @@
         "url": "https://github.com/Niminem/DataForSEO",
         "license": "MIT",
         "added_at": 1780341844
+    },
+    "assert": {
+        "id": "assert",
+        "type": "git",
+        "url": "https://github.com/alexekdahl/assert",
+        "license": "MIT",
+        "added_at": 1780341853
     }
 }
