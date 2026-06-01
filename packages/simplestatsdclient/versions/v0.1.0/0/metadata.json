@@ -1,9 +1,9 @@
 {
-    "checksum": "d93fe865e6b34ad8afa4fbda1c09644b0949a8cd060a2a56f7835f4c9b240902",
+    "checksum": "ad6ad3bcc8d0d981eaaf699d6f6c585cd54a167c6707cd36c6a88d48866a1fc0",
     "commit": "9f7964b8696c2292448194d3948a70d252cd80d7",
     "source_hash": "a96db3e78c62f49c7667470c5c5526d34a3528f7",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691520,
+    "archived_at": 1780337232,
     "archive_name": "simplestatsdclient-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
