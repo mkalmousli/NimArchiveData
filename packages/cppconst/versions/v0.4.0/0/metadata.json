@@ -1,9 +1,9 @@
 {
-    "checksum": "019d725091d710caf9d13360d2f40352e27d2e7ba1d3ca1c3310df865550d53d",
+    "checksum": "b1da6ac5a136b9dd7a7f652c8467ac65e1eeaac060125747666372de3ffc8b53",
     "commit": "726613be82c59d10bfda49033697799eb397ba93",
     "source_hash": "d7f035dabb9bf4f98db600542b590ac1ad6c23e9",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691253,
+    "archived_at": 1780336965,
     "archive_name": "cppconst-v0.4.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
