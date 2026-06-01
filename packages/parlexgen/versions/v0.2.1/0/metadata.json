@@ -1,9 +1,9 @@
 {
-    "checksum": "f99179ed041d119ed1d0c204a81a9aff670925d197e3c1a83cd6db98546b112e",
+    "checksum": "d7bf4aa3ba9e1f754061e8ad924be806ef3be00a350ae2e2e2ea59df25e3ecf9",
     "commit": "5ec10ff3921eb672e108c6f385af1fca14b9d087",
     "source_hash": "24f443c098ca2fc59a8e92be3e68c92993032c6a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780260784,
+    "archived_at": 1780275012,
     "archive_name": "parlexgen-v0.2.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
