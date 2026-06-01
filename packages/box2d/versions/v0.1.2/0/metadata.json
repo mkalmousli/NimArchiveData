@@ -1,9 +1,9 @@
 {
-    "checksum": "7d32f3cda3761e74861aa8e8811901f353c21e71b68d923578592d3235ec0e46",
+    "checksum": "7c27b01bf8a1dd151d2c7e4a4ce413d20d5fe2961415156a96518644d7c4bafb",
     "commit": "dca320c22df3edb4fc85347156a51d7c32f42a83",
     "source_hash": "57cbe20ce834575b0a64d0b0723a1de39223870a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722230,
+    "archived_at": 1780339938,
     "archive_name": "box2d-v0.1.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
