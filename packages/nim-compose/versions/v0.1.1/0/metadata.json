@@ -1,9 +1,9 @@
 {
-    "checksum": "61c00d0c745defbcae1a4a39ba6b2678481e9804035410b226d3cac90f77f27b",
+    "checksum": "5ad16d0912a53d9235854b7a7837581224986a8b8b1e9c7766b7e7700c0d2c9a",
     "commit": "5663d4445bdc684c91d139bdff91c76450ce51c6",
     "source_hash": "f6bc940e1ef405be55ce10b6b58922aca73da71f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780333322,
+    "archived_at": 1780348660,
     "archive_name": "nim-compose-v0.1.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
