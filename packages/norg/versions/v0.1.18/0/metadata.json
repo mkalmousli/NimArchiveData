@@ -1,9 +1,9 @@
 {
-    "checksum": "ffeba59ed23e6e16dd5775e582b4d772deae83f9379f54fbab1406489796dc65",
+    "checksum": "d40c32344690154a368c48ce6d8ebfac38454ffb8cb442770fbae52382114a98",
     "commit": "b0e035f1c7e83a15f3851fd1f60dcbc1475d823f",
     "source_hash": "12e0284a0c80ebc15c3b96eb52a10774c983c23a",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722390,
+    "archived_at": 1780340109,
     "archive_name": "norg-v0.1.18.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
