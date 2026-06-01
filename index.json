@@ -16567,5 +16567,12 @@
         "url": "https://github.com/phononim/ipacore",
         "license": "BSD-3-Clause",
         "added_at": 1780336488
+    },
+    "bight": {
+        "id": "bight",
+        "type": "git",
+        "url": "https://github.com/auxym/bight",
+        "license": "MIT",
+        "added_at": 1780336496
     }
 }
