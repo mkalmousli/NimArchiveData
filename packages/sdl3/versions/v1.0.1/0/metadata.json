@@ -1,9 +1,9 @@
 {
-    "checksum": "2e3536bf9ffbcd060f77065b0b6fdc5f97cb0d798da7ba208441e94f8fde4632",
+    "checksum": "0685f9d8116d7095706ab50dec928fedfa24459ac7bddf250bec7c1e25e8176c",
     "commit": "544f2809046f3aa829fd203fc9a92e6fcd251407",
     "source_hash": "0d8a5b6de8cb98d9e49f8379801e0c784f8f15fb",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723768,
+    "archived_at": 1780341609,
     "archive_name": "sdl3-v1.0.1.tar.gz",
     "readme": "README.md"
 }
