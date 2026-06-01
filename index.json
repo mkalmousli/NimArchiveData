@@ -16602,5 +16602,12 @@
         "url": "https://github.com/ThomasTJdev/mummy_utils",
         "license": "MIT",
         "added_at": 1780336547
+    },
+    "httpbeastfork": {
+        "id": "httpbeastfork",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/httpbeast_fork",
+        "license": "MIT",
+        "added_at": 1780336597
     }
 }
