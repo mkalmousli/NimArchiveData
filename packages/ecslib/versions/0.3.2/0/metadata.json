@@ -1,9 +1,9 @@
 {
-    "checksum": "748e16c470c16a5bd60e631914a0a8c2d8e39b2c04987b8c0296c66959489fd9",
+    "checksum": "870dd72fe1a9821779040e6fdd21ee1b4735ccb55af11888a94f31dfa26f5215",
     "commit": "2424715511c9431345053aa832f8d65e89faf0bd",
     "source_hash": "0d06d6c6b610fc89647afbc7f9aa1864f0c60622",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722206,
+    "archived_at": 1780339913,
     "archive_name": "ecslib-0.3.2.tar.gz",
     "readme": "README.md"
 }
