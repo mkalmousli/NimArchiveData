@@ -16623,5 +16623,12 @@
         "url": "https://github.com/Wraith29/templater",
         "license": "MIT",
         "added_at": 1780336701
+    },
+    "nsdl3": {
+        "id": "nsdl3",
+        "type": "git",
+        "url": "https://github.com/amnr/nsdl3",
+        "license": "NCSA OR MIT OR Zlib",
+        "added_at": 1780336714
     }
 }
