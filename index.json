@@ -16553,5 +16553,12 @@
         "url": "https://github.com/hmbemba/icecream",
         "license": "MIT",
         "added_at": 1780336471
+    },
+    "threadButler": {
+        "id": "threadButler",
+        "type": "git",
+        "url": "https://github.com/PhilippMDoerner/Appster",
+        "license": "MIT",
+        "added_at": 1780336474
     }
 }
