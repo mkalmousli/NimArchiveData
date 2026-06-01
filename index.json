@@ -16476,5 +16476,12 @@
         "url": "https://codeberg.org/onbox/iniplus",
         "license": "BSD-3-Clause",
         "added_at": 1780336162
+    },
+    "pathutils": {
+        "id": "pathutils",
+        "type": "git",
+        "url": "https://github.com/hmbemba/pathutils",
+        "license": "MIT",
+        "added_at": 1780336202
     }
 }
