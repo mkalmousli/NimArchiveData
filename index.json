@@ -16469,5 +16469,12 @@
         "url": "https://github.com/yglukhov/yasync",
         "license": "MIT",
         "added_at": 1780336152
+    },
+    "iniplus": {
+        "id": "iniplus",
+        "type": "git",
+        "url": "https://codeberg.org/onbox/iniplus",
+        "license": "BSD-3-Clause",
+        "added_at": 1780336162
     }
 }
