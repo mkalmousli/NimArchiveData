@@ -1,10 +1,10 @@
 {
-    "checksum": "558028144c672c893caa7069ee53c61f52b6286c4a32ce40316d1b55dd6e55b4",
+    "checksum": "eadad62b864f8d54a9eed8927572a1def6606ad8cfcb0ed8a6103dd21a8968ed",
     "commit": "a84a1e85cd27322f66f34bc3c24484033b2bb988",
     "source_hash": "5a88bf84d59c954425867c09d05a61ac650b1ded",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780340884,
-    "archive_name": "bestfetch-latest.tar.gz",
+    "archived_at": 1780340885,
+    "archive_name": "bestfetch-1.6.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
