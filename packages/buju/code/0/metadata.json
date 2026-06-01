@@ -1,9 +1,9 @@
 {
-    "checksum": "bec13c42fbd34bdf195cb23a4e5fa7368670093077bd94030c506e1091c0d0dd",
-    "commit": "80fdc61c6882bf1fc56d7cf5c6f35e12808d66c3",
-    "source_hash": "e6c6ea1616abc930f5b29a599c2efea6aa388493",
+    "checksum": "3767af50dc29ffb5c624eaf3cccf5c721a9f28ce0181e976c6e45ddd6bbe13f5",
+    "commit": "156b430ed7f0015c6d06047464908f062a38d06b",
+    "source_hash": "bc38fd7e0dd8decea9c9a4d59ba67644f2452ede",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722804,
+    "archived_at": 1780340530,
     "archive_name": "buju-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
