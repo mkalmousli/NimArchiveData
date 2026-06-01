@@ -1,9 +1,9 @@
 {
-    "checksum": "0b6be6ee8c9666e80f6c9a8f3c69f866a3495e6432fce85ca381c12a47767c04",
+    "checksum": "5d06d115ae9d37a42cb3218877003595692e716583b08a005c098cf709f22cab",
     "commit": "270c919f1434746119bd1ed9d74368f7f3fd0af5",
     "source_hash": "59620540f01cedbbc581a32801e303dcd0ed65a6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723246,
+    "archived_at": 1780341001,
     "archive_name": "gdext-v0.15.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
