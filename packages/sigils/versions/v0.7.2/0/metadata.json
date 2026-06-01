@@ -1,9 +1,9 @@
 {
-    "checksum": "142a87b762a25c0aa1bc47615c71d0de3a3879c9ca1d05675cf5d721c167bb27",
+    "checksum": "19bfc5f896c4470936f44798aa80ff702811d6ffe5aa034b40ff5841e1f9cfef",
     "commit": "3fb22da1b7165429a6e5628860b6714465894ec1",
     "source_hash": "340d8013b00dacbd6f173c66038e9be11565c0b3",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723496,
+    "archived_at": 1780341305,
     "archive_name": "sigils-v0.7.2.tar.gz",
     "license": "LICENSE.md"
 }

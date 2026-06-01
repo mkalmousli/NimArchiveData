@@ -1,9 +1,9 @@
 {
-    "checksum": "c96791fdf0b6dc08853d921561da13d6765fb254f7840bdc39c3f63d2d077ce1",
+    "checksum": "e54497d135634d7543c852a662308a19c7d164e1e3fa20557722f88f4c480667",
     "commit": "bf5342c85c06fa03e727c57e07180cdb9174b93e",
     "source_hash": "530ca245270c75b5c34c7609ccbfe1da6915e951",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723495,
+    "archived_at": 1780341303,
     "archive_name": "sigils-v0.14.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"

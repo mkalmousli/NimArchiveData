@@ -1,9 +1,9 @@
 {
-    "checksum": "5448f053ce3de91919cae359731c3485889012cd023ee1251d0a88c6c42de04d",
-    "commit": "e604dd95210f05df52dac71b8b9044de9af0541e",
-    "source_hash": "ccaced70da0b4496014fe02cd3999229429d133b",
+    "checksum": "939e19fdb1cb15519b49556d2300b8fc244ba1526e0bfc5ed2ec82cd06fde575",
+    "commit": "70f29cb96de46a2e4ca331a92c6ddcd185a8339b",
+    "source_hash": "bc5079bab4dce6c773679efe4408de12c3a12565",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723493,
+    "archived_at": 1780341301,
     "archive_name": "sigils-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
