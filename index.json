@@ -16560,5 +16560,12 @@
         "url": "https://github.com/PhilippMDoerner/Appster",
         "license": "MIT",
         "added_at": 1780336474
+    },
+    "ipacore": {
+        "id": "ipacore",
+        "type": "git",
+        "url": "https://github.com/phononim/ipacore",
+        "license": "BSD-3-Clause",
+        "added_at": 1780336488
     }
 }
