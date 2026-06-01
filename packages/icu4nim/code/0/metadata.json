@@ -1,9 +1,9 @@
 {
-    "checksum": "93502ca492d0234ed40f22b2141469844291db7f6b5ae6aad6c51f78ef449699",
+    "checksum": "82ff74e82053c2dd6447747086c09beb99c35189822150859ec3e50b2e2f5a50",
     "commit": "24fd5f19c1d9e15ab49f840f890cb1e82173203c",
     "source_hash": "5873dcb6b5d92905853e658df9b6a04f3f81b0d4",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723814,
+    "archived_at": 1780341660,
     "archive_name": "icu4nim-latest.tar.gz",
     "readme": "README.md"
 }
