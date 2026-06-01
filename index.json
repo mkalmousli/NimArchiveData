@@ -17456,5 +17456,12 @@
         "url": "https://github.com/elcritch/macosutils",
         "license": "Apache-2.0",
         "added_at": 1780341535
+    },
+    "dmon": {
+        "id": "dmon",
+        "type": "git",
+        "url": "https://github.com/elcritch/dmon-nim",
+        "license": "BSD-2-Clause",
+        "added_at": 1780341566
     }
 }
