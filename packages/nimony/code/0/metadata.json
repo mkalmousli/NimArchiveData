@@ -1,9 +1,9 @@
 {
-    "checksum": "1d383e01e4449705f0be11d0cf344650f0500efce016923c833d00bdb3e6e8bd",
-    "commit": "481115faee9cd1feba137099afe3638954a741b7",
-    "source_hash": "88ee40f3d48e275598e63ae3bbd96d81fa81ea95",
+    "checksum": "68295418ad512caae49a45fce3e4fd5a274d81a4418c735ec65660f7c75f49bc",
+    "commit": "2c0082c881a7a46ffde68a4f70ed960dffbace98",
+    "source_hash": "4fc9755551921c1a04431ea411a6ce130eb49a3f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723852,
+    "archived_at": 1780341703,
     "archive_name": "nimony-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
