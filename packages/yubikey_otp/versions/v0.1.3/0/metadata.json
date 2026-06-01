@@ -1,9 +1,9 @@
 {
-    "checksum": "77866120e959c173e06336bb9f35ce225785968f1849895d0a537e601600042d",
+    "checksum": "70ef7d0ea556de51a7e03ef3f66c503cfbece8c2a7dbab1c4b269a762bc0f493",
     "commit": "280d12cfd035910317c09d8b4d95c116233c3f29",
     "source_hash": "e1254a552b931712880a52ef1ef5ca0338a7f924",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723451,
+    "archived_at": 1780341257,
     "archive_name": "yubikey_otp-v0.1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
