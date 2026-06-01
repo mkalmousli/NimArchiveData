@@ -16504,5 +16504,12 @@
         "url": "https://github.com/maleyva1/whisper",
         "license": "MIT",
         "added_at": 1780336251
+    },
+    "moveiterators": {
+        "id": "moveiterators",
+        "type": "git",
+        "url": "https://github.com/sls1005/moveiterators",
+        "license": "MIT",
+        "added_at": 1780336276
     }
 }
