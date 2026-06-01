@@ -1,9 +1,9 @@
 {
-    "checksum": "851fe028f16f34338f3e5437dbeacc94a29f52a65ea9ce5ee68ddc233f2bec86",
+    "checksum": "8890af111738b734cb6ec95190d33be7f0ccfe6cda2b12a7e56b12377f58bbbb",
     "commit": "bfb60aba71156bdda8172bb2daff267b5213610a",
     "source_hash": "6c5a8aac0491ee4bb6eb42efd71761d75064c5a2",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722158,
+    "archived_at": 1780339860,
     "archive_name": "lsblk-v0.2.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
