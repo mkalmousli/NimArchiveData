@@ -1,9 +1,9 @@
 {
-    "checksum": "ee891a422b5eb76d7c631b530cf3e8c8eacdc922220487bcbf9c6d3acdd18a38",
-    "commit": "8ea1412a4c6076277bfb8972c94eb6932c7ed0b0",
-    "source_hash": "5264f86d0e041aef568b0a68e40eb64037c858be",
+    "checksum": "8ae63db9483b2f1d79735cdd1e3317c3daa5665c928a9c9a6b542ed4b49b7eaa",
+    "commit": "e35d2c9fa8598f61f105c85ebaf3c87570f76bee",
+    "source_hash": "ce903b259182d58537c2fc4695496198ae3f53b7",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780332671,
+    "archived_at": 1780348231,
     "archive_name": "proven-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
