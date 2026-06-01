@@ -1,9 +1,9 @@
 {
-    "checksum": "6660c37627e2aae9b6698a41a07761da2b698b3f02a88baf3274ebae197dd4dd",
-    "commit": "6c0a37af9e2b3a12a8455c76286b5245d3428ec0",
-    "source_hash": "2b29ddf323b1b0bbf9e78256588cbf4cb72d3292",
+    "checksum": "fddb82cb7ae319317f03d5db7716b13e1af8108c36265926ecf1f92458a37398",
+    "commit": "53fe3abc98912d460cc82cca89e04f4d7a957661",
+    "source_hash": "42b695a8aec9adc68e3bd3d6bf1c97dd0fbc034c",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778721653,
+    "archived_at": 1780339330,
     "archive_name": "nim_lk-latest.tar.gz",
     "readme": "README.md"
 }
