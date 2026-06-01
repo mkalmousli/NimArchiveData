@@ -1,9 +1,9 @@
 {
-    "checksum": "a2001573ed9e283fdfb67dce26fa982cef572bcbc834e823ce63cd6be188dfa2",
+    "checksum": "7635f2afd2a52272a9a73e828592247f7fd408efd183079aca2a23a2434549e5",
     "commit": "ca87d4a1dd5396fbf65385ae6a93991cd8c438a4",
     "source_hash": "35bff863ba7c25a978928543b6183d27f0517e89",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691458,
+    "archived_at": 1780337173,
     "archive_name": "amqpstats-v0.2.2.tar.gz",
     "readme": "README.md"
 }
