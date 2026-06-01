@@ -16525,5 +16525,12 @@
         "url": "https://codeberg.org/pswilde/note",
         "license": "AGPL-3.0-or-later",
         "added_at": 1780336307
+    },
+    "ccal": {
+        "id": "ccal",
+        "type": "git",
+        "url": "https://github.com/inv2004/ccal",
+        "license": "MIT",
+        "added_at": 1780336322
     }
 }
