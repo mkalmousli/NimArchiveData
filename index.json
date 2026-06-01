@@ -16630,5 +16630,12 @@
         "url": "https://github.com/amnr/nsdl3",
         "license": "NCSA OR MIT OR Zlib",
         "added_at": 1780336714
+    },
+    "nsdl2": {
+        "id": "nsdl2",
+        "type": "git",
+        "url": "https://github.com/amnr/nsdl2",
+        "license": "NCSA OR MIT OR Zlib",
+        "added_at": 1780336745
     }
 }
