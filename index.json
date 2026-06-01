@@ -16539,5 +16539,12 @@
         "url": "https://github.com/dinau/nim_implot",
         "license": "MIT License",
         "added_at": 1780336353
+    },
+    "nph": {
+        "id": "nph",
+        "type": "git",
+        "url": "https://github.com/arnetheduck/nph",
+        "license": "MIT License",
+        "added_at": 1780336417
     }
 }
