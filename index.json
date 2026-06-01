@@ -16588,5 +16588,12 @@
         "url": "https://github.com/Ethosa/highlightjs",
         "license": "MIT",
         "added_at": 1780336530
+    },
+    "tailwindcss": {
+        "id": "tailwindcss",
+        "type": "git",
+        "url": "https://github.com/Ethosa/tailwindcss-nim",
+        "license": "MIT",
+        "added_at": 1780336538
     }
 }
