@@ -1,9 +1,9 @@
 {
-    "checksum": "8c77762c30297bf4062733032e21a13cd891e6a0cfdea6ad5e13990ca27259c7",
+    "checksum": "cf3ecc26a2b2fb4bd60dd75cd404baefdaaf4ea545d0f88f66305a44f0588cea",
     "commit": "f1a19a751458e1d74f94385c004c60cfa75f0179",
     "source_hash": "0b680ad9d1ce89b0eb00932fd69b245161868487",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722877,
+    "archived_at": 1780340604,
     "archive_name": "nim_2048-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
