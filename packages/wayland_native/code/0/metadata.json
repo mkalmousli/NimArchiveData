@@ -1,9 +1,9 @@
 {
-    "checksum": "32f6aff9388107b71c42239ec49469889242f7f7192773162d26b18fa83e573c",
+    "checksum": "0a86c073929fce83df6a9c19f3431daefaee1855799137b1350d3de384b4dcdd",
     "commit": "58d1e911db221f1947a1e980dfd2f4ffea4f4018",
     "source_hash": "4f39bb81c9da51930e93c9b44f6382128f6e0de4",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722338,
+    "archived_at": 1780340057,
     "archive_name": "wayland_native-latest.tar.gz",
     "readme": "README.md"
 }
