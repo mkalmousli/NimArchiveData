@@ -1,10 +1,10 @@
 {
-    "checksum": "8a51006f88e65ea0aacc8a4b5bc6e80b315d60f97f7ee5ce6b66e1c09e4f67e0",
+    "checksum": "cf980a3cbb0d3b2cd89d9f876cf6b26e321856b10c355307737a496b6bf4859d",
     "commit": "d034a9d496f7e9bf0c42c760681b5036a385c94d",
     "source_hash": "706fcab669c8a4c627fe06b0c0a75c619d2fa9f2",
     "source_hash_kind": "git_tree",
     "archived_at": 1780338878,
-    "archive_name": "stylus-latest.tar.gz",
+    "archive_name": "stylus-0.1.4.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
 }
