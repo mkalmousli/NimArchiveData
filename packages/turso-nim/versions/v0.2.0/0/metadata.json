@@ -1,9 +1,9 @@
 {
-    "checksum": "c368e22286ebe17951d85bd59889e86dfa24cb7564aecf8e0b8ecd05cfc219e3",
+    "checksum": "e3221815bd5feb66f4a2b19f44c0e1afcca5a027d7b508d325c8cd94fb86b4c0",
     "commit": "4a5d369e2e15516b99728138be151ae884b62e12",
     "source_hash": "fa3c81c7fc1a19c4ef96d443c7de942b823b8d6e",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722360,
+    "archived_at": 1780340079,
     "archive_name": "turso-nim-v0.2.0.tar.gz",
     "readme": "README.md"
 }
