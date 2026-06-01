@@ -16595,5 +16595,12 @@
         "url": "https://github.com/Ethosa/tailwindcss-nim",
         "license": "MIT",
         "added_at": 1780336538
+    },
+    "mummy_utils": {
+        "id": "mummy_utils",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/mummy_utils",
+        "license": "MIT",
+        "added_at": 1780336547
     }
 }
