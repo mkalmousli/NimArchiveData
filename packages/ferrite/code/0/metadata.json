@@ -1,9 +1,9 @@
 {
-    "checksum": "bacb473c19918b4ddce15a084624e5effa4921414f6ec6aa684b6dd2d811eda4",
-    "commit": "4c63e9cbfc68687aac42fe19f335084ce9587d96",
-    "source_hash": "d4bc715cf7742c847c145a6948f448c2d103a570",
+    "checksum": "0fbedb0e2700714f8be4def391c8f7a17a3e88a2acd1739673ef42272f17d78c",
+    "commit": "b45c041127a43963b15a7a61de89a9e752a6779e",
+    "source_hash": "dba7f79cdf11aa532cd83fa4a4de5b543b46d1fa",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778723806,
+    "archived_at": 1780341651,
     "archive_name": "ferrite-latest.tar.gz",
     "readme": "README.md"
 }
