@@ -16609,5 +16609,12 @@
         "url": "https://github.com/ThomasTJdev/httpbeast_fork",
         "license": "MIT",
         "added_at": 1780336597
+    },
+    "jesterfork": {
+        "id": "jesterfork",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/jester_fork",
+        "license": "MIT",
+        "added_at": 1780336632
     }
 }
