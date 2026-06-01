@@ -1,9 +1,9 @@
 {
-    "checksum": "e1abefe668eb92673a4527cc0ecbcfe2bdfa48a25d012fa5de48b20ad915d507",
-    "commit": "c9ce60944110b10406ec8a6ad312efb31722fd69",
-    "source_hash": "083c4d4e2d85ae45524c1998074a3c330dc35505",
+    "checksum": "9c9a0f053a058297b835bae9655eb1baed47ecf009fda948563dd4932900628e",
+    "commit": "661e30f837adaad0377a7a02b761cc3972386f0b",
+    "source_hash": "23d6749029d348589ce8b8757a8db8a554401879",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722553,
+    "archived_at": 1780340275,
     "archive_name": "simdutf-latest.tar.gz",
     "readme": "README.md"
 }

@@ -1,9 +1,9 @@
 {
-    "checksum": "32aef1a26dea6ba1a3b457e76924156a73abceffa2049e19b5a116e88ee9fa4c",
+    "checksum": "847e16282c6870eb7d2919a8a2f38688ca07b25e567f4276bf3bbd2233a2588e",
     "commit": "f461f1a02a7fffbda5367e426d783108eb536c3a",
     "source_hash": "989fc73123e4aec245c17db20626a7a97ddfc22f",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778722553,
+    "archived_at": 1780340275,
     "archive_name": "simdutf-6.5.1.tar.gz",
     "readme": "README.md"
 }
