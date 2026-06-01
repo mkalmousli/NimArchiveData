@@ -1,9 +1,9 @@
 {
-    "checksum": "98c3ee782d0bafc6e492d4577d340f7c0ef5f70fd7d1a511a6f6193476a000cf",
+    "checksum": "2a274713e6c502613331fa6477bf2b0c6146b50d773718578fb35ad38d28650e",
     "commit": "4d03f492a1a63a116c3d3cc7b5ce1c339e465f53",
     "source_hash": "c83953540fb72bcabd69b12a353fe466c957c19d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778691428,
+    "archived_at": 1780337143,
     "archive_name": "statsdaemon-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
