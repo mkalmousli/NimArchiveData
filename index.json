@@ -16581,5 +16581,12 @@
         "url": "https://github.com/amnr/nsdl1",
         "license": "NCSA",
         "added_at": 1780336510
+    },
+    "highlightjs": {
+        "id": "highlightjs",
+        "type": "git",
+        "url": "https://github.com/Ethosa/highlightjs",
+        "license": "MIT",
+        "added_at": 1780336530
     }
 }
