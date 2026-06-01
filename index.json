@@ -16546,5 +16546,12 @@
         "url": "https://github.com/arnetheduck/nph",
         "license": "MIT License",
         "added_at": 1780336417
+    },
+    "icecream": {
+        "id": "icecream",
+        "type": "git",
+        "url": "https://github.com/hmbemba/icecream",
+        "license": "MIT",
+        "added_at": 1780336471
     }
 }
