@@ -16637,5 +16637,12 @@
         "url": "https://github.com/amnr/nsdl2",
         "license": "NCSA OR MIT OR Zlib",
         "added_at": 1780336745
+    },
+    "getopty": {
+        "id": "getopty",
+        "type": "git",
+        "url": "https://github.com/amnr/getopty",
+        "license": "MIT or NCSA",
+        "added_at": 1780336773
     }
 }
