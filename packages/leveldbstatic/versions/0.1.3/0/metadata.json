@@ -1,9 +1,9 @@
 {
-    "checksum": "d34491df645c9366cf44acdc1f7d09173c32cbda410577c0280eaca40c47ab4f",
+    "checksum": "3fb80e2db6e509933693cd25b86dad73d2cfe892f7410cf2590fe25d37bbe5a4",
     "commit": "06947b4b605097cc4fd07355bb5a5f508db37eba",
     "source_hash": "b6b4d0f5b64e0dc276f7d719607f41aa7fbaf997",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778693528,
+    "archived_at": 1780339213,
     "archive_name": "leveldbstatic-0.1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
