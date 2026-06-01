@@ -16518,5 +16518,12 @@
         "url": "https://github.com/HapticX/happyx-native",
         "license": "MIT",
         "added_at": 1780336292
+    },
+    "note": {
+        "id": "note",
+        "type": "git",
+        "url": "https://codeberg.org/pswilde/note",
+        "license": "AGPL-3.0-or-later",
+        "added_at": 1780336307
     }
 }
