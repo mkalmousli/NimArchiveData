@@ -10365,5 +10365,12 @@
         "url": "https://github.com/zer0-star/matsuri",
         "license": "MIT",
         "added_at": 1780437322
+    },
+    "clang": {
+        "id": "clang",
+        "type": "git",
+        "url": "https://github.com/samdmarshall/libclang-nim",
+        "license": "BSD 3-Clause",
+        "added_at": 1780437334
     }
 }
