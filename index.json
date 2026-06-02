@@ -10281,5 +10281,12 @@
         "url": "https://github.com/nim-meta/strenc",
         "license": "MIT",
         "added_at": 1780437167
+    },
+    "trick": {
+        "id": "trick",
+        "type": "git",
+        "url": "https://github.com/exelotl/trick",
+        "license": "zlib",
+        "added_at": 1780437176
     }
 }
