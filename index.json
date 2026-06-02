@@ -10617,5 +10617,12 @@
         "url": "https://github.com/abbeymart/mcresponse-nim",
         "license": "MIT",
         "added_at": 1780438126
+    },
+    "webrtcvad": {
+        "id": "webrtcvad",
+        "type": "git",
+        "url": "https://gitlab.com/eagledot/nim-webrtcvad",
+        "license": "MIT",
+        "added_at": 1780438144
     }
 }
