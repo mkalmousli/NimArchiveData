@@ -10057,5 +10057,12 @@
         "url": "https://github.com/markspanbroek/sss.nim",
         "license": "MIT",
         "added_at": 1780436662
+    },
+    "testify": {
+        "id": "testify",
+        "type": "git",
+        "url": "https://github.com/sealmove/testify",
+        "license": "MIT",
+        "added_at": 1780436685
     }
 }
