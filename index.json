@@ -10575,5 +10575,12 @@
         "url": "https://github.com/JohnAD/jesterjson",
         "license": "MIT",
         "added_at": 1780438072
+    },
+    "jestercookiemsgs": {
+        "id": "jestercookiemsgs",
+        "type": "git",
+        "url": "https://github.com/JohnAD/jestercookiemsgs",
+        "license": "MIT",
+        "added_at": 1780438081
     }
 }
