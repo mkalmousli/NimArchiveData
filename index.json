@@ -10225,5 +10225,12 @@
         "url": "https://github.com/DangerOnTheRanger/nimatic",
         "license": "2-clause BSD",
         "added_at": 1780437091
+    },
+    "ballena_itcher": {
+        "id": "ballena_itcher",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/ballena-itcher",
+        "license": "MIT",
+        "added_at": 1780437097
     }
 }
