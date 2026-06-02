@@ -10547,5 +10547,12 @@
         "url": "https://github.com/nimbackup/telenim",
         "license": "MIT",
         "added_at": 1780437996
+    },
+    "taskqueue": {
+        "id": "taskqueue",
+        "type": "git",
+        "url": "https://github.com/jackhftang/taskqueue.nim",
+        "license": "MIT",
+        "added_at": 1780438003
     }
 }
