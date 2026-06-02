@@ -10715,5 +10715,12 @@
         "url": "https://github.com/capocasa/nim-nestegg",
         "license": "MIT",
         "added_at": 1780438255
+    },
+    "dav1d": {
+        "id": "dav1d",
+        "type": "git",
+        "url": "https://github.com/capocasa/nim-dav1d",
+        "license": "MIT",
+        "added_at": 1780438262
     }
 }
