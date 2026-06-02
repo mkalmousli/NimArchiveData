@@ -10463,5 +10463,12 @@
         "url": "https://github.com/bung87/finder",
         "license": "MIT",
         "added_at": 1780437478
+    },
+    "huffman": {
+        "id": "huffman",
+        "type": "git",
+        "url": "https://github.com/xzeshen/huffman",
+        "license": "Apache-2.0",
+        "added_at": 1780437489
     }
 }
