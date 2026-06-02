@@ -10064,5 +10064,12 @@
         "url": "https://github.com/sealmove/testify",
         "license": "MIT",
         "added_at": 1780436685
+    },
+    "libarchibi": {
+        "id": "libarchibi",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/libarchibi",
+        "license": "MIT",
+        "added_at": 1780436690
     }
 }
