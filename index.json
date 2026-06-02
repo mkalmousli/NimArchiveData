@@ -10722,5 +10722,12 @@
         "url": "https://github.com/capocasa/nim-dav1d",
         "license": "MIT",
         "added_at": 1780438262
+    },
+    "nimviz": {
+        "id": "nimviz",
+        "type": "git",
+        "url": "https://github.com/Rekihyt/nimviz",
+        "license": "MIT",
+        "added_at": 1780438269
     }
 }
