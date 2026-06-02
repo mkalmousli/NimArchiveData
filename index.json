@@ -10001,5 +10001,12 @@
         "url": "https://github.com/AzamShafiul/weighted_graph",
         "license": "MIT",
         "added_at": 1780436292
+    },
+    "norman": {
+        "id": "norman",
+        "type": "git",
+        "url": "https://github.com/moigagoo/norman",
+        "license": "MIT",
+        "added_at": 1780436297
     }
 }
