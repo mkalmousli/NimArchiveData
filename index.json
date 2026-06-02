@@ -10400,5 +10400,12 @@
         "url": "https://github.com/jyapayne/nim-glew",
         "license": "MIT",
         "added_at": 1780437359
+    },
+    "dotprov": {
+        "id": "dotprov",
+        "type": "git",
+        "url": "https://github.com/minefuto/dotprov",
+        "license": "MIT",
+        "added_at": 1780437364
     }
 }
