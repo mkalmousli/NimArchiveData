@@ -10155,5 +10155,12 @@
         "url": "https://github.com/pietroppeter/nimoji",
         "license": "MIT",
         "added_at": 1780436941
+    },
+    "origin": {
+        "id": "origin",
+        "type": "git",
+        "url": "https://github.com/mfiano/origin.nim",
+        "license": "MIT",
+        "added_at": 1780436959
     }
 }
