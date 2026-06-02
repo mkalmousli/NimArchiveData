@@ -10638,5 +10638,12 @@
         "url": "https://github.com/SolitudeSF/tam",
         "license": "MIT",
         "added_at": 1780438153
+    },
+    "tim_sort": {
+        "id": "tim_sort",
+        "type": "git",
+        "url": "https://github.com/bung87/tim_sort",
+        "license": "MIT",
+        "added_at": 1780438172
     }
 }
