@@ -10680,5 +10680,12 @@
         "url": "https://gitlab.com/eagledot/nim-alsa",
         "license": "MIT",
         "added_at": 1780438215
+    },
+    "vmprotect": {
+        "id": "vmprotect",
+        "type": "git",
+        "url": "https://github.com/ba0f3/vmprotect.nim",
+        "license": "MIT",
+        "added_at": 1780438222
     }
 }
