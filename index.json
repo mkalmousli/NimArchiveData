@@ -10673,5 +10673,12 @@
         "url": "https://github.com/khchen/hashlib",
         "license": "MIT",
         "added_at": 1780438206
+    },
+    "alsa": {
+        "id": "alsa",
+        "type": "git",
+        "url": "https://gitlab.com/eagledot/nim-alsa",
+        "license": "MIT",
+        "added_at": 1780438215
     }
 }
