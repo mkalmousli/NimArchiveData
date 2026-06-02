@@ -10113,5 +10113,12 @@
         "url": "https://github.com/rmt/alut",
         "license": "LGPL-2.1",
         "added_at": 1780436762
+    },
+    "rena": {
+        "id": "rena",
+        "type": "git",
+        "url": "https://github.com/jiro4989/rena",
+        "license": "MIT",
+        "added_at": 1780436767
     }
 }
