@@ -10526,5 +10526,12 @@
         "url": "https://github.com/jiro4989/markx",
         "license": "MIT",
         "added_at": 1780437559
+    },
+    "therapist": {
+        "id": "therapist",
+        "type": "git",
+        "url": "https://bitbucket.org/maxgrenderjones/therapist",
+        "license": "MIT",
+        "added_at": 1780437573
     }
 }
