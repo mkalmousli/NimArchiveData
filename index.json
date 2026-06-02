@@ -10386,5 +10386,12 @@
         "url": "https://github.com/lihf8515/miniblink",
         "license": "MIT",
         "added_at": 1780437346
+    },
+    "pokereval": {
+        "id": "pokereval",
+        "type": "git",
+        "url": "https://github.com/jasonlu7/pokereval",
+        "license": "MIT",
+        "added_at": 1780437351
     }
 }
