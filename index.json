@@ -10358,5 +10358,12 @@
         "url": "https://github.com/planety/cookiejar",
         "license": "Apache-2.0",
         "added_at": 1780437309
+    },
+    "matsuri": {
+        "id": "matsuri",
+        "type": "git",
+        "url": "https://github.com/zer0-star/matsuri",
+        "license": "MIT",
+        "added_at": 1780437322
     }
 }
