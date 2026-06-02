@@ -10022,5 +10022,12 @@
         "url": "https://github.com/zendbit/nim_zfblast",
         "license": "BSD",
         "added_at": 1780436341
+    },
+    "paravim": {
+        "id": "paravim",
+        "type": "git",
+        "url": "https://github.com/paranim/paravim",
+        "license": "Public Domain",
+        "added_at": 1780436422
     }
 }
