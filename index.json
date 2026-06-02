@@ -10127,5 +10127,12 @@
         "url": "https://github.com/nimbackup/nim-libvlc",
         "license": "MIT",
         "added_at": 1780436777
+    },
+    "nimcoon": {
+        "id": "nimcoon",
+        "type": "git",
+        "url": "https://njoseph.me/gitweb/nimcoon.git",
+        "license": "GPL-3.0",
+        "added_at": 1780436782
     }
 }
