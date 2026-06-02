@@ -10498,5 +10498,12 @@
         "url": "https://github.com/SolitudeSF/notification",
         "license": "MIT",
         "added_at": 1780437520
+    },
+    "eventemitter": {
+        "id": "eventemitter",
+        "type": "git",
+        "url": "https://github.com/al-bimani/eventemitter",
+        "license": "MIT",
+        "added_at": 1780437531
     }
 }
