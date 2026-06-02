@@ -10169,5 +10169,12 @@
         "url": "https://github.com/juancarlospaco/webgui",
         "license": "MIT",
         "added_at": 1780436960
+    },
+    "xpm": {
+        "id": "xpm",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/xpm",
+        "license": "MIT",
+        "added_at": 1780436984
     }
 }
