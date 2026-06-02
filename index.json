@@ -10610,5 +10610,12 @@
         "url": "https://github.com/abbeymart/mccache-nim",
         "license": "MIT",
         "added_at": 1780438111
+    },
+    "mcresponse": {
+        "id": "mcresponse",
+        "type": "git",
+        "url": "https://github.com/abbeymart/mcresponse-nim",
+        "license": "MIT",
+        "added_at": 1780438126
     }
 }
