@@ -10295,5 +10295,12 @@
         "url": "https://github.com/faulander/nimQBittorrent",
         "license": "MIT",
         "added_at": 1780437206
+    },
+    "pdba": {
+        "id": "pdba",
+        "type": "git",
+        "url": "https://github.com/misebox/pdba",
+        "license": "MIT",
+        "added_at": 1780437208
     }
 }
