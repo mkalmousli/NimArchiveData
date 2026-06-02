@@ -10204,5 +10204,12 @@
         "url": "https://github.com/angluca/mui",
         "license": "MIT",
         "added_at": 1780437066
+    },
+    "tigr": {
+        "id": "tigr",
+        "type": "git",
+        "url": "https://github.com/angluca/tigr-nim",
+        "license": "MIT",
+        "added_at": 1780437072
     }
 }
