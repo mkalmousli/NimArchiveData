@@ -10827,5 +10827,12 @@
         "url": "https://github.com/zevv/nimcmaes",
         "license": "Apache-2.0",
         "added_at": 1780438603
+    },
+    "soundex": {
+        "id": "soundex",
+        "type": "git",
+        "url": "https://github.com/Kashiwara0205/soundex",
+        "license": "MIT",
+        "added_at": 1780438610
     }
 }
