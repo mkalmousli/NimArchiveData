@@ -9910,5 +9910,12 @@
         "url": "https://github.com/johnnovak/nim-osdialog",
         "license": "WTFPL",
         "added_at": 1780436061
+    },
+    "kview": {
+        "id": "kview",
+        "type": "git",
+        "url": "https://github.com/planety/kview",
+        "license": "BSD-3-Clause",
+        "added_at": 1780436073
     }
 }
