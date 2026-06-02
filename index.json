@@ -10253,5 +10253,12 @@
         "url": "https://github.com/ThomasTJdev/choosenim_gui",
         "license": "MIT",
         "added_at": 1780437116
+    },
+    "hsluv": {
+        "id": "hsluv",
+        "type": "git",
+        "url": "https://github.com/isthisnagee/hsluv-nim",
+        "license": "MIT",
+        "added_at": 1780437124
     }
 }
