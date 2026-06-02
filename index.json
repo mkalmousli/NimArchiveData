@@ -10624,5 +10624,12 @@
         "url": "https://gitlab.com/eagledot/nim-webrtcvad",
         "license": "MIT",
         "added_at": 1780438144
+    },
+    "gradient": {
+        "id": "gradient",
+        "type": "git",
+        "url": "https://github.com/luminosoda/gradient",
+        "license": "MIT",
+        "added_at": 1780438151
     }
 }
