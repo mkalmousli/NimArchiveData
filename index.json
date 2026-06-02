@@ -10736,5 +10736,12 @@
         "url": "https://gitlab.com/eagledot/nim-deepspeech",
         "license": "MIT",
         "added_at": 1780438276
+    },
+    "opusenc": {
+        "id": "opusenc",
+        "type": "git",
+        "url": "https://git.sr.ht/~ehmry/nim_opusenc",
+        "license": "BSD-3-Clause",
+        "added_at": 1780438289
     }
 }
