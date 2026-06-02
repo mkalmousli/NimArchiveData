@@ -10743,5 +10743,12 @@
         "url": "https://git.sr.ht/~ehmry/nim_opusenc",
         "license": "BSD-3-Clause",
         "added_at": 1780438289
+    },
+    "nimtetris": {
+        "id": "nimtetris",
+        "type": "git",
+        "url": "https://github.com/jiro4989/nimtetris",
+        "license": "MIT",
+        "added_at": 1780438302
     }
 }
