@@ -10596,5 +10596,12 @@
         "url": "https://github.com/JohnAD/jestergeoip",
         "license": "MIT",
         "added_at": 1780438100
+    },
+    "qeu": {
+        "id": "qeu",
+        "type": "git",
+        "url": "https://github.com/hyu1996/qeu",
+        "license": "MIT",
+        "added_at": 1780438109
     }
 }
