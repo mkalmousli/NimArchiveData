@@ -10820,5 +10820,12 @@
         "url": "https://github.com/liquid600pgm/aglet",
         "license": "MIT",
         "added_at": 1780438559
+    },
+    "nimcmaes": {
+        "id": "nimcmaes",
+        "type": "git",
+        "url": "https://github.com/zevv/nimcmaes",
+        "license": "Apache-2.0",
+        "added_at": 1780438603
     }
 }
