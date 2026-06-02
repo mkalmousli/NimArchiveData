@@ -10659,5 +10659,12 @@
         "url": "https://github.com/jasonprogrammer/gerbil",
         "license": "MIT",
         "added_at": 1780438180
+    },
+    "vaultclient": {
+        "id": "vaultclient",
+        "type": "git",
+        "url": "https://github.com/jackhftang/vaultclient.nim",
+        "license": "MIT",
+        "added_at": 1780438196
     }
 }
