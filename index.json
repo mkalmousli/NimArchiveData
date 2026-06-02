@@ -10106,5 +10106,12 @@
         "url": "https://github.com/MnlPhlp/pomTimer",
         "license": "MIT",
         "added_at": 1780436757
+    },
+    "alut": {
+        "id": "alut",
+        "type": "git",
+        "url": "https://github.com/rmt/alut",
+        "license": "LGPL-2.1",
+        "added_at": 1780436762
     }
 }
