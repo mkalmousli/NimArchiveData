@@ -10666,5 +10666,12 @@
         "url": "https://github.com/jackhftang/vaultclient.nim",
         "license": "MIT",
         "added_at": 1780438196
+    },
+    "hashlib": {
+        "id": "hashlib",
+        "type": "git",
+        "url": "https://github.com/khchen/hashlib",
+        "license": "MIT",
+        "added_at": 1780438206
     }
 }
