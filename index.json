@@ -10449,5 +10449,12 @@
         "url": "https://github.com/sealmove/LZ77",
         "license": "MIT",
         "added_at": 1780437457
+    },
+    "stalinsort": {
+        "id": "stalinsort",
+        "type": "git",
+        "url": "https://github.com/tonogram/stalinsort",
+        "license": "CC0-1.0",
+        "added_at": 1780437463
     }
 }
