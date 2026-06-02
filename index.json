@@ -9945,5 +9945,12 @@
         "url": "https://github.com/tormund/nimwebp",
         "license": "MIT",
         "added_at": 1780436105
+    },
+    "svgo": {
+        "id": "svgo",
+        "type": "git",
+        "url": "https://github.com/jiro4989/svgo",
+        "license": "MIT",
+        "added_at": 1780436113
     }
 }
