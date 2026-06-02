@@ -10687,5 +10687,12 @@
         "url": "https://github.com/ba0f3/vmprotect.nim",
         "license": "MIT",
         "added_at": 1780438222
+    },
+    "nimaterial": {
+        "id": "nimaterial",
+        "type": "git",
+        "url": "https://github.com/momeemt/nimaterial",
+        "license": "MIT",
+        "added_at": 1780438233
     }
 }
