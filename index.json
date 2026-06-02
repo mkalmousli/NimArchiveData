@@ -9938,5 +9938,12 @@
         "url": "https://github.com/sigmapie8/luhny",
         "license": "MIT",
         "added_at": 1780436099
+    },
+    "nimwebp": {
+        "id": "nimwebp",
+        "type": "git",
+        "url": "https://github.com/tormund/nimwebp",
+        "license": "MIT",
+        "added_at": 1780436105
     }
 }
