@@ -10785,5 +10785,12 @@
         "url": "https://github.com/bung87/stage",
         "license": "MIT",
         "added_at": 1780438394
+    },
+    "flickr_image_bot": {
+        "id": "flickr_image_bot",
+        "type": "git",
+        "url": "https://github.com/snus-kin/flickr-image-bot",
+        "license": "GPL-3.0",
+        "added_at": 1780438407
     }
 }
