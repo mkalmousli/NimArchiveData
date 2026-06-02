@@ -10050,5 +10050,12 @@
         "url": "https://github.com/zevv/nmqtt",
         "license": "MIT",
         "added_at": 1780436638
+    },
+    "sss": {
+        "id": "sss",
+        "type": "git",
+        "url": "https://github.com/markspanbroek/sss.nim",
+        "license": "MIT",
+        "added_at": 1780436662
     }
 }
