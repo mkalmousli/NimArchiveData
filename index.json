@@ -10757,5 +10757,12 @@
         "url": "https://github.com/exelotl/natu",
         "license": "zlib",
         "added_at": 1780438337
+    },
+    "fision": {
+        "id": "fision",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/fision",
+        "license": "MIT",
+        "added_at": 1780438364
     }
 }
