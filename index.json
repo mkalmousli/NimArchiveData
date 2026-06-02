@@ -9903,5 +9903,12 @@
         "url": "https://github.com/ethosa/badgemaker",
         "license": "AGPLv3",
         "added_at": 1780436054
+    },
+    "osdialog": {
+        "id": "osdialog",
+        "type": "git",
+        "url": "https://github.com/johnnovak/nim-osdialog",
+        "license": "WTFPL",
+        "added_at": 1780436061
     }
 }
