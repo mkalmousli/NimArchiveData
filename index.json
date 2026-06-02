@@ -10568,5 +10568,12 @@
         "url": "https://github.com/JohnAD/jesterwithplugins/",
         "license": "MIT",
         "added_at": 1780438037
+    },
+    "jesterjson": {
+        "id": "jesterjson",
+        "type": "git",
+        "url": "https://github.com/JohnAD/jesterjson",
+        "license": "MIT",
+        "added_at": 1780438072
     }
 }
