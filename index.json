@@ -10806,5 +10806,12 @@
         "url": "https://github.com/treeform/flatty",
         "license": "MIT",
         "added_at": 1780438421
+    },
+    "supersnappy": {
+        "id": "supersnappy",
+        "type": "git",
+        "url": "https://github.com/guzba/supersnappy",
+        "license": "MIT",
+        "added_at": 1780438466
     }
 }
