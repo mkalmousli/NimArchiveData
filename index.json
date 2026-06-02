@@ -10316,5 +10316,12 @@
         "url": "https://github.com/olliNiinivaara/StashTable",
         "license": "MIT",
         "added_at": 1780437215
+    },
+    "dimscord": {
+        "id": "dimscord",
+        "type": "git",
+        "url": "https://github.com/krisppurg/dimscord",
+        "license": "MIT",
+        "added_at": 1780437232
     }
 }
