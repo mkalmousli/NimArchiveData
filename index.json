@@ -9980,5 +9980,12 @@
         "url": "https://github.com/paul-nameless/nim-fswatch",
         "license": "MIT",
         "added_at": 1780436154
+    },
+    "zfcore": {
+        "id": "zfcore",
+        "type": "git",
+        "url": "https://github.com/zendbit/nim_zfcore",
+        "license": "BSD",
+        "added_at": 1780436160
     }
 }
