@@ -10288,5 +10288,12 @@
         "url": "https://github.com/exelotl/trick",
         "license": "zlib",
         "added_at": 1780437176
+    },
+    "nimQBittorrent": {
+        "id": "nimQBittorrent",
+        "type": "git",
+        "url": "https://github.com/faulander/nimQBittorrent",
+        "license": "MIT",
+        "added_at": 1780437206
     }
 }
