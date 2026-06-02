@@ -10491,5 +10491,12 @@
         "url": "https://github.com/bung87/buffer",
         "license": "MIT",
         "added_at": 1780437515
+    },
+    "notification": {
+        "id": "notification",
+        "type": "git",
+        "url": "https://github.com/SolitudeSF/notification",
+        "license": "MIT",
+        "added_at": 1780437520
     }
 }
