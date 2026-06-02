@@ -10232,5 +10232,12 @@
         "url": "https://github.com/juancarlospaco/ballena-itcher",
         "license": "MIT",
         "added_at": 1780437097
+    },
+    "parselicense": {
+        "id": "parselicense",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/parselicense",
+        "license": "MIT",
+        "added_at": 1780437104
     }
 }
