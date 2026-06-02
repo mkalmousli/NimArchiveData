@@ -9966,5 +9966,12 @@
         "url": "https://github.com/paul-nameless/nimbler",
         "license": "MIT",
         "added_at": 1780436136
+    },
+    "plugins": {
+        "id": "plugins",
+        "type": "git",
+        "url": "https://github.com/genotrance/plugins",
+        "license": "MIT",
+        "added_at": 1780436142
     }
 }
