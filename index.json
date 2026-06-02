@@ -10043,5 +10043,12 @@
         "url": "https://github.com/BarrOff/roots",
         "license": "MIT",
         "added_at": 1780436615
+    },
+    "nmqtt": {
+        "id": "nmqtt",
+        "type": "git",
+        "url": "https://github.com/zevv/nmqtt",
+        "license": "MIT",
+        "added_at": 1780436638
     }
 }
