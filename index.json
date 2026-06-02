@@ -10582,5 +10582,12 @@
         "url": "https://github.com/JohnAD/jestercookiemsgs",
         "license": "MIT",
         "added_at": 1780438081
+    },
+    "jestermongopool": {
+        "id": "jestermongopool",
+        "type": "git",
+        "url": "https://github.com/JohnAD/jestermongopool",
+        "license": "MIT",
+        "added_at": 1780438090
     }
 }
