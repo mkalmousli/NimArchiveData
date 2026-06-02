@@ -10239,5 +10239,12 @@
         "url": "https://github.com/juancarlospaco/parselicense",
         "license": "MIT",
         "added_at": 1780437104
+    },
+    "darwin": {
+        "id": "darwin",
+        "type": "git",
+        "url": "https://github.com/yglukhov/darwin",
+        "license": "MIT",
+        "added_at": 1780437110
     }
 }
