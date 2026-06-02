@@ -10771,5 +10771,12 @@
         "url": "https://github.com/KingDarBoja/Iridium",
         "license": "MIT",
         "added_at": 1780438370
+    },
+    "nim_searches": {
+        "id": "nim_searches",
+        "type": "git",
+        "url": "https://github.com/nnahito/nim_searched",
+        "license": "MIT",
+        "added_at": 1780438388
     }
 }
