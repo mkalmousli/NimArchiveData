@@ -10764,5 +10764,12 @@
         "url": "https://github.com/juancarlospaco/fision",
         "license": "MIT",
         "added_at": 1780438364
+    },
+    "iridium": {
+        "id": "iridium",
+        "type": "git",
+        "url": "https://github.com/KingDarBoja/Iridium",
+        "license": "MIT",
+        "added_at": 1780438370
     }
 }
