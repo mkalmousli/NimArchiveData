@@ -10274,5 +10274,12 @@
         "url": "https://github.com/rockcavera/nim-iputils",
         "license": "MIT",
         "added_at": 1780437154
+    },
+    "strenc": {
+        "id": "strenc",
+        "type": "git",
+        "url": "https://github.com/nim-meta/strenc",
+        "license": "MIT",
+        "added_at": 1780437167
     }
 }
