@@ -10603,5 +10603,12 @@
         "url": "https://github.com/hyu1996/qeu",
         "license": "MIT",
         "added_at": 1780438109
+    },
+    "mccache": {
+        "id": "mccache",
+        "type": "git",
+        "url": "https://github.com/abbeymart/mccache-nim",
+        "license": "MIT",
+        "added_at": 1780438111
     }
 }
