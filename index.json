@@ -10183,5 +10183,12 @@
         "url": "https://github.com/vitreo12/omnimax",
         "license": "MIT",
         "added_at": 1780436989
+    },
+    "omnicollider": {
+        "id": "omnicollider",
+        "type": "git",
+        "url": "https://github.com/vitreo12/omnicollider",
+        "license": "MIT",
+        "added_at": 1780437010
     }
 }
