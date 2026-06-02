@@ -9987,5 +9987,12 @@
         "url": "https://github.com/zendbit/nim_zfcore",
         "license": "BSD",
         "added_at": 1780436160
+    },
+    "nimpress": {
+        "id": "nimpress",
+        "type": "git",
+        "url": "https://github.com/mpinese/nimpress",
+        "license": "MIT",
+        "added_at": 1780436278
     }
 }
