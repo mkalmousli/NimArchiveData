@@ -10085,5 +10085,12 @@
         "url": "https://github.com/ThomasTJdev/nim_eloverblik_api",
         "license": "MIT",
         "added_at": 1780436710
+    },
+    "nimbug": {
+        "id": "nimbug",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/nimbug",
+        "license": "MIT",
+        "added_at": 1780436731
     }
 }
