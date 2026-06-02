@@ -9924,5 +9924,12 @@
         "url": "https://github.com/beshrkayali/loki",
         "license": "Zlib",
         "added_at": 1780436083
+    },
+    "yukiko": {
+        "id": "yukiko",
+        "type": "git",
+        "url": "https://github.com/ethosa/yukiko",
+        "license": "AGPLv3",
+        "added_at": 1780436098
     }
 }
