@@ -9917,5 +9917,12 @@
         "url": "https://github.com/planety/kview",
         "license": "BSD-3-Clause",
         "added_at": 1780436073
+    },
+    "loki": {
+        "id": "loki",
+        "type": "git",
+        "url": "https://github.com/beshrkayali/loki",
+        "license": "Zlib",
+        "added_at": 1780436083
     }
 }
