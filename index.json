@@ -10029,5 +10029,12 @@
         "url": "https://github.com/paranim/paravim",
         "license": "Public Domain",
         "added_at": 1780436422
+    },
+    "akane": {
+        "id": "akane",
+        "type": "git",
+        "url": "https://github.com/ethosa/akane",
+        "license": "MIT",
+        "added_at": 1780436590
     }
 }
