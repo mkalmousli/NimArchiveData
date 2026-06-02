@@ -10092,5 +10092,12 @@
         "url": "https://github.com/juancarlospaco/nimbug",
         "license": "MIT",
         "added_at": 1780436731
+    },
+    "nordnet": {
+        "id": "nordnet",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/nim_nordnet_api",
+        "license": "MIT",
+        "added_at": 1780436739
     }
 }
