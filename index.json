@@ -10120,5 +10120,12 @@
         "url": "https://github.com/jiro4989/rena",
         "license": "MIT",
         "added_at": 1780436767
+    },
+    "libvlc": {
+        "id": "libvlc",
+        "type": "git",
+        "url": "https://github.com/nimbackup/nim-libvlc",
+        "license": "MIT",
+        "added_at": 1780436777
     }
 }
