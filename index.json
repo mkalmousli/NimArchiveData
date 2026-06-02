@@ -10008,5 +10008,12 @@
         "url": "https://github.com/moigagoo/norman",
         "license": "MIT",
         "added_at": 1780436297
+    },
+    "nimfm": {
+        "id": "nimfm",
+        "type": "git",
+        "url": "https://github.com/neonnnnn/nimfm",
+        "license": "MIT",
+        "added_at": 1780436328
     }
 }
