@@ -10799,5 +10799,12 @@
         "url": "https://github.com/ba0f3/libnetfilter_queue.nim",
         "license": "MIT",
         "added_at": 1780438413
+    },
+    "flatty": {
+        "id": "flatty",
+        "type": "git",
+        "url": "https://github.com/treeform/flatty",
+        "license": "MIT",
+        "added_at": 1780438421
     }
 }
