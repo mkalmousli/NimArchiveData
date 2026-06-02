@@ -10176,5 +10176,12 @@
         "url": "https://github.com/juancarlospaco/xpm",
         "license": "MIT",
         "added_at": 1780436984
+    },
+    "omnimax": {
+        "id": "omnimax",
+        "type": "git",
+        "url": "https://github.com/vitreo12/omnimax",
+        "license": "MIT",
+        "added_at": 1780436989
     }
 }
