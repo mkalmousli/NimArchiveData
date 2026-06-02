@@ -10162,5 +10162,12 @@
         "url": "https://github.com/mfiano/origin.nim",
         "license": "MIT",
         "added_at": 1780436959
+    },
+    "webgui": {
+        "id": "webgui",
+        "type": "git",
+        "url": "https://github.com/juancarlospaco/webgui",
+        "license": "MIT",
+        "added_at": 1780436960
     }
 }
