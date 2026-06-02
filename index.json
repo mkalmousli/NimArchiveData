@@ -10435,5 +10435,12 @@
         "url": "https://github.com/bung87/datetime_parse",
         "license": "MIT",
         "added_at": 1780437437
+    },
+    "halonium": {
+        "id": "halonium",
+        "type": "git",
+        "url": "https://github.com/halonium/halonium",
+        "license": "MIT",
+        "added_at": 1780437442
     }
 }
