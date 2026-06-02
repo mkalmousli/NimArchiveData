@@ -10078,5 +10078,12 @@
         "url": "https://github.com/markspanbroek/mnemonic",
         "license": "MIT",
         "added_at": 1780436695
+    },
+    "eloverblik": {
+        "id": "eloverblik",
+        "type": "git",
+        "url": "https://github.com/ThomasTJdev/nim_eloverblik_api",
+        "license": "MIT",
+        "added_at": 1780436710
     }
 }
