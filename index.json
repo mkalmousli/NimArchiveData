@@ -10148,5 +10148,12 @@
         "url": "https://github.com/c-blake/adix",
         "license": "MIT",
         "added_at": 1780436834
+    },
+    "nimoji": {
+        "id": "nimoji",
+        "type": "git",
+        "url": "https://github.com/pietroppeter/nimoji",
+        "license": "MIT",
+        "added_at": 1780436941
     }
 }
