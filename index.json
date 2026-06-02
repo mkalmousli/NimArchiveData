@@ -9994,5 +9994,12 @@
         "url": "https://github.com/mpinese/nimpress",
         "license": "MIT",
         "added_at": 1780436278
+    },
+    "weightedgraph": {
+        "id": "weightedgraph",
+        "type": "git",
+        "url": "https://github.com/AzamShafiul/weighted_graph",
+        "license": "MIT",
+        "added_at": 1780436292
     }
 }
