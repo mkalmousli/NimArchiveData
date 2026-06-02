@@ -9931,5 +9931,12 @@
         "url": "https://github.com/ethosa/yukiko",
         "license": "AGPLv3",
         "added_at": 1780436098
+    },
+    "luhny": {
+        "id": "luhny",
+        "type": "git",
+        "url": "https://github.com/sigmapie8/luhny",
+        "license": "MIT",
+        "added_at": 1780436099
     }
 }
