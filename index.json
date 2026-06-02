@@ -10141,5 +10141,12 @@
         "url": "https://github.com/ethosa/nimage",
         "license": "MIT",
         "added_at": 1780436829
+    },
+    "adix": {
+        "id": "adix",
+        "type": "git",
+        "url": "https://github.com/c-blake/adix",
+        "license": "MIT",
+        "added_at": 1780436834
     }
 }
