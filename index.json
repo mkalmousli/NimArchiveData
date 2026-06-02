@@ -10652,5 +10652,12 @@
         "url": "https://github.com/dizzyliam/inumon",
         "license": "MPL 2.0",
         "added_at": 1780438178
+    },
+    "gerbil": {
+        "id": "gerbil",
+        "type": "git",
+        "url": "https://github.com/jasonprogrammer/gerbil",
+        "license": "MIT",
+        "added_at": 1780438180
     }
 }
