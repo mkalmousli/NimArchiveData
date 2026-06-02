@@ -9952,5 +9952,12 @@
         "url": "https://github.com/jiro4989/svgo",
         "license": "MIT",
         "added_at": 1780436113
+    },
+    "winserial": {
+        "id": "winserial",
+        "type": "git",
+        "url": "https://github.com/bunkford/winserial",
+        "license": "MIT",
+        "added_at": 1780436131
     }
 }
