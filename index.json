@@ -9973,5 +9973,12 @@
         "url": "https://github.com/genotrance/plugins",
         "license": "MIT",
         "added_at": 1780436142
+    },
+    "libfswatch": {
+        "id": "libfswatch",
+        "type": "git",
+        "url": "https://github.com/paul-nameless/nim-fswatch",
+        "license": "MIT",
+        "added_at": 1780436154
     }
 }
