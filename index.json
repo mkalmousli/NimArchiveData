@@ -10694,5 +10694,12 @@
         "url": "https://github.com/momeemt/nimaterial",
         "license": "MIT",
         "added_at": 1780438233
+    },
+    "naw": {
+        "id": "naw",
+        "type": "git",
+        "url": "https://github.com/capocasa/naw",
+        "license": "MIT",
+        "added_at": 1780438242
     }
 }
