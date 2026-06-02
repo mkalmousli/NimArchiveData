@@ -10554,5 +10554,12 @@
         "url": "https://github.com/jackhftang/taskqueue.nim",
         "license": "MIT",
         "added_at": 1780438003
+    },
+    "threadproxy": {
+        "id": "threadproxy",
+        "type": "git",
+        "url": "https://github.com/jackhftang/threadproxy.nim",
+        "license": "MIT",
+        "added_at": 1780438013
     }
 }
