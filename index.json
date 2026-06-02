@@ -10589,5 +10589,12 @@
         "url": "https://github.com/JohnAD/jestermongopool",
         "license": "MIT",
         "added_at": 1780438090
+    },
+    "jestergeoip": {
+        "id": "jestergeoip",
+        "type": "git",
+        "url": "https://github.com/JohnAD/jestergeoip",
+        "license": "MIT",
+        "added_at": 1780438100
     }
 }
