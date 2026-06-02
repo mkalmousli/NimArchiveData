@@ -10197,5 +10197,12 @@
         "url": "https://github.com/vitreo12/omni",
         "license": "MIT",
         "added_at": 1780437033
+    },
+    "mui": {
+        "id": "mui",
+        "type": "git",
+        "url": "https://github.com/angluca/mui",
+        "license": "MIT",
+        "added_at": 1780437066
     }
 }
