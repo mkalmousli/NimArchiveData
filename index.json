@@ -10561,5 +10561,12 @@
         "url": "https://github.com/jackhftang/threadproxy.nim",
         "license": "MIT",
         "added_at": 1780438013
+    },
+    "jesterwithplugins": {
+        "id": "jesterwithplugins",
+        "type": "git",
+        "url": "https://github.com/JohnAD/jesterwithplugins/",
+        "license": "MIT",
+        "added_at": 1780438037
     }
 }
