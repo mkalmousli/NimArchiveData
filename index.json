@@ -10015,5 +10015,12 @@
         "url": "https://github.com/neonnnnn/nimfm",
         "license": "MIT",
         "added_at": 1780436328
+    },
+    "zfblast": {
+        "id": "zfblast",
+        "type": "git",
+        "url": "https://github.com/zendbit/nim_zfblast",
+        "license": "BSD",
+        "added_at": 1780436341
     }
 }
