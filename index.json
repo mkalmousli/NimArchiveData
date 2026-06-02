@@ -10484,5 +10484,12 @@
         "url": "https://github.com/xzeshen/bio",
         "license": "Apache-2.0",
         "added_at": 1780437508
+    },
+    "buffer": {
+        "id": "buffer",
+        "type": "git",
+        "url": "https://github.com/bung87/buffer",
+        "license": "MIT",
+        "added_at": 1780437515
     }
 }
