@@ -10036,5 +10036,12 @@
         "url": "https://github.com/ethosa/akane",
         "license": "MIT",
         "added_at": 1780436590
+    },
+    "roots": {
+        "id": "roots",
+        "type": "git",
+        "url": "https://github.com/BarrOff/roots",
+        "license": "MIT",
+        "added_at": 1780436615
     }
 }
