@@ -10701,5 +10701,12 @@
         "url": "https://github.com/capocasa/naw",
         "license": "MIT",
         "added_at": 1780438242
+    },
+    "opus": {
+        "id": "opus",
+        "type": "git",
+        "url": "https://github.com/capocasa/nim-opus",
+        "license": "MIT",
+        "added_at": 1780438248
     }
 }
