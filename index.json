@@ -10708,5 +10708,12 @@
         "url": "https://github.com/capocasa/nim-opus",
         "license": "MIT",
         "added_at": 1780438248
+    },
+    "nestegg": {
+        "id": "nestegg",
+        "type": "git",
+        "url": "https://github.com/capocasa/nim-nestegg",
+        "license": "MIT",
+        "added_at": 1780438255
     }
 }
