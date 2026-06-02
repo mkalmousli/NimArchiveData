@@ -10134,5 +10134,12 @@
         "url": "https://njoseph.me/gitweb/nimcoon.git",
         "license": "GPL-3.0",
         "added_at": 1780436782
+    },
+    "nimage": {
+        "id": "nimage",
+        "type": "git",
+        "url": "https://github.com/ethosa/nimage",
+        "license": "MIT",
+        "added_at": 1780436829
     }
 }
