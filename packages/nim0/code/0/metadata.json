@@ -1,9 +1,9 @@
 {
-    "checksum": "534e64214435f49bffa4cbf41e1ee96adb64afccbc80484c3abfc22866a31b4b",
+    "checksum": "17ab18f6f20fc4033acc06b3bcc06cfc0c2107e88a2d5a93a1cc97e6ce4b3d9d",
     "commit": "90aece0274f3919fbaa39c4e3cd744edd902f146",
     "source_hash": "080ed6632411e32de33e9c24de80560132253276",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780470056,
+    "archived_at": 1780488023,
     "archive_name": "nim0-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
