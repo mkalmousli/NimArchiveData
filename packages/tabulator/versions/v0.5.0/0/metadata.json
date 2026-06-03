@@ -1,9 +1,9 @@
 {
-    "checksum": "3b7781535838a97cb402d177a6f0b16af9b6d4a98bb0c43aae5555316ab0ae05",
+    "checksum": "65e4a8d5eb14c021ba777ebd041b5dda886007ace8ab1cc7c8ebeecaa52cc6b4",
     "commit": "06d3402e83ff1e38d8f47a95dd38a8f63fed6e1c",
     "source_hash": "0369668615a9efeaf1c83f3421f9134aff8579ad",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780468576,
+    "archived_at": 1780486520,
     "archive_name": "tabulator-v0.5.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
