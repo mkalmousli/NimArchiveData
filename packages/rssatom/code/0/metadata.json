@@ -1,9 +1,9 @@
 {
-    "checksum": "d452806c87c89c0af4864166e9d7bc73d676bd5386b869d6c742682cc172f1a6",
+    "checksum": "5f6a7c4dc00efdff274cabc8bc25eb39cd2926e3d85adafd4516b44178134db8",
     "commit": "272d5d67793980c2be8ec0dfec31552f5f5abb3e",
     "source_hash": "facde61faf02c851851023c8437f077b4ba5acc9",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780505276,
+    "archived_at": 1780521595,
     "archive_name": "rssatom-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
