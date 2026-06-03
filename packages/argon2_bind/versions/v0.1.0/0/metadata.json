@@ -1,9 +1,9 @@
 {
-    "checksum": "21d86f5f4017d5e335f8e278951fa7e7de928863dd88a5cad62ad3c0ce2a8980",
+    "checksum": "c5495a8638199fa678f26844f74153cea6808662e6a5de1b6fdcd5e69b56cbc5",
     "commit": "ca02a613c91c6dd739a24033043d2c656aad20b9",
     "source_hash": "2c9e5db4847684576a8986776246ecbe68fcf622",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778776541,
+    "archived_at": 1780488469,
     "archive_name": "argon2_bind-v0.1.0.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
