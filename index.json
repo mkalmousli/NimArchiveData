@@ -810,5 +810,12 @@
         "url": "https://github.com/YesDrX/randgen",
         "license": "MIT",
         "added_at": 1780488431
+    },
+    "numnim": {
+        "id": "numnim",
+        "type": "git",
+        "url": "https://github.com/YesDrX/numnim",
+        "license": "MIT",
+        "added_at": 1780488438
     }
 }
