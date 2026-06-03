@@ -1,9 +1,9 @@
 {
-    "checksum": "6fe06c8cc5c4f41687ac76717187183b3e10c83be0f44a01b6362c04afbf1cbf",
+    "checksum": "f43fca6bc7583190bd67aa5fd0246c6feb28d64c6f8375ee4ceafadcdbf03f1e",
     "commit": "cff994d2667640d197022dd29243aa6d365b353b",
     "source_hash": "7b81a10a6c4bbe0cb86c114ddadd55d28befa643",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780434312,
+    "archived_at": 1780447160,
     "archive_name": "owasp_encoder-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
