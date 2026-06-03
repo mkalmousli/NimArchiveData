@@ -1,9 +1,9 @@
 {
-    "checksum": "698d78b7797569bbf543d5569515b2c3bf95d819c1ce2af3ae629bda9bca87dd",
+    "checksum": "3766615a4537ce7ac817d26d55d405edab9404a6685b2e17da667ecb03fedb2c",
     "commit": "a9b152eb7419c14ddc55dda752a9c34b356e44c0",
     "source_hash": "b429a58bb722e6c10ba7d05e6908be0146a2d8fa",
     "source_hash_kind": "git_tree",
-    "archived_at": 1778777342,
+    "archived_at": 1780489048,
     "archive_name": "glfw-v3.3.0.1.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
