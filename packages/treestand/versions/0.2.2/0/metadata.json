@@ -1,9 +1,9 @@
 {
-    "checksum": "1a46b07e6acd8528cc185964041b5a25208b2bc13a84bb261c7daa1522b054db",
+    "checksum": "55451026e1c09321d4026c89cbff92aa6522540e919f3d30cd54312cf9ab0322",
     "commit": "5417aa31192b351bdaac72102e77043208d367d9",
     "source_hash": "0b4bc8223b1122cc828a806d7c967b4a223e2a1d",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780446865,
+    "archived_at": 1780468601,
     "archive_name": "treestand-0.2.2.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
