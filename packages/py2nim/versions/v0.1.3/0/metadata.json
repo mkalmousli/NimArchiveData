@@ -1,9 +1,9 @@
 {
-    "checksum": "6f140f7499611d88d30a514688dc104ba5ceba28ce1a10dfd6b8017c15a7e568",
+    "checksum": "8d032c7a7b974999635e38e529e4543653c88297752ca7ade770edc4c4fcbe14",
     "commit": "0edfd361f36b365baee306deac940cf94aa2414d",
     "source_hash": "0316792cc74933c6a2cf54de4eb40566fd2da0d6",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780435624,
+    "archived_at": 1780449057,
     "archive_name": "py2nim-v0.1.3.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
