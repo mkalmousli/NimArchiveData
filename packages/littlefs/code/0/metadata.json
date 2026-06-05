@@ -1,9 +1,9 @@
 {
-    "checksum": "a5254abb8f3b9cab865966c82454ecd4324a91114e82873af72532f0f2374809",
+    "checksum": "c78bf5d40d58ae784f791ad7d85488127a8b2288123c65e2c00bb594ff9ef2d4",
     "commit": "164eb9834785fc60d8fce3ddc79695e2e7575df3",
     "source_hash": "f73a79fd2b0e50db438f9319e65e5b367af67d76",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780642217,
+    "archived_at": 1780658207,
     "archive_name": "littlefs-latest.tar.gz",
     "readme": "README.md"
 }
