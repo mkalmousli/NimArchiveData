@@ -1,9 +1,9 @@
 {
-    "checksum": "bc255aaff6b8ea314af017ccd0ebb7e852ec077ea73769554301758afeb6116f",
+    "checksum": "d763d46427566e194bcd9137592a196b3a276cb257064b475159b0a60df91e65",
     "commit": "ba0da306451b71c16675c31290def33a4e7185da",
     "source_hash": "9df7a551ed660e0d8fec91a1040abc440dfacb43",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780675434,
+    "archived_at": 1780691897,
     "archive_name": "nimproto3-0.6.6.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
