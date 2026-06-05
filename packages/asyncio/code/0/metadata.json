@@ -1,9 +1,9 @@
 {
-    "checksum": "bafcbeb021b0bfd80984c0312d88de43b478ea27fe3479a609b607d93d33391f",
+    "checksum": "0902d2532021ab57d0d40847f1583d68b150a49846737df63941fdf311c290b3",
     "commit": "ae7cacca2aa0d268510f4e16d621ad186f565f18",
     "source_hash": "389cb5fbeb9676051fe99d4241c023174f9d4d67",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780619776,
+    "archived_at": 1780641818,
     "archive_name": "asyncio-latest.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
