@@ -1,9 +1,9 @@
 {
-    "checksum": "e056ad3253c1ef30669ce6fbd5072fd2f261609d267e32887390f9b32af51e20",
+    "checksum": "46f9b40e0f9b28a89de2f7cfe6ef91ae57f73522417102fe94ed7a6abc70690f",
     "commit": "5bd0bb7871a68f1f1a8f5b996f400690d8927373",
     "source_hash": "49682e1e637e466c013d3681c39caddb77b8f378",
     "source_hash_kind": "git_tree",
-    "archived_at": 1780641749,
+    "archived_at": 1780657896,
     "archive_name": "asyncproc-v0.4.4.tar.gz",
     "readme": "README.md",
     "license": "LICENSE.md"
